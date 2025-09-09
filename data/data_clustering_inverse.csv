@@ -1,0 +1,2292 @@
+TransactionAmount,TransactionType,Location,Channel,CustomerOccupation,TransactionDuration,LoginAttempts,AgeBin,AccountBalanceBin,Target
+14.090000000000003,Debit,San Diego,ATM,Doctor,81.0,1.0,2.0,0.0,0
+376.24,Debit,Houston,ATM,Doctor,141.0,1.0,2.0,2.0,6
+126.29000000000002,Debit,Mesa,Online,Student,56.0,1.0,1.0,1.0,3
+184.5,Debit,Raleigh,Online,Student,25.0,1.0,1.0,2.0,3
+92.15,Debit,Oklahoma City,ATM,Student,172.0,1.0,1.0,1.0,3
+7.0800000000000125,Credit,Seattle,ATM,Doctor,139.0,1.0,0.0,2.0,1
+171.42,Credit,Indianapolis,Branch,Retired,291.0,1.0,2.0,0.0,5
+106.23000000000002,Credit,Detroit,Branch,Engineer,86.0,1.0,2.0,2.0,6
+815.96,Debit,Nashville,ATM,Doctor,120.0,1.0,2.0,1.0,6
+17.78000000000003,Credit,Albuquerque,Online,Engineer,59.0,1.0,2.0,0.0,5
+190.02,Debit,Memphis,Online,Student,173.0,1.0,1.0,1.0,3
+494.52,Credit,Mesa,Branch,Student,111.0,1.0,1.0,1.0,5
+781.76,Debit,Memphis,ATM,Student,123.0,1.0,1.0,1.0,3
+166.99,Debit,Louisville,Online,Student,134.0,1.0,1.0,1.0,3
+465.45,Debit,Denver,ATM,Engineer,129.0,1.0,0.0,0.0,4
+555.8,Credit,Austin,Branch,Student,158.0,1.0,1.0,1.0,5
+492.93,Debit,Columbus,Online,Engineer,234.0,1.0,0.0,0.0,4
+18.680000000000007,Credit,Albuquerque,Branch,Retired,106.0,1.0,2.0,0.0,5
+71.48000000000002,Credit,Columbus,Online,Student,169.0,1.0,1.0,0.0,5
+59.31999999999999,Debit,Los Angeles,Branch,Retired,38.0,1.0,2.0,0.0,0
+85.76999999999998,Debit,Las Vegas,Branch,Doctor,93.0,1.0,0.0,2.0,1
+52.19999999999999,Debit,Atlanta,Online,Engineer,120.0,1.0,0.0,2.0,1
+345.84,Debit,Fort Worth,Online,Student,142.0,3.0,1.0,1.0,2
+145.54,Debit,Raleigh,Online,Student,96.0,1.0,1.0,1.0,3
+7.4900000000000375,Credit,Houston,Online,Retired,276.0,1.0,2.0,0.0,5
+246.93,Debit,Miami,ATM,Student,158.0,5.0,1.0,1.0,2
+40.31999999999999,Debit,Milwaukee,Branch,Engineer,95.0,1.0,0.0,0.0,4
+127.44999999999999,Debit,Las Vegas,Online,Doctor,197.0,1.0,0.0,1.0,1
+56.170000000000016,Debit,Detroit,Branch,Student,283.0,1.0,1.0,1.0,3
+28.31000000000003,Credit,Miami,Online,Doctor,20.0,1.0,2.0,2.0,6
+59.120000000000005,Debit,Baltimore,ATM,Doctor,257.0,1.0,1.0,2.0,6
+396.45,Debit,New York,ATM,Engineer,168.0,3.0,0.0,2.0,2
+877.81,Debit,Los Angeles,Online,Student,150.0,1.0,1.0,1.0,3
+255.26,Credit,San Francisco,Branch,Doctor,50.0,1.0,0.0,2.0,1
+124.75999999999999,Debit,Seattle,Branch,Engineer,45.0,1.0,0.0,0.0,4
+78.13,Debit,Milwaukee,Branch,Student,145.0,1.0,1.0,1.0,3
+795.31,Debit,Mesa,ATM,Doctor,90.0,2.0,2.0,0.0,0
+335.63,Debit,Oklahoma City,Online,Retired,216.0,1.0,2.0,1.0,0
+328.47,Debit,San Antonio,ATM,Retired,119.0,1.0,2.0,0.0,0
+34.02000000000004,Debit,Philadelphia,Online,Doctor,19.0,1.0,0.0,2.0,1
+241.42,Credit,Charlotte,Online,Doctor,116.0,1.0,2.0,2.0,6
+55.31999999999999,Debit,Tucson,ATM,Student,117.0,1.0,1.0,1.0,3
+304.31,Debit,Louisville,Branch,Student,33.0,1.0,1.0,1.0,3
+435.27,Debit,Chicago,Branch,Retired,90.0,1.0,2.0,0.0,0
+164.49,Debit,Baltimore,Branch,Student,75.0,1.0,1.0,1.0,3
+510.24,Debit,Oklahoma City,Online,Student,105.0,1.0,1.0,1.0,3
+626.9,Debit,Denver,Online,Student,138.0,1.0,1.0,1.0,3
+22.00999999999999,Credit,Sacramento,Online,Engineer,175.0,1.0,0.0,1.0,5
+425.34,Credit,Kansas City,Online,Retired,121.0,1.0,2.0,0.0,5
+424.56,Debit,Omaha,Online,Engineer,264.0,1.0,2.0,0.0,0
+85.43,Debit,Virginia Beach,Branch,Doctor,145.0,1.0,2.0,2.0,6
+169.5,Debit,San Diego,Branch,Student,142.0,1.0,1.0,1.0,3
+104.63,Debit,Omaha,ATM,Retired,90.0,1.0,2.0,0.0,0
+316.95,Debit,Mesa,Branch,Student,83.0,1.0,1.0,1.0,3
+60.53999999999999,Credit,Columbus,Branch,Retired,52.0,1.0,2.0,0.0,5
+292.56,Credit,Dallas,Branch,Retired,60.99999999999999,1.0,2.0,0.0,5
+386.52,Debit,Indianapolis,Branch,Engineer,28.0,1.0,0.0,0.0,4
+112.07,Debit,Kansas City,Branch,Student,51.0,1.0,1.0,1.0,3
+568.52,Debit,Indianapolis,ATM,Engineer,152.0,1.0,0.0,0.0,4
+263.99,Debit,Dallas,Branch,Retired,227.0,2.0,2.0,0.0,0
+349.64,Debit,Las Vegas,Online,Engineer,226.0,1.0,0.0,0.0,4
+601.4,Credit,Philadelphia,Branch,Engineer,104.0,1.0,2.0,2.0,6
+5.77000000000001,Debit,Charlotte,Online,Doctor,124.0,1.0,0.0,2.0,1
+201.33,Credit,Nashville,Branch,Engineer,186.0,1.0,0.0,0.0,5
+298.42,Debit,Indianapolis,Branch,Retired,225.0,1.0,2.0,0.0,0
+521.06,Debit,Albuquerque,Branch,Student,128.0,1.0,1.0,1.0,3
+117.28,Credit,Austin,Online,Engineer,16.0,1.0,2.0,0.0,5
+189.12,Credit,Indianapolis,nan,Engineer,103.0,1.0,0.0,1.0,5
+133.55,Debit,Atlanta,ATM,Engineer,220.0,1.0,0.0,0.0,4
+143.20999999999998,Debit,Dallas,Online,Engineer,135.0,1.0,0.0,0.0,4
+24.77000000000004,Debit,Boston,ATM,Retired,55.0,1.0,2.0,0.0,0
+233.92,Credit,Jacksonville,Online,Student,280.0,1.0,1.0,0.0,5
+232.12,Debit,nan,ATM,Engineer,51.0,1.0,0.0,0.0,4
+91.53,Debit,Milwaukee,Branch,Doctor,69.0,1.0,0.0,2.0,1
+120.29000000000002,Debit,Miami,Branch,Student,77.0,1.0,1.0,1.0,3
+174.25,Debit,Seattle,Online,Doctor,67.0,1.0,0.0,2.0,1
+183.71,Debit,Denver,ATM,Engineer,102.0,1.0,0.0,1.0,4
+345.39,Credit,Phoenix,nan,Engineer,80.0,1.0,2.0,0.0,5
+259.91,Debit,Denver,Online,Doctor,170.0,1.0,0.0,0.0,4
+154.71,Debit,San Diego,Online,Doctor,157.0,1.0,0.0,1.0,1
+24.560000000000002,Debit,Mesa,Branch,Doctor,69.0,1.0,2.0,2.0,6
+568.07,nan,Washington,ATM,Doctor,115.0,1.0,0.0,2.0,1
+9.610000000000042,Credit,San Diego,Online,Doctor,179.0,1.0,2.0,2.0,6
+392.96,Debit,Kansas City,Online,Student,100.0,1.0,1.0,1.0,3
+716.9300000000001,Credit,Milwaukee,Online,Retired,34.0,1.0,2.0,0.0,5
+223.85,Debit,Kansas City,ATM,Engineer,55.0,4.0,2.0,0.0,2
+230.66,Debit,Houston,Branch,Student,135.0,1.0,1.0,1.0,3
+644.17,Debit,San Antonio,ATM,Engineer,72.0,1.0,1.0,1.0,4
+508.67999999999995,Credit,Mesa,Branch,Engineer,127.0,1.0,2.0,0.0,5
+858.63,Credit,San Francisco,Branch,Student,185.0,1.0,1.0,1.0,5
+25.360000000000014,Debit,Louisville,ATM,Engineer,78.0,1.0,2.0,1.0,0
+147.62,Debit,Charlotte,Branch,Retired,133.0,1.0,2.0,0.0,0
+115.01999999999998,Debit,San Antonio,Branch,Doctor,175.0,1.0,0.0,0.0,4
+383.37,Debit,Fort Worth,Branch,Engineer,24.0,1.0,1.0,2.0,6
+98.54000000000002,Credit,El Paso,Online,Student,167.0,1.0,1.0,2.0,5
+83.24000000000001,nan,Fort Worth,Branch,Doctor,164.0,1.0,2.0,1.0,0
+196.16,Debit,Virginia Beach,Branch,Engineer,146.0,1.0,1.0,2.0,1
+129.94,Debit,Las Vegas,ATM,Engineer,235.0,1.0,0.0,0.0,4
+306.9,Debit,Colorado Springs,Online,Engineer,51.0,1.0,0.0,2.0,1
+114.98000000000002,Debit,Seattle,Online,Retired,80.0,1.0,2.0,0.0,0
+756.59,Debit,Sacramento,Branch,Student,17.0,1.0,1.0,1.0,3
+503.76,Debit,Los Angeles,Online,Student,35.0,1.0,1.0,1.0,3
+143.03,Debit,San Antonio,ATM,Retired,147.0,1.0,2.0,0.0,0
+245.54,nan,New York,ATM,Student,180.0,1.0,1.0,1.0,3
+254.37,Credit,Dallas,Online,Engineer,174.0,1.0,2.0,2.0,6
+213.76,Credit,Dallas,ATM,Retired,282.0,1.0,2.0,0.0,5
+327.86,Debit,Fresno,Online,Engineer,104.0,1.0,0.0,1.0,4
+2.5,Debit,San Diego,Online,Doctor,107.0,1.0,0.0,2.0,1
+300.08,Credit,Austin,Online,Doctor,47.0,1.0,2.0,2.0,6
+56.97999999999999,Credit,Oklahoma City,ATM,Engineer,122.0,2.0,0.0,0.0,4
+407.65,Debit,Boston,Online,Engineer,62.0,1.0,1.0,2.0,6
+115.82999999999998,Debit,Fresno,Branch,Engineer,167.0,1.0,0.0,0.0,4
+53.56999999999999,Debit,Houston,ATM,Retired,121.0,1.0,2.0,1.0,0
+63.34,Credit,Detroit,Online,Doctor,165.0,1.0,0.0,2.0,1
+317.87,Debit,Detroit,Online,Student,91.0,1.0,1.0,1.0,3
+331.65,Debit,Portland,Online,Engineer,60.99999999999999,1.0,0.0,0.0,4
+5.039999999999992,Debit,Washington,ATM,Retired,41.0,1.0,2.0,0.0,0
+214.54,Credit,Detroit,Online,Doctor,247.0,1.0,2.0,2.0,6
+598.81,Debit,Philadelphia,Branch,Doctor,158.0,1.0,2.0,1.0,6
+841.28,Debit,Tucson,Online,Student,80.0,1.0,1.0,1.0,3
+38.150000000000034,Debit,Mesa,Online,Student,108.0,1.0,1.0,1.0,3
+124.72,Debit,Oklahoma City,Branch,Engineer,105.0,1.0,0.0,0.0,4
+302.45,Credit,San Antonio,Branch,Retired,40.0,1.0,2.0,0.0,5
+208.04,Debit,Louisville,Online,Engineer,273.0,1.0,0.0,2.0,1
+5.77000000000001,Credit,Los Angeles,Branch,Student,254.0,1.0,1.0,1.0,5
+381.33,Debit,Albuquerque,ATM,Doctor,75.0,1.0,2.0,2.0,6
+16.159999999999968,Debit,Milwaukee,ATM,Doctor,124.0,1.0,0.0,2.0,1
+486.08,Debit,Oklahoma City,Online,Student,68.0,1.0,1.0,1.0,3
+336.39,Debit,San Antonio,Branch,Student,18.000000000000014,1.0,1.0,1.0,3
+234.57,Debit,Chicago,Online,Student,120.0,1.0,1.0,1.0,3
+6.0,Debit,Chicago,Online,Doctor,246.0,1.0,1.0,0.0,4
+227.14,Debit,Charlotte,ATM,Student,294.0,1.0,1.0,1.0,3
+233.74,Credit,Oklahoma City,Online,Retired,17.0,1.0,2.0,1.0,5
+45.849999999999994,Debit,Los Angeles,ATM,Student,92.0,1.0,1.0,1.0,3
+415.5,Debit,Memphis,ATM,Doctor,141.0,1.0,2.0,2.0,6
+265.76,Debit,Philadelphia,Online,Retired,92.0,1.0,2.0,0.0,0
+69.4,Debit,Virginia Beach,Online,Retired,113.0,1.0,2.0,0.0,0
+332.93,Credit,Albuquerque,Branch,Engineer,293.0,1.0,0.0,0.0,5
+267.9,Debit,San Antonio,Online,Student,160.0,1.0,1.0,1.0,3
+496.03,Debit,San Francisco,Branch,Doctor,265.0,1.0,2.0,2.0,6
+376.26,Debit,Tucson,ATM,Engineer,245.0,1.0,0.0,2.0,1
+83.01999999999998,Credit,Seattle,Online,Engineer,171.0,1.0,0.0,2.0,1
+93.25999999999999,Credit,New York,Online,Student,72.0,1.0,1.0,1.0,5
+803.37,Credit,Memphis,Branch,Doctor,129.0,1.0,2.0,2.0,6
+35.76000000000002,Debit,Charlotte,Branch,Student,122.0,1.0,1.0,1.0,3
+28.529999999999973,Debit,Washington,Online,Doctor,99.0,1.0,2.0,2.0,6
+139.53,Credit,Louisville,Online,Doctor,177.0,1.0,2.0,2.0,6
+307.57,Debit,Detroit,Branch,Doctor,285.0,1.0,0.0,0.0,4
+60.650000000000006,Credit,Tucson,Branch,Retired,53.0,1.0,2.0,1.0,5
+74.86000000000001,Debit,Nashville,Branch,Doctor,125.0,1.0,2.0,0.0,0
+231.91,Debit,Memphis,ATM,Engineer,165.0,1.0,0.0,1.0,4
+126.20999999999998,Debit,Baltimore,Branch,Retired,268.0,1.0,2.0,0.0,0
+506.28,Credit,Chicago,Online,Retired,162.0,2.0,2.0,1.0,5
+304.35,Debit,Houston,Branch,Engineer,36.0,1.0,0.0,0.0,4
+281.85,Debit,Detroit,ATM,Student,109.0,1.0,1.0,1.0,3
+777.88,Debit,Houston,Branch,Engineer,17.0,1.0,0.0,0.0,4
+119.18,Debit,Los Angeles,Branch,Retired,96.0,1.0,2.0,0.0,0
+177.19,Debit,Chicago,Online,Retired,43.0,1.0,2.0,0.0,0
+260.88,Debit,Denver,Branch,Student,36.0,1.0,1.0,1.0,3
+169.47,Debit,Chicago,Online,Student,19.0,1.0,1.0,1.0,3
+73.23000000000002,Debit,Portland,Branch,Student,14.0,1.0,1.0,1.0,3
+792.57,Debit,Baltimore,ATM,Student,164.0,1.0,1.0,1.0,3
+237.06,Debit,Phoenix,Online,Retired,46.0,1.0,2.0,1.0,0
+34.170000000000016,Credit,Philadelphia,Online,Engineer,54.0,1.0,2.0,1.0,5
+740.25,Debit,Philadelphia,Online,Doctor,123.0,1.0,0.0,2.0,1
+453.54,Debit,Albuquerque,ATM,Doctor,82.0,1.0,2.0,2.0,6
+300.47,Debit,Jacksonville,Branch,Retired,100.0,1.0,2.0,0.0,0
+110.93,Credit,Virginia Beach,Branch,Student,201.0,1.0,1.0,1.0,5
+201.69,Debit,Las Vegas,ATM,Doctor,299.0,1.0,2.0,0.0,0
+399.21,Debit,Portland,ATM,Engineer,109.0,1.0,2.0,0.0,0
+630.36,Debit,Mesa,ATM,Retired,52.0,1.0,2.0,1.0,0
+10.939999999999998,Credit,Philadelphia,ATM,Engineer,245.0,1.0,2.0,1.0,5
+215.9,Debit,Los Angeles,ATM,Doctor,235.0,1.0,0.0,0.0,4
+226.37,nan,Louisville,Branch,Doctor,141.0,1.0,0.0,2.0,1
+444.89,Credit,Las Vegas,Branch,Doctor,101.0,1.0,0.0,2.0,1
+280.57,Credit,Virginia Beach,Online,Student,24.0,1.0,1.0,1.0,5
+488.54,Debit,Jacksonville,Branch,Engineer,132.0,1.0,2.0,0.0,0
+3.3000000000000114,Credit,Los Angeles,Branch,Doctor,131.0,1.0,0.0,2.0,1
+199.39,nan,Colorado Springs,Branch,Retired,165.0,1.0,2.0,0.0,0
+20.359999999999985,Debit,Tucson,Branch,Retired,75.0,1.0,2.0,0.0,0
+493.11,Debit,Colorado Springs,Branch,Retired,236.0,1.0,2.0,0.0,0
+307.41,Debit,Los Angeles,ATM,Student,14.0,1.0,1.0,1.0,3
+11.180000000000007,Debit,Atlanta,Online,Doctor,161.0,1.0,0.0,0.0,4
+313.82,Debit,Tucson,Branch,Engineer,151.0,1.0,2.0,0.0,0
+140.98000000000002,Debit,Memphis,Branch,Engineer,100.0,1.0,2.0,2.0,6
+288.04,Debit,Denver,ATM,Retired,63.0,1.0,2.0,1.0,0
+800.55,Debit,Oklahoma City,ATM,Engineer,108.0,1.0,0.0,2.0,1
+485.54,Debit,Houston,ATM,Engineer,143.0,1.0,0.0,0.0,4
+521.15,Debit,Kansas City,ATM,Doctor,214.0,1.0,2.0,2.0,6
+304.93,Debit,Portland,ATM,Doctor,158.0,1.0,2.0,2.0,6
+432.08,nan,El Paso,ATM,Doctor,145.0,1.0,0.0,2.0,1
+694.2,Debit,Milwaukee,ATM,Retired,72.0,1.0,2.0,1.0,0
+116.86000000000001,Debit,Louisville,ATM,Engineer,171.0,1.0,2.0,0.0,0
+74.88,Debit,Atlanta,ATM,Student,202.0,1.0,1.0,1.0,3
+890.24,Credit,Las Vegas,Online,Engineer,161.0,1.0,0.0,0.0,5
+361.27,Debit,Omaha,ATM,Doctor,180.0,1.0,2.0,0.0,0
+131.56,Debit,Charlotte,Branch,Doctor,42.0,1.0,0.0,0.0,4
+485.51,Credit,Milwaukee,Online,Retired,37.000000000000014,1.0,2.0,0.0,5
+547.87,Debit,Columbus,ATM,Retired,131.0,1.0,2.0,0.0,0
+457.3,Debit,Virginia Beach,Online,Engineer,15.0,1.0,1.0,2.0,1
+506.24,Debit,Chicago,ATM,Engineer,64.0,1.0,2.0,1.0,0
+486.59,Debit,Indianapolis,Branch,Retired,119.0,1.0,2.0,0.0,0
+163.68,Debit,San Diego,Branch,Doctor,292.0,1.0,0.0,2.0,1
+581.65,Debit,Boston,ATM,Student,176.0,1.0,1.0,1.0,3
+52.00999999999999,Debit,Mesa,ATM,Doctor,85.0,1.0,0.0,1.0,4
+630.24,Debit,Boston,ATM,Student,62.0,1.0,1.0,1.0,3
+523.74,Debit,Oklahoma City,ATM,Doctor,159.0,1.0,0.0,2.0,1
+705.5999999999999,Debit,Phoenix,Branch,Doctor,124.0,3.0,0.0,2.0,2
+217.5,Credit,Denver,Branch,Engineer,35.0,1.0,0.0,0.0,5
+91.48000000000002,Debit,Fort Worth,ATM,Doctor,141.0,1.0,2.0,2.0,6
+5.25,Debit,San Jose,ATM,Doctor,49.0,1.0,0.0,2.0,1
+54.03,Credit,Milwaukee,ATM,Retired,161.0,1.0,2.0,0.0,5
+736.73,Debit,Memphis,Branch,Engineer,10.0,1.0,0.0,0.0,4
+368.91,nan,Virginia Beach,Branch,Doctor,14.0,1.0,2.0,1.0,6
+33.06,Credit,Fort Worth,Online,Retired,170.0,1.0,2.0,1.0,5
+66.5,Credit,Louisville,Online,Engineer,144.0,1.0,0.0,0.0,5
+177.08,Debit,Las Vegas,nan,Doctor,85.0,1.0,0.0,2.0,1
+588.54,Debit,Portland,Branch,Engineer,130.0,1.0,0.0,1.0,4
+173.5,Debit,Nashville,ATM,Student,282.0,1.0,1.0,1.0,3
+78.32999999999998,Credit,Memphis,Online,Engineer,189.0,1.0,2.0,0.0,5
+40.66,Debit,Louisville,Branch,Retired,156.0,1.0,2.0,1.0,0
+97.22,Credit,Atlanta,Branch,Retired,55.0,1.0,2.0,0.0,5
+34.06999999999999,Debit,Philadelphia,Branch,Student,81.0,1.0,1.0,2.0,3
+492.06,Debit,Fresno,Online,Student,74.0,1.0,1.0,1.0,3
+842.01,Credit,Virginia Beach,Online,Doctor,185.0,1.0,2.0,1.0,5
+73.55000000000001,Debit,Atlanta,ATM,Engineer,158.0,1.0,2.0,0.0,0
+760.53,Debit,Phoenix,Online,Engineer,118.0,1.0,2.0,0.0,0
+371.69,Debit,San Francisco,Branch,Retired,143.0,1.0,2.0,0.0,0
+218.96,Debit,Seattle,ATM,Student,13.0,1.0,1.0,1.0,3
+227.39,Debit,Atlanta,Online,Student,65.0,1.0,1.0,1.0,3
+237.99,Credit,Kansas City,Branch,Doctor,86.0,1.0,0.0,2.0,1
+186.6,Debit,nan,Online,Doctor,13.0,1.0,2.0,1.0,6
+341.15,Debit,San Jose,Online,Student,148.0,1.0,1.0,1.0,3
+434.58,Debit,Memphis,ATM,Doctor,215.0,1.0,2.0,2.0,6
+312.88,Credit,Portland,Branch,Engineer,44.0,1.0,2.0,1.0,5
+75.15,Debit,Boston,ATM,Student,154.0,1.0,1.0,1.0,3
+23.30000000000001,Debit,Los Angeles,ATM,Engineer,161.0,1.0,2.0,0.0,0
+47.379999999999995,Credit,Seattle,Online,Student,60.99999999999999,1.0,1.0,1.0,5
+512.81,Debit,Sacramento,Branch,Retired,30.0,1.0,2.0,0.0,0
+488.15,Debit,Louisville,Branch,Engineer,168.0,1.0,0.0,0.0,4
+12.819999999999965,Debit,Fort Worth,ATM,Engineer,156.0,1.0,0.0,2.0,1
+66.9,Credit,Charlotte,Online,Retired,129.0,4.0,2.0,0.0,2
+535.91,Debit,Las Vegas,Online,Engineer,22.0,1.0,0.0,2.0,1
+270.72,Credit,Washington,Online,Engineer,53.0,1.0,1.0,0.0,5
+97.98000000000002,Debit,Denver,Branch,Retired,18.000000000000014,1.0,2.0,0.0,0
+196.08,Debit,San Francisco,Online,Retired,98.0,1.0,2.0,0.0,0
+251.18,Debit,San Jose,ATM,Engineer,246.0,1.0,0.0,2.0,1
+44.52000000000001,Debit,El Paso,Online,Student,205.0,1.0,1.0,1.0,3
+178.87,Debit,Baltimore,Online,Doctor,180.0,1.0,0.0,0.0,4
+386.68,Debit,New York,Branch,Doctor,128.0,1.0,0.0,0.0,4
+167.14,Debit,Denver,Online,Retired,20.0,1.0,2.0,0.0,0
+345.22,Debit,Fresno,Branch,Retired,253.0,1.0,2.0,0.0,0
+74.85,Debit,Raleigh,ATM,Retired,117.0,1.0,2.0,0.0,0
+671.73,Debit,Washington,Branch,Engineer,54.0,1.0,2.0,0.0,0
+255.04,Debit,Seattle,ATM,Engineer,152.0,1.0,0.0,0.0,4
+45.77000000000001,Debit,Philadelphia,Online,Student,109.0,1.0,1.0,0.0,3
+329.69,Credit,San Antonio,Online,Student,66.0,1.0,1.0,1.0,5
+362.04,Credit,Philadelphia,Branch,Doctor,198.0,2.0,2.0,2.0,6
+11.919999999999987,Debit,San Diego,nan,Doctor,52.0,1.0,2.0,2.0,6
+47.420000000000016,Debit,San Diego,ATM,Doctor,28.0,1.0,2.0,2.0,6
+35.99000000000001,Debit,Miami,Branch,Retired,129.0,1.0,2.0,0.0,0
+151.19,Credit,New York,Branch,Doctor,96.0,1.0,0.0,2.0,1
+242.62,Credit,San Francisco,Online,Student,234.0,1.0,1.0,1.0,5
+48.72,Debit,Virginia Beach,Branch,Student,17.0,1.0,1.0,1.0,3
+43.46000000000001,Debit,Boston,ATM,Student,80.0,1.0,1.0,1.0,3
+443.79,Debit,Las Vegas,ATM,Retired,87.0,1.0,2.0,0.0,0
+365.14,Debit,Dallas,Online,Retired,57.0,1.0,2.0,0.0,0
+757.41,Debit,Los Angeles,ATM,Student,37.000000000000014,1.0,1.0,2.0,3
+20.539999999999964,Debit,Fort Worth,Branch,Engineer,72.0,1.0,2.0,0.0,0
+475.36,Debit,Phoenix,ATM,Engineer,105.0,1.0,0.0,0.0,4
+34.73999999999998,Debit,San Francisco,ATM,Retired,24.0,1.0,2.0,0.0,0
+689.54,Debit,Oklahoma City,Branch,Student,93.0,1.0,1.0,1.0,3
+211.18,Debit,Washington,ATM,Retired,90.0,1.0,2.0,0.0,0
+211.36,Credit,Fort Worth,Branch,Engineer,286.0,1.0,2.0,0.0,5
+744.41,Credit,Houston,Online,Engineer,107.0,1.0,0.0,2.0,1
+61.43000000000001,Debit,Phoenix,Online,Student,170.0,1.0,1.0,1.0,3
+167.44,Debit,Mesa,Branch,Doctor,82.0,1.0,0.0,2.0,1
+361.46,Debit,Nashville,Online,Student,83.0,1.0,1.0,0.0,3
+378.85,Debit,Virginia Beach,Branch,Retired,126.0,1.0,2.0,0.0,0
+241.11,Debit,Columbus,Branch,Doctor,55.0,1.0,1.0,2.0,6
+131.93,Credit,Fort Worth,Branch,Engineer,13.0,1.0,0.0,0.0,5
+20.279999999999973,Debit,Oklahoma City,Online,Engineer,213.0,1.0,0.0,0.0,4
+415.88,Debit,San Diego,Branch,Doctor,170.0,1.0,2.0,2.0,6
+100.66,Debit,Dallas,Branch,Doctor,144.0,1.0,0.0,2.0,1
+485.54,Debit,Louisville,Online,Student,148.0,1.0,1.0,1.0,3
+321.15,Debit,Los Angeles,Branch,Doctor,179.0,1.0,0.0,0.0,4
+711.3,Debit,San Jose,Branch,Student,51.0,1.0,1.0,1.0,3
+12.22999999999999,Debit,Houston,ATM,Engineer,139.0,1.0,0.0,0.0,4
+350.94,Debit,Colorado Springs,ATM,Student,64.0,1.0,1.0,1.0,3
+301.85,Debit,Columbus,Online,Engineer,25.0,1.0,2.0,0.0,0
+29.339999999999975,Debit,Louisville,Online,Retired,30.0,1.0,2.0,0.0,0
+231.71,Debit,Raleigh,Branch,Student,148.0,1.0,1.0,1.0,3
+179.43,Debit,Oklahoma City,ATM,Retired,244.0,1.0,2.0,0.0,0
+36.71000000000001,Debit,Jacksonville,Branch,Doctor,55.0,1.0,0.0,0.0,4
+138.12,Credit,Los Angeles,Branch,Doctor,281.0,1.0,2.0,1.0,5
+233.24,Debit,Louisville,ATM,Engineer,72.0,1.0,0.0,0.0,4
+609.14,Debit,Tucson,ATM,Engineer,177.0,1.0,0.0,2.0,1
+436.64,Debit,Los Angeles,Branch,Doctor,111.0,1.0,0.0,2.0,1
+870.43,Debit,Los Angeles,Branch,Doctor,55.0,1.0,1.0,2.0,6
+354.4,Debit,Chicago,ATM,Retired,128.0,1.0,2.0,0.0,0
+22.630000000000024,Debit,Kansas City,Online,Engineer,112.0,1.0,2.0,0.0,0
+182.19,Debit,Mesa,Branch,Student,53.0,1.0,1.0,1.0,3
+126.81,Debit,Philadelphia,Branch,Engineer,290.0,1.0,1.0,0.0,4
+288.17,Debit,Virginia Beach,Online,Engineer,50.0,1.0,0.0,0.0,4
+118.76999999999998,Debit,Atlanta,Branch,Engineer,123.0,1.0,2.0,0.0,0
+651.82,Debit,Indianapolis,ATM,Student,166.0,1.0,1.0,1.0,3
+66.65,Debit,Detroit,ATM,Engineer,33.0,1.0,0.0,0.0,4
+98.53,Debit,Denver,Branch,Retired,166.0,1.0,2.0,0.0,0
+138.95,Debit,Washington,Online,Retired,30.0,1.0,2.0,0.0,0
+33.88999999999996,Debit,Nashville,Branch,Student,177.0,1.0,1.0,1.0,3
+23.710000000000036,Debit,Atlanta,Branch,Doctor,164.0,1.0,2.0,2.0,6
+26.060000000000002,Debit,San Diego,ATM,Doctor,283.0,1.0,2.0,2.0,6
+17.069999999999993,Debit,Los Angeles,Branch,Engineer,44.0,1.0,1.0,0.0,4
+703.89,Debit,San Antonio,Online,Engineer,62.0,1.0,0.0,0.0,4
+26.55000000000004,Debit,Houston,ATM,Retired,228.0,1.0,2.0,0.0,0
+147.4,Debit,San Jose,Branch,Engineer,259.0,1.0,0.0,0.0,4
+202.11,Debit,Memphis,ATM,Student,18.000000000000014,1.0,1.0,1.0,3
+308.42,Debit,Nashville,Branch,Retired,39.0,1.0,2.0,0.0,0
+11.180000000000007,Debit,Miami,ATM,Engineer,144.0,1.0,2.0,0.0,0
+294.15,Debit,Fresno,Online,Engineer,136.0,1.0,0.0,0.0,4
+139.45,Debit,Boston,Online,Student,31.0,1.0,1.0,1.0,3
+432.63,Debit,Colorado Springs,ATM,Doctor,137.0,1.0,1.0,2.0,6
+131.43,Debit,Charlotte,Online,Doctor,65.0,1.0,0.0,1.0,1
+516.72,Debit,Mesa,ATM,Engineer,128.0,1.0,0.0,0.0,4
+121.82,Debit,Colorado Springs,Online,Doctor,123.0,3.0,2.0,2.0,2
+374.5,Credit,San Francisco,Branch,Student,178.0,1.0,1.0,1.0,5
+166.13,Debit,Omaha,ATM,Doctor,227.0,1.0,2.0,2.0,6
+626.9,Debit,Chicago,ATM,Student,146.0,1.0,1.0,1.0,3
+466.85,Debit,Austin,Branch,Retired,165.0,1.0,2.0,0.0,0
+788.84,Debit,Phoenix,Online,Retired,231.0,1.0,2.0,1.0,0
+525.28,Debit,Colorado Springs,ATM,Retired,134.0,1.0,2.0,0.0,0
+110.17000000000002,nan,Raleigh,ATM,Engineer,137.0,1.0,1.0,1.0,4
+632.69,Debit,Denver,ATM,Retired,76.0,1.0,2.0,0.0,0
+124.35,Debit,Oklahoma City,ATM,Retired,90.0,1.0,2.0,0.0,0
+43.849999999999994,Debit,Fresno,ATM,Retired,122.0,1.0,2.0,0.0,0
+283.81,Debit,San Diego,Branch,Student,28.999999999999986,1.0,1.0,1.0,3
+168.53,Debit,San Francisco,ATM,Retired,112.0,1.0,2.0,0.0,0
+218.59,Credit,Denver,Branch,Engineer,123.0,1.0,0.0,0.0,5
+132.84,Debit,Oklahoma City,ATM,Student,143.0,1.0,1.0,1.0,3
+157.37,Credit,Dallas,Branch,Doctor,289.0,1.0,0.0,2.0,1
+144.76999999999998,Debit,Albuquerque,Online,Student,159.0,1.0,1.0,1.0,3
+643.22,Debit,Atlanta,ATM,Doctor,93.0,1.0,2.0,1.0,6
+208.07,Debit,Oklahoma City,Online,Doctor,36.0,1.0,0.0,2.0,1
+295.5,Debit,Mesa,ATM,Retired,36.0,1.0,2.0,0.0,0
+30.22999999999999,Debit,Austin,ATM,Doctor,99.0,1.0,0.0,1.0,4
+112.05000000000001,Credit,Phoenix,ATM,Student,159.0,1.0,1.0,1.0,5
+180.24,Debit,Phoenix,Branch,Engineer,144.0,1.0,2.0,2.0,6
+13.710000000000008,Credit,Denver,Online,Engineer,148.0,1.0,0.0,2.0,1
+96.54000000000002,Debit,New York,Branch,Retired,95.0,1.0,2.0,0.0,0
+79.35,Debit,Los Angeles,Online,Retired,70.0,1.0,2.0,1.0,0
+101.04000000000002,Debit,San Antonio,ATM,Student,160.0,1.0,1.0,1.0,3
+74.42000000000002,Debit,El Paso,Online,Engineer,68.0,1.0,0.0,0.0,4
+39.66,Debit,Virginia Beach,Branch,Engineer,169.0,1.0,2.0,2.0,6
+99.36000000000001,Debit,Seattle,ATM,Doctor,46.0,1.0,0.0,1.0,4
+123.85,Debit,Las Vegas,Online,Engineer,244.0,1.0,2.0,0.0,0
+426.93,Debit,Omaha,ATM,Student,248.0,1.0,1.0,1.0,3
+133.72999999999996,Credit,San Jose,Online,Student,123.0,1.0,1.0,1.0,5
+222.39,Debit,Virginia Beach,Online,Engineer,73.0,1.0,0.0,0.0,4
+215.94,Credit,Virginia Beach,Online,Student,140.0,1.0,1.0,1.0,5
+6.300000000000011,Debit,Columbus,Branch,Retired,283.0,5.0,2.0,0.0,2
+826.23,Debit,Colorado Springs,ATM,Doctor,209.0,1.0,1.0,0.0,4
+131.46,Debit,Charlotte,Branch,Retired,258.0,1.0,2.0,0.0,0
+202.86,Credit,Memphis,Branch,Doctor,149.0,1.0,2.0,0.0,5
+268.39,Debit,Miami,ATM,Student,171.0,1.0,1.0,1.0,3
+194.85,Debit,Jacksonville,Online,Student,130.0,4.0,1.0,1.0,2
+137.34999999999997,Credit,Sacramento,nan,Doctor,220.0,1.0,0.0,2.0,1
+712.75,Debit,Philadelphia,Branch,Doctor,25.0,1.0,0.0,2.0,1
+353.82,Debit,Milwaukee,ATM,Doctor,143.0,1.0,0.0,1.0,4
+212.74,Debit,Seattle,Branch,Engineer,128.0,1.0,1.0,0.0,4
+364.42,Debit,Colorado Springs,ATM,Engineer,146.0,1.0,2.0,2.0,6
+195.12,Debit,Louisville,ATM,Doctor,144.0,1.0,0.0,0.0,4
+230.61,Debit,Raleigh,Branch,Retired,204.0,1.0,2.0,0.0,0
+739.28,Credit,Tucson,Branch,Doctor,47.0,1.0,2.0,2.0,6
+390.35,Credit,Omaha,ATM,Doctor,60.99999999999999,1.0,2.0,0.0,5
+242.03,Debit,Dallas,Online,Engineer,124.0,1.0,2.0,0.0,0
+242.39,Credit,San Antonio,ATM,Student,271.0,1.0,1.0,1.0,5
+135.03,Debit,San Francisco,ATM,Student,180.0,1.0,1.0,1.0,3
+83.5,Debit,Dallas,Branch,Student,91.0,5.0,2.0,1.0,2
+193.54,Debit,Oklahoma City,Branch,Retired,267.0,1.0,2.0,0.0,0
+617.36,Debit,Kansas City,nan,Engineer,60.99999999999999,1.0,1.0,2.0,1
+775.23,Credit,Albuquerque,Online,Doctor,38.0,1.0,2.0,0.0,5
+266.57,Debit,El Paso,ATM,Retired,100.0,1.0,2.0,0.0,0
+153.4,Debit,Mesa,ATM,Engineer,144.0,1.0,0.0,0.0,4
+5.119999999999976,Debit,New York,Branch,Engineer,90.0,1.0,0.0,0.0,4
+119.11000000000001,Debit,Detroit,ATM,Engineer,131.0,1.0,2.0,0.0,0
+119.72,Debit,Tucson,Branch,Engineer,123.0,1.0,1.0,0.0,4
+107.4,Debit,Virginia Beach,Online,Doctor,32.0,1.0,2.0,1.0,6
+115.92000000000002,Debit,Raleigh,ATM,Retired,57.0,1.0,2.0,0.0,0
+438.04,Debit,Philadelphia,ATM,Retired,247.0,1.0,2.0,0.0,0
+677.29,Debit,Houston,Online,Engineer,287.0,1.0,1.0,1.0,1
+296.0,Debit,Las Vegas,Branch,Doctor,248.0,1.0,0.0,0.0,4
+299.09,Credit,Boston,Branch,Engineer,84.0,1.0,0.0,0.0,5
+461.52,Credit,Denver,Branch,Student,44.0,1.0,1.0,1.0,5
+100.51999999999998,Debit,Las Vegas,ATM,Engineer,110.0,1.0,0.0,1.0,4
+85.35,Debit,Washington,ATM,Retired,166.0,1.0,2.0,0.0,0
+79.75999999999999,Debit,Raleigh,Branch,Engineer,170.0,1.0,0.0,0.0,4
+778.49,Credit,Omaha,Online,Retired,107.0,1.0,2.0,0.0,5
+386.38,Debit,Phoenix,Online,Engineer,135.0,1.0,0.0,0.0,4
+165.25,Debit,Sacramento,Online,Doctor,106.0,1.0,0.0,2.0,1
+14.289999999999992,Debit,Los Angeles,ATM,Engineer,150.0,1.0,0.0,0.0,4
+232.79,Credit,Indianapolis,Branch,Retired,145.0,1.0,2.0,0.0,5
+293.97,Debit,Phoenix,Branch,Retired,153.0,1.0,2.0,0.0,0
+136.32,Debit,Miami,Online,Student,113.0,1.0,1.0,1.0,3
+251.06,Debit,Colorado Springs,Online,Doctor,34.0,1.0,0.0,2.0,1
+50.170000000000016,Credit,Sacramento,ATM,Retired,35.0,1.0,2.0,0.0,5
+21.400000000000034,Debit,Fresno,Branch,Engineer,258.0,1.0,0.0,2.0,1
+73.28,Debit,Boston,Branch,Student,21.0,1.0,1.0,1.0,3
+70.23000000000002,Debit,Memphis,ATM,Doctor,260.0,1.0,0.0,2.0,1
+689.29,Debit,El Paso,ATM,Student,100.0,1.0,1.0,1.0,3
+745.03,Debit,Fort Worth,Online,Student,231.0,1.0,1.0,1.0,3
+54.610000000000014,Debit,Milwaukee,ATM,Engineer,160.0,1.0,2.0,0.0,0
+54.05000000000001,Debit,Louisville,Branch,Student,146.0,1.0,1.0,1.0,3
+107.47,Debit,Austin,Online,Retired,144.0,1.0,2.0,0.0,0
+611.11,Debit,Detroit,ATM,Student,282.0,4.0,1.0,1.0,2
+219.63,Debit,Charlotte,ATM,Doctor,44.0,1.0,0.0,2.0,1
+93.51999999999998,Debit,Philadelphia,Online,Engineer,97.0,1.0,2.0,0.0,0
+275.92,Credit,Nashville,Branch,Retired,107.0,1.0,2.0,1.0,5
+376.79,Debit,Milwaukee,Branch,Retired,265.0,1.0,2.0,0.0,0
+8.980000000000018,Debit,Detroit,Online,Student,56.0,1.0,2.0,0.0,3
+697.32,Debit,Atlanta,Online,Retired,91.0,1.0,2.0,0.0,0
+17.450000000000017,nan,Omaha,ATM,Student,88.0,1.0,1.0,1.0,3
+302.16,Debit,Kansas City,Online,Retired,138.0,5.0,2.0,0.0,2
+442.74,Debit,San Diego,Branch,Student,136.0,1.0,1.0,1.0,3
+623.9,Debit,San Jose,ATM,Student,249.0,1.0,1.0,1.0,3
+445.41,Debit,Fresno,ATM,Doctor,235.0,3.0,0.0,2.0,2
+63.41,Debit,Fort Worth,ATM,Student,36.0,1.0,1.0,1.0,3
+346.85,Debit,Kansas City,ATM,Doctor,88.0,1.0,0.0,0.0,4
+71.94999999999999,Credit,nan,Online,Engineer,53.0,1.0,2.0,2.0,6
+7.500000000000028,Debit,Dallas,Online,Retired,36.0,1.0,2.0,0.0,0
+206.46,Debit,Virginia Beach,ATM,Retired,279.0,1.0,2.0,0.0,0
+423.11,Debit,Columbus,ATM,Engineer,47.0,1.0,2.0,1.0,0
+35.84,Credit,Colorado Springs,Online,Retired,172.0,1.0,2.0,0.0,5
+88.6,Credit,Raleigh,Branch,Student,105.0,1.0,1.0,1.0,5
+22.460000000000036,Debit,New York,Online,Retired,78.0,1.0,2.0,0.0,0
+334.89,Debit,Fort Worth,Online,Student,260.0,1.0,1.0,1.0,3
+319.27,Credit,Omaha,Online,Retired,59.0,1.0,2.0,0.0,5
+144.3,Debit,Oklahoma City,ATM,Student,88.0,1.0,1.0,1.0,3
+348.7,Credit,Fresno,Branch,Retired,149.0,1.0,2.0,0.0,5
+366.21,Debit,Oklahoma City,ATM,Doctor,181.0,1.0,2.0,2.0,6
+99.11000000000001,Debit,Philadelphia,Online,Retired,12.0,1.0,2.0,0.0,0
+539.35,Debit,Milwaukee,ATM,Retired,127.0,1.0,2.0,0.0,0
+188.99,Debit,Oklahoma City,Branch,Engineer,92.0,1.0,2.0,0.0,0
+710.1400000000001,Debit,El Paso,ATM,Student,227.0,1.0,1.0,1.0,3
+308.68,Debit,Milwaukee,Online,Doctor,170.0,1.0,2.0,2.0,6
+166.68,Debit,Mesa,ATM,Retired,139.0,1.0,2.0,0.0,0
+505.19,Debit,Kansas City,ATM,Doctor,128.0,5.0,1.0,0.0,2
+66.57999999999998,Debit,Raleigh,Branch,Student,79.0,1.0,1.0,1.0,3
+223.43,Debit,Dallas,Branch,Retired,178.0,1.0,2.0,0.0,0
+659.95,Debit,Detroit,Online,Engineer,114.0,1.0,2.0,0.0,0
+634.86,Debit,Chicago,ATM,Student,45.0,1.0,1.0,1.0,3
+286.5,Credit,Boston,Branch,Engineer,60.0,1.0,1.0,2.0,6
+322.96,Credit,Philadelphia,Branch,Retired,168.0,1.0,2.0,0.0,5
+654.48,Debit,Columbus,Branch,Student,114.0,1.0,1.0,0.0,3
+157.97,Debit,Philadelphia,Branch,Doctor,140.0,1.0,0.0,0.0,4
+120.9,nan,Tucson,Branch,Doctor,52.0,1.0,0.0,2.0,1
+254.77,Debit,Denver,Branch,Engineer,57.0,1.0,2.0,0.0,0
+795.96,Debit,Raleigh,Online,Retired,119.0,1.0,2.0,0.0,0
+149.25,Debit,Omaha,ATM,Engineer,142.0,1.0,0.0,0.0,4
+3.4199999999999875,Credit,San Antonio,nan,Doctor,158.0,1.0,0.0,2.0,1
+68.19,Credit,Fresno,Online,Doctor,189.0,1.0,0.0,2.0,1
+493.42,nan,Baltimore,Branch,Engineer,111.0,1.0,0.0,0.0,4
+37.57000000000002,Debit,El Paso,ATM,Retired,42.0,1.0,2.0,0.0,0
+127.0,Credit,Nashville,Branch,Student,68.0,5.0,1.0,1.0,2
+96.88999999999999,Debit,nan,ATM,Student,53.0,1.0,2.0,0.0,3
+448.33,Debit,Atlanta,ATM,Student,161.0,1.0,1.0,1.0,3
+8.650000000000006,Debit,Las Vegas,Online,Doctor,273.0,1.0,0.0,2.0,1
+539.81,Debit,San Francisco,Online,Engineer,177.0,1.0,0.0,0.0,4
+363.53,Debit,Kansas City,ATM,Retired,142.0,1.0,2.0,1.0,0
+64.9,Credit,Detroit,Branch,Retired,72.0,1.0,2.0,0.0,5
+358.18,Debit,Boston,ATM,Student,157.0,1.0,1.0,1.0,3
+167.2,Debit,San Antonio,Branch,Doctor,84.0,1.0,1.0,2.0,6
+121.91,Debit,Chicago,Branch,Doctor,133.0,1.0,2.0,2.0,6
+137.57,Debit,Louisville,Online,Engineer,70.0,1.0,2.0,0.0,0
+534.62,Debit,Oklahoma City,Online,Doctor,45.0,1.0,2.0,2.0,6
+463.92,Debit,Mesa,Online,Engineer,199.0,1.0,0.0,0.0,4
+320.14,Debit,Milwaukee,Online,Retired,96.0,1.0,2.0,0.0,0
+214.93,Debit,Albuquerque,Online,Student,52.0,1.0,1.0,0.0,3
+660.02,Debit,Nashville,Branch,Student,84.0,1.0,1.0,1.0,3
+345.81,Debit,Raleigh,Branch,Engineer,135.0,1.0,0.0,0.0,4
+143.53999999999996,Debit,Philadelphia,ATM,Retired,80.0,1.0,2.0,0.0,0
+42.55000000000001,Debit,Seattle,Branch,Engineer,28.999999999999986,1.0,2.0,0.0,0
+541.79,Debit,Mesa,ATM,Student,125.0,1.0,1.0,1.0,3
+40.56999999999999,Debit,Columbus,Branch,Student,63.0,1.0,1.0,1.0,3
+120.24000000000001,Debit,Milwaukee,Branch,Student,131.0,2.0,1.0,1.0,3
+498.66999999999996,Debit,Miami,Online,Student,244.0,1.0,1.0,1.0,3
+227.22,Debit,El Paso,ATM,Doctor,220.0,1.0,2.0,1.0,6
+56.94,Credit,Charlotte,Online,Student,74.0,1.0,2.0,0.0,5
+629.82,Debit,Colorado Springs,nan,Retired,159.0,1.0,2.0,0.0,0
+59.44,Debit,Chicago,Online,Engineer,176.0,1.0,0.0,0.0,4
+186.69,Debit,New York,Branch,Engineer,54.0,1.0,1.0,2.0,6
+230.46,Debit,Mesa,Online,Student,179.0,1.0,1.0,1.0,3
+65.09,Credit,Seattle,Online,Engineer,159.0,1.0,0.0,2.0,1
+457.09,Credit,Nashville,Online,Engineer,63.0,1.0,2.0,2.0,6
+552.02,Credit,Chicago,ATM,Engineer,100.0,1.0,0.0,1.0,5
+377.12,Debit,Houston,ATM,Engineer,60.99999999999999,1.0,0.0,1.0,4
+204.56,Credit,San Diego,Branch,Student,179.0,1.0,1.0,1.0,5
+420.28,Debit,Washington,Branch,Doctor,144.0,1.0,0.0,2.0,1
+97.09,Debit,Fort Worth,ATM,Student,202.0,4.0,1.0,1.0,2
+124.59,Debit,Charlotte,Branch,Student,171.0,1.0,1.0,1.0,3
+73.88,Debit,Charlotte,Online,Doctor,34.0,1.0,0.0,0.0,4
+106.16,Debit,Phoenix,ATM,Doctor,277.0,4.0,2.0,0.0,2
+245.93,Debit,Fresno,Branch,Engineer,172.0,1.0,2.0,0.0,0
+622.41,Debit,Indianapolis,ATM,Doctor,125.0,1.0,2.0,0.0,0
+43.72999999999999,Debit,Omaha,ATM,Doctor,145.0,1.0,0.0,2.0,1
+2.0299999999999727,Credit,Detroit,ATM,Engineer,28.0,1.0,0.0,0.0,4
+770.65,Debit,Jacksonville,Online,Doctor,137.0,1.0,0.0,0.0,4
+260.31,Debit,Austin,Branch,Doctor,113.0,1.0,2.0,2.0,6
+356.1,Credit,Fort Worth,Branch,Student,187.0,1.0,1.0,1.0,5
+27.069999999999993,Credit,Virginia Beach,Branch,Retired,39.0,1.0,2.0,0.0,5
+119.88999999999999,Debit,Tucson,ATM,Doctor,60.0,1.0,2.0,0.0,0
+106.38999999999999,Debit,Virginia Beach,Online,Doctor,281.0,1.0,0.0,2.0,1
+12.039999999999964,Debit,Fort Worth,Online,Engineer,58.0,1.0,0.0,0.0,4
+365.7,Debit,Houston,Branch,Student,115.0,2.0,1.0,1.0,3
+29.379999999999995,Credit,Baltimore,Branch,Student,63.0,1.0,1.0,1.0,5
+319.85,Debit,Denver,ATM,Doctor,148.0,1.0,2.0,1.0,6
+350.14,Credit,Los Angeles,Online,Retired,38.0,1.0,2.0,0.0,5
+163.94,Credit,Virginia Beach,Branch,Retired,73.0,1.0,2.0,0.0,5
+170.53,Debit,Oklahoma City,Branch,Student,58.0,1.0,1.0,1.0,3
+262.22,Credit,Baltimore,ATM,Engineer,136.0,1.0,0.0,0.0,5
+41.49000000000001,Debit,Albuquerque,Online,Student,13.0,1.0,1.0,1.0,3
+121.43,Credit,Sacramento,Branch,Engineer,243.0,1.0,2.0,0.0,5
+350.46,Debit,Nashville,Branch,Retired,165.0,1.0,2.0,0.0,0
+220.41,Credit,El Paso,Online,Engineer,155.0,1.0,1.0,0.0,5
+33.45999999999998,Debit,Seattle,ATM,Retired,111.0,1.0,2.0,0.0,0
+104.79000000000002,Debit,Denver,ATM,Doctor,223.0,1.0,2.0,1.0,6
+246.27,Debit,Fresno,Online,Doctor,141.0,1.0,1.0,0.0,4
+48.849999999999994,Debit,Dallas,ATM,Student,176.0,1.0,1.0,1.0,3
+332.0,Debit,Charlotte,ATM,Retired,17.0,1.0,2.0,0.0,0
+118.1,Debit,Memphis,Online,Engineer,167.0,1.0,2.0,1.0,0
+84.59,Credit,Las Vegas,Branch,Doctor,10.0,1.0,2.0,0.0,5
+295.64,Debit,Jacksonville,Online,Student,82.0,1.0,1.0,1.0,3
+514.33,Debit,Philadelphia,Branch,Student,160.0,1.0,1.0,1.0,3
+94.59,Debit,Washington,Online,Doctor,34.0,1.0,0.0,0.0,4
+80.43,Debit,Columbus,Branch,Retired,157.0,1.0,2.0,0.0,0
+54.25,Debit,Virginia Beach,Online,Doctor,37.000000000000014,1.0,2.0,2.0,6
+178.88,Credit,Dallas,Branch,Retired,93.0,4.0,2.0,0.0,2
+518.85,Debit,Kansas City,Online,Student,82.0,1.0,1.0,1.0,3
+10.650000000000006,Debit,Louisville,Online,Doctor,161.0,1.0,2.0,2.0,6
+198.62,Credit,Tucson,Branch,Student,84.0,1.0,1.0,1.0,5
+107.03,Debit,Miami,Branch,Student,73.0,1.0,1.0,1.0,3
+139.57,Debit,Fort Worth,ATM,Student,263.0,3.0,1.0,1.0,2
+312.47,Debit,Milwaukee,ATM,Student,148.0,4.0,0.0,2.0,2
+346.11,Debit,Dallas,Branch,Engineer,213.0,1.0,0.0,2.0,1
+138.06,Debit,Charlotte,Branch,Engineer,159.0,1.0,0.0,1.0,4
+158.02,Debit,New York,ATM,Engineer,120.0,1.0,0.0,2.0,1
+830.01,Credit,Chicago,Online,Retired,96.0,1.0,2.0,0.0,5
+435.5,Debit,Oklahoma City,ATM,Student,112.0,1.0,2.0,0.0,3
+110.49000000000001,Debit,Raleigh,Online,Doctor,48.000000000000014,1.0,2.0,2.0,6
+329.4,Debit,Denver,Online,Doctor,68.0,1.0,0.0,2.0,1
+635.4,Debit,Denver,ATM,Doctor,106.0,1.0,0.0,1.0,4
+769.97,Debit,San Diego,Branch,Student,23.0,1.0,1.0,1.0,3
+175.07,Debit,Colorado Springs,Branch,Student,169.0,1.0,1.0,1.0,3
+7.310000000000002,Debit,Las Vegas,Branch,Retired,282.0,1.0,2.0,0.0,0
+32.53999999999999,Debit,Oklahoma City,Online,Student,183.0,4.0,1.0,1.0,2
+56.120000000000005,Debit,El Paso,ATM,Doctor,102.0,1.0,1.0,2.0,6
+424.7,Credit,Miami,Online,Retired,178.0,1.0,2.0,0.0,5
+35.73000000000002,Debit,Miami,Branch,Doctor,87.0,1.0,2.0,2.0,6
+3.4399999999999977,Debit,Fort Worth,ATM,Retired,108.0,1.0,2.0,0.0,0
+139.03,Credit,Los Angeles,Online,Engineer,81.0,1.0,0.0,0.0,5
+254.92,Credit,San Antonio,ATM,Engineer,169.0,1.0,1.0,0.0,5
+115.11000000000001,Debit,Albuquerque,Online,Engineer,139.0,1.0,1.0,2.0,1
+171.11,Debit,San Francisco,ATM,Retired,171.0,1.0,2.0,0.0,0
+168.54,Debit,Oklahoma City,ATM,Doctor,142.0,2.0,2.0,2.0,6
+408.46,Debit,Raleigh,Branch,Retired,28.0,1.0,2.0,0.0,0
+342.17,Credit,New York,Branch,Student,247.0,1.0,1.0,1.0,5
+580.71,Debit,Philadelphia,ATM,Engineer,95.0,1.0,2.0,0.0,0
+821.54,Credit,Atlanta,Branch,Retired,36.0,1.0,2.0,0.0,5
+253.47,Debit,Atlanta,Branch,Student,238.0,1.0,1.0,1.0,3
+22.810000000000002,Debit,New York,Online,Retired,75.0,1.0,2.0,0.0,0
+266.57,Credit,Boston,Online,Engineer,96.0,1.0,0.0,0.0,5
+374.61,Credit,Mesa,Online,Retired,37.000000000000014,1.0,2.0,1.0,5
+339.35,Credit,Boston,ATM,Retired,70.0,1.0,2.0,0.0,5
+810.36,Debit,Columbus,ATM,Student,67.0,1.0,1.0,2.0,3
+9.830000000000041,Debit,Memphis,ATM,Student,86.0,1.0,1.0,1.0,3
+135.57,Credit,Boston,Branch,Doctor,116.0,1.0,2.0,2.0,6
+340.05,Debit,Detroit,ATM,Engineer,37.000000000000014,1.0,0.0,0.0,4
+283.45,Debit,Colorado Springs,Branch,Engineer,127.0,1.0,1.0,0.0,4
+100.99000000000001,Debit,New York,ATM,Doctor,114.0,1.0,2.0,2.0,6
+90.88,Debit,Albuquerque,Branch,Student,176.0,1.0,1.0,0.0,3
+655.15,Debit,Seattle,ATM,Engineer,264.0,1.0,1.0,0.0,4
+320.55,Debit,Milwaukee,Online,Engineer,118.0,1.0,0.0,1.0,4
+41.50999999999999,Debit,Phoenix,Online,Student,48.000000000000014,1.0,1.0,1.0,3
+71.53,Credit,Jacksonville,Branch,Retired,39.0,1.0,2.0,0.0,5
+467.13,Credit,Kansas City,Branch,Retired,45.0,1.0,2.0,0.0,5
+235.4,Debit,Detroit,Branch,Student,70.0,1.0,1.0,1.0,3
+159.32,Debit,Seattle,Branch,Student,100.0,1.0,1.0,1.0,3
+50.829999999999984,Credit,Philadelphia,Online,Doctor,48.000000000000014,1.0,1.0,2.0,1
+56.889999999999986,Credit,Houston,Branch,Engineer,56.0,1.0,2.0,0.0,5
+20.22,Debit,Jacksonville,ATM,Engineer,138.0,1.0,0.0,0.0,4
+50.400000000000006,Debit,San Antonio,Branch,Doctor,84.0,1.0,0.0,1.0,4
+73.88,Debit,Los Angeles,Branch,Retired,131.0,1.0,2.0,0.0,0
+119.61000000000001,Debit,San Diego,ATM,Doctor,53.0,1.0,0.0,2.0,1
+116.57999999999998,Debit,Raleigh,Branch,Engineer,247.0,1.0,0.0,0.0,4
+391.96,Debit,nan,ATM,Retired,79.0,1.0,2.0,0.0,0
+156.26,Credit,Virginia Beach,Branch,Engineer,160.0,1.0,0.0,0.0,5
+427.0,Credit,Oklahoma City,Branch,Engineer,163.0,1.0,0.0,2.0,1
+443.68,Debit,Tucson,nan,Student,137.0,1.0,1.0,1.0,3
+101.75999999999999,nan,Philadelphia,nan,Doctor,26.0,1.0,0.0,0.0,4
+67.57,Debit,Charlotte,Branch,Engineer,107.0,1.0,0.0,0.0,4
+326.29,Debit,Denver,Online,Engineer,179.0,1.0,2.0,2.0,6
+158.56,Debit,Sacramento,ATM,Doctor,100.0,1.0,0.0,0.0,4
+56.02000000000001,Debit,Memphis,Online,Student,142.0,1.0,1.0,0.0,3
+288.28,nan,Portland,Online,Student,36.0,1.0,1.0,1.0,3
+245.67,Credit,Portland,Branch,Student,107.0,1.0,1.0,1.0,5
+152.18,Credit,Los Angeles,Online,Engineer,176.0,4.0,0.0,0.0,2
+114.35,Credit,El Paso,Branch,Engineer,21.0,1.0,0.0,1.0,5
+373.27,Credit,Miami,Online,Doctor,79.0,1.0,2.0,2.0,6
+504.63,Debit,Portland,Online,Engineer,168.0,1.0,2.0,0.0,0
+126.22,Debit,Atlanta,ATM,Engineer,77.0,4.0,0.0,0.0,2
+820.15,Debit,Kansas City,Branch,Doctor,181.0,1.0,0.0,2.0,1
+8.370000000000005,Debit,Colorado Springs,ATM,Retired,135.0,1.0,2.0,1.0,0
+197.49,Credit,Fresno,Online,Retired,30.0,1.0,2.0,0.0,5
+637.97,Debit,New York,Branch,Retired,90.0,1.0,2.0,0.0,0
+13.52000000000001,Debit,Seattle,ATM,Student,65.0,1.0,1.0,1.0,3
+432.1,Debit,San Francisco,ATM,Engineer,240.0,1.0,0.0,0.0,4
+375.17,Debit,Fort Worth,ATM,Engineer,66.0,2.0,2.0,0.0,0
+642.68,Debit,Fresno,Branch,Doctor,94.0,1.0,0.0,2.0,1
+78.44,Credit,San Jose,Online,Retired,292.0,1.0,2.0,0.0,5
+139.72000000000003,Debit,Memphis,Branch,Engineer,201.0,1.0,0.0,0.0,4
+499.99,Debit,San Jose,Branch,Engineer,296.0,1.0,0.0,2.0,1
+10.069999999999993,Debit,Albuquerque,Online,Student,49.0,1.0,1.0,1.0,3
+120.62,Debit,Raleigh,ATM,Student,85.0,1.0,1.0,2.0,3
+578.49,Debit,Nashville,Branch,Retired,180.0,1.0,2.0,0.0,0
+119.30000000000001,Debit,Mesa,Branch,Engineer,22.0,5.0,0.0,1.0,2
+280.92,Debit,Phoenix,Online,Doctor,168.0,1.0,0.0,0.0,4
+42.420000000000016,Debit,Sacramento,Online,Student,102.0,1.0,1.0,1.0,3
+77.03,Debit,Fresno,ATM,Doctor,259.0,1.0,2.0,2.0,6
+22.590000000000003,Debit,Seattle,ATM,Retired,45.0,1.0,2.0,0.0,0
+568.76,Debit,Baltimore,ATM,Retired,155.0,1.0,2.0,0.0,0
+25.93999999999997,Credit,San Jose,Online,Retired,211.0,5.0,2.0,0.0,2
+105.94,Debit,Oklahoma City,Branch,Engineer,207.0,1.0,2.0,0.0,0
+733.29,Debit,Virginia Beach,ATM,Doctor,94.0,5.0,2.0,2.0,2
+350.15,Credit,Fresno,ATM,Student,195.0,1.0,1.0,1.0,5
+183.67,Debit,San Diego,Online,Student,238.0,1.0,1.0,1.0,3
+278.27,Debit,Tucson,Branch,Doctor,123.0,1.0,1.0,0.0,4
+470.3,Debit,Austin,ATM,Doctor,88.0,1.0,0.0,2.0,1
+261.69,Debit,Philadelphia,ATM,Retired,84.0,1.0,2.0,0.0,0
+365.04,Debit,Virginia Beach,Branch,Student,94.0,1.0,1.0,1.0,3
+211.1,Debit,Miami,Branch,Retired,136.0,1.0,2.0,0.0,0
+21.49000000000001,Debit,Denver,ATM,Doctor,240.0,1.0,2.0,2.0,6
+63.579999999999984,Debit,Columbus,ATM,Student,199.0,1.0,1.0,2.0,3
+321.86,Debit,San Antonio,ATM,Doctor,167.0,1.0,2.0,2.0,6
+12.109999999999985,Debit,Jacksonville,nan,Retired,127.0,1.0,2.0,1.0,0
+642.54,Debit,Milwaukee,Branch,Engineer,28.0,1.0,0.0,0.0,4
+210.45,Debit,Las Vegas,ATM,Student,146.0,1.0,1.0,1.0,3
+313.65,Credit,Chicago,Branch,Retired,173.0,1.0,2.0,1.0,5
+99.75999999999999,Debit,Sacramento,Branch,Student,131.0,1.0,1.0,1.0,3
+115.32,Debit,Denver,Branch,Retired,113.0,1.0,2.0,0.0,0
+33.610000000000014,Debit,Milwaukee,Online,Student,72.0,1.0,1.0,1.0,3
+498.59000000000003,Credit,Oklahoma City,Online,Doctor,32.0,1.0,0.0,0.0,5
+98.81,Debit,San Francisco,Branch,Student,91.0,1.0,1.0,1.0,3
+1.8700000000000045,Debit,Washington,ATM,Retired,147.0,1.0,2.0,0.0,0
+78.92000000000002,Credit,Jacksonville,Online,Engineer,95.0,1.0,2.0,0.0,5
+194.29,Credit,Seattle,Branch,Engineer,10.0,1.0,0.0,0.0,5
+28.72999999999996,Debit,Kansas City,ATM,Engineer,185.0,1.0,2.0,0.0,0
+105.53,Debit,Colorado Springs,Online,Student,88.0,1.0,1.0,1.0,3
+737.34,Debit,Miami,Online,Doctor,34.0,1.0,1.0,0.0,4
+237.86,Debit,Philadelphia,ATM,Student,210.0,1.0,1.0,1.0,3
+409.61,Debit,Kansas City,Branch,Doctor,89.0,1.0,2.0,2.0,6
+75.53,Credit,Fresno,Online,Student,157.0,1.0,1.0,1.0,5
+72.75,Debit,Phoenix,ATM,Doctor,15.0,1.0,2.0,2.0,6
+39.110000000000014,Debit,Columbus,Online,Student,143.0,1.0,1.0,1.0,3
+729.38,Debit,Los Angeles,ATM,Doctor,90.0,1.0,2.0,2.0,6
+137.49,Debit,Fort Worth,ATM,Engineer,50.0,1.0,0.0,0.0,4
+504.71,Debit,Detroit,Online,Engineer,60.99999999999999,1.0,1.0,0.0,4
+371.47,Credit,Milwaukee,Branch,Student,58.0,1.0,1.0,1.0,5
+430.35,Debit,Charlotte,Online,Doctor,205.0,1.0,0.0,1.0,1
+230.32,Debit,Las Vegas,Branch,Engineer,56.0,1.0,0.0,1.0,4
+121.70999999999998,Debit,Chicago,ATM,Retired,140.0,1.0,2.0,0.0,0
+98.87,Debit,Detroit,Online,Student,179.0,1.0,1.0,1.0,3
+117.55000000000001,Debit,Fresno,ATM,Student,35.0,1.0,1.0,1.0,3
+244.64,Debit,Tucson,Branch,Doctor,103.0,1.0,1.0,2.0,1
+321.93,Debit,Nashville,ATM,Engineer,12.0,1.0,0.0,0.0,4
+283.23,Debit,El Paso,Online,Engineer,98.0,1.0,0.0,0.0,4
+346.65,Debit,Washington,Online,Engineer,60.0,1.0,1.0,0.0,4
+381.62,Debit,Las Vegas,Online,Retired,164.0,1.0,2.0,0.0,0
+388.65,Debit,Oklahoma City,ATM,Retired,43.0,1.0,2.0,0.0,0
+29.22,Debit,San Antonio,ATM,Student,151.0,1.0,1.0,1.0,3
+46.75,Debit,Colorado Springs,Branch,Retired,150.0,1.0,2.0,0.0,0
+348.64,Debit,San Jose,Online,Retired,128.0,1.0,2.0,0.0,0
+319.17,Debit,Tucson,Online,Retired,81.0,1.0,2.0,0.0,0
+73.94999999999999,Debit,Kansas City,ATM,Student,76.0,1.0,1.0,1.0,3
+389.63,Debit,Mesa,Online,Engineer,99.0,1.0,1.0,2.0,1
+217.61,Debit,Chicago,ATM,Student,45.0,1.0,1.0,1.0,3
+199.84,Debit,Dallas,ATM,Student,150.0,1.0,1.0,1.0,3
+56.349999999999994,Debit,Charlotte,ATM,Doctor,75.0,1.0,0.0,0.0,4
+248.95,Credit,San Francisco,Branch,Retired,28.999999999999986,1.0,2.0,0.0,5
+142.57999999999998,Debit,San Antonio,ATM,Engineer,145.0,1.0,0.0,0.0,4
+84.34,Debit,Memphis,Online,Retired,248.0,3.0,2.0,0.0,2
+333.78,Debit,San Diego,ATM,Retired,98.0,1.0,2.0,0.0,0
+332.59,Debit,San Antonio,Online,Retired,143.0,1.0,2.0,1.0,0
+236.81,Debit,Oklahoma City,Branch,Student,15.0,1.0,1.0,1.0,3
+417.8,Credit,Philadelphia,Branch,Student,130.0,1.0,1.0,1.0,5
+319.27,Debit,San Antonio,ATM,Doctor,150.0,1.0,0.0,2.0,1
+384.1,Debit,Detroit,Branch,Engineer,172.0,1.0,0.0,1.0,4
+820.62,Credit,Fresno,Branch,Doctor,158.0,1.0,2.0,0.0,5
+474.77,Credit,Indianapolis,Online,Engineer,50.0,1.0,2.0,0.0,5
+542.72,Credit,Indianapolis,Branch,Doctor,92.0,1.0,0.0,0.0,4
+79.80000000000001,Debit,Fort Worth,ATM,Retired,76.0,1.0,2.0,0.0,0
+46.24000000000001,Debit,San Diego,Branch,Engineer,52.0,1.0,2.0,0.0,0
+327.8,Debit,San Francisco,ATM,Doctor,54.0,1.0,2.0,2.0,6
+445.79,Debit,Las Vegas,ATM,Doctor,161.0,1.0,2.0,1.0,6
+55.889999999999986,Debit,Fresno,Online,Retired,150.0,1.0,2.0,0.0,0
+158.41,Debit,Sacramento,Branch,Student,16.0,1.0,1.0,1.0,3
+101.19,Credit,Denver,Online,Doctor,75.0,1.0,2.0,2.0,6
+827.14,Debit,El Paso,Branch,Engineer,265.0,4.0,0.0,2.0,2
+61.97,Debit,Phoenix,ATM,Retired,95.0,1.0,2.0,0.0,0
+27.210000000000008,Debit,San Jose,ATM,Retired,102.0,1.0,2.0,0.0,0
+173.74,Debit,Houston,Online,Retired,64.0,1.0,2.0,0.0,0
+176.11,Debit,San Jose,Branch,Engineer,105.0,1.0,0.0,2.0,1
+88.4,Debit,Fort Worth,Online,Engineer,174.0,1.0,0.0,0.0,4
+567.92,Debit,Columbus,Online,Retired,14.0,1.0,2.0,0.0,0
+138.11,Credit,Phoenix,Online,Retired,104.0,1.0,2.0,0.0,5
+456.93,Credit,Virginia Beach,Branch,Engineer,193.0,1.0,1.0,0.0,5
+101.42000000000002,Debit,Atlanta,Online,Retired,146.0,1.0,2.0,0.0,0
+300.61,Debit,El Paso,Online,Doctor,51.0,1.0,0.0,0.0,4
+265.94,Debit,Boston,Online,Engineer,132.0,1.0,2.0,0.0,0
+345.54,Debit,San Diego,Online,Engineer,50.0,1.0,1.0,0.0,4
+411.52,Debit,Los Angeles,ATM,Doctor,88.0,1.0,0.0,2.0,1
+111.20999999999998,Debit,Portland,Branch,Doctor,111.0,1.0,0.0,2.0,1
+316.37,Debit,Colorado Springs,ATM,Engineer,86.0,1.0,2.0,0.0,0
+260.63,Debit,Fort Worth,Branch,Engineer,142.0,1.0,0.0,0.0,4
+92.36000000000001,Debit,Dallas,ATM,Engineer,144.0,1.0,1.0,0.0,4
+262.06,Debit,Oklahoma City,Branch,Doctor,118.0,1.0,2.0,2.0,6
+64.5,Debit,Denver,ATM,Retired,230.0,1.0,2.0,1.0,0
+253.55,Debit,Jacksonville,ATM,Engineer,85.0,5.0,1.0,0.0,2
+175.94,Debit,Indianapolis,ATM,Retired,89.0,1.0,2.0,0.0,0
+199.47,Debit,Detroit,Online,Doctor,142.0,1.0,2.0,0.0,0
+51.06999999999999,Debit,Dallas,Branch,Retired,133.0,1.0,2.0,0.0,0
+435.86,Debit,Jacksonville,ATM,Retired,134.0,1.0,2.0,0.0,0
+74.73000000000002,Credit,Jacksonville,Branch,Retired,162.0,1.0,2.0,0.0,5
+182.79,Credit,Louisville,Online,Student,14.0,1.0,1.0,1.0,5
+628.36,Debit,Austin,Online,Doctor,108.0,1.0,0.0,2.0,1
+268.39,Debit,San Antonio,Online,Doctor,177.0,1.0,1.0,2.0,1
+362.27,Debit,Jacksonville,ATM,Retired,47.0,1.0,2.0,0.0,0
+560.15,Credit,Memphis,Online,Engineer,92.0,1.0,0.0,1.0,5
+351.99,Debit,Chicago,ATM,Retired,45.0,2.0,2.0,0.0,0
+132.36,Debit,Colorado Springs,Branch,Student,160.0,1.0,1.0,1.0,3
+24.77000000000004,Credit,Nashville,Online,Engineer,17.0,1.0,0.0,1.0,5
+668.67,Debit,Detroit,Online,Doctor,143.0,4.0,0.0,2.0,2
+80.24000000000001,Credit,New York,Branch,Doctor,58.0,1.0,2.0,2.0,6
+8.650000000000006,Debit,Mesa,ATM,Retired,198.0,1.0,2.0,0.0,0
+178.91,Debit,Omaha,ATM,Student,19.0,1.0,1.0,2.0,3
+115.22,Debit,San Francisco,Branch,Engineer,108.0,1.0,1.0,1.0,4
+161.63,Debit,San Jose,Online,Doctor,276.0,1.0,0.0,2.0,1
+542.75,Credit,Nashville,Branch,Retired,63.0,1.0,2.0,0.0,5
+317.47,Credit,Sacramento,Online,Doctor,16.0,1.0,2.0,2.0,6
+280.99,Debit,Houston,Branch,Engineer,28.999999999999986,1.0,0.0,2.0,1
+24.190000000000026,Debit,San Diego,ATM,Engineer,28.0,1.0,1.0,0.0,4
+586.85,Debit,Mesa,ATM,Doctor,86.0,1.0,0.0,0.0,4
+372.41,Debit,San Diego,ATM,Retired,143.0,1.0,2.0,0.0,0
+383.69,Debit,Colorado Springs,Online,Engineer,285.0,1.0,2.0,2.0,6
+247.17,Credit,Chicago,Branch,Retired,149.0,1.0,2.0,0.0,5
+48.78,Credit,Kansas City,Branch,Student,136.0,1.0,1.0,1.0,5
+4.150000000000034,Credit,Omaha,Branch,Retired,119.0,1.0,2.0,0.0,5
+60.99000000000001,Debit,Oklahoma City,Branch,Engineer,58.0,1.0,0.0,0.0,4
+408.19,Debit,Mesa,Branch,Engineer,241.0,1.0,1.0,0.0,4
+524.6,Debit,El Paso,Branch,Doctor,76.0,1.0,2.0,2.0,6
+108.95999999999998,Debit,Milwaukee,ATM,Student,247.0,1.0,1.0,0.0,3
+70.03,Debit,Nashville,Branch,Retired,49.0,1.0,2.0,0.0,0
+124.84,Debit,Louisville,Online,Retired,79.0,1.0,2.0,0.0,0
+324.04,Debit,Virginia Beach,ATM,Retired,30.0,1.0,2.0,0.0,0
+39.69,Debit,Austin,Online,Retired,163.0,1.0,2.0,0.0,0
+157.7,Credit,Omaha,Branch,Student,46.0,1.0,2.0,2.0,5
+81.26999999999998,Credit,Seattle,Online,Student,68.0,1.0,1.0,1.0,5
+193.82,Debit,Kansas City,Branch,Engineer,176.0,1.0,0.0,0.0,4
+16.730000000000018,Debit,nan,Online,Retired,165.0,1.0,2.0,0.0,0
+474.05,Debit,San Jose,ATM,Retired,214.0,1.0,2.0,1.0,0
+39.21000000000001,Debit,Miami,ATM,Doctor,245.0,4.0,2.0,2.0,2
+637.75,Debit,Dallas,Branch,Retired,152.0,1.0,2.0,0.0,0
+153.59,Credit,Portland,Branch,Retired,174.0,1.0,2.0,0.0,5
+186.6,Debit,Tucson,Branch,Student,139.0,1.0,1.0,2.0,3
+644.08,Debit,Atlanta,Online,Student,55.0,1.0,1.0,1.0,3
+226.66,Debit,nan,Branch,Doctor,168.0,1.0,0.0,2.0,1
+305.0,Debit,Phoenix,ATM,Student,222.0,1.0,1.0,1.0,3
+233.1,Credit,Nashville,Branch,Doctor,37.000000000000014,1.0,0.0,0.0,4
+793.13,Debit,Memphis,Online,Doctor,76.0,1.0,2.0,2.0,6
+224.19,Debit,Houston,ATM,Doctor,93.0,1.0,2.0,2.0,6
+214.83,Credit,Tucson,ATM,Student,63.0,1.0,1.0,1.0,5
+163.46,Credit,Baltimore,Branch,Retired,111.0,1.0,2.0,0.0,5
+194.99,Debit,Jacksonville,Branch,Engineer,91.0,1.0,0.0,1.0,4
+23.399999999999977,Debit,El Paso,ATM,Doctor,175.0,4.0,0.0,2.0,2
+227.5,Debit,Sacramento,Online,Doctor,277.0,1.0,0.0,2.0,1
+259.9,Debit,Oklahoma City,Online,Student,100.0,1.0,1.0,1.0,3
+59.50999999999999,Credit,Dallas,Online,Doctor,55.0,1.0,0.0,2.0,1
+112.94,Credit,San Antonio,Online,Retired,31.0,1.0,2.0,0.0,5
+11.809999999999974,Debit,Phoenix,ATM,Student,131.0,1.0,1.0,1.0,3
+329.14,Debit,Sacramento,Branch,Doctor,14.0,1.0,2.0,2.0,6
+154.24,Debit,Mesa,ATM,Retired,82.0,1.0,2.0,0.0,0
+233.44,Debit,Chicago,Online,Student,297.0,1.0,1.0,1.0,3
+141.8,nan,Chicago,ATM,Student,116.0,1.0,1.0,1.0,3
+209.03,Debit,Detroit,Branch,Engineer,126.0,1.0,2.0,2.0,6
+261.14,Debit,San Antonio,nan,Engineer,162.0,1.0,0.0,0.0,4
+98.70999999999998,Debit,Fort Worth,ATM,Doctor,117.0,1.0,0.0,2.0,1
+87.38,Debit,Atlanta,Branch,Student,252.0,1.0,1.0,1.0,3
+83.38999999999999,Debit,Omaha,Branch,Doctor,158.0,1.0,0.0,2.0,1
+267.55,Debit,Charlotte,Online,Engineer,40.0,1.0,0.0,0.0,4
+870.05,Debit,El Paso,ATM,Doctor,39.0,1.0,1.0,1.0,6
+164.51,Debit,Louisville,Branch,Retired,110.0,1.0,2.0,0.0,0
+758.1200000000001,Debit,San Francisco,ATM,Retired,90.0,1.0,2.0,0.0,0
+103.75999999999999,Debit,Kansas City,Online,Engineer,188.0,1.0,1.0,2.0,1
+583.92,Debit,Kansas City,Online,Engineer,139.0,1.0,2.0,0.0,0
+204.06,Debit,Washington,Online,Retired,159.0,1.0,2.0,0.0,0
+53.50999999999999,Debit,New York,Online,Retired,165.0,1.0,2.0,0.0,0
+52.94999999999999,Credit,Charlotte,Online,Student,14.0,1.0,2.0,0.0,5
+120.17000000000002,Debit,Portland,ATM,Doctor,105.0,1.0,0.0,0.0,4
+220.8,Debit,Indianapolis,Online,Engineer,28.0,1.0,0.0,2.0,1
+119.00999999999999,Debit,Philadelphia,ATM,Doctor,87.0,1.0,0.0,2.0,1
+183.32,Debit,Raleigh,ATM,Student,74.0,1.0,1.0,1.0,3
+858.88,Debit,Jacksonville,Online,Engineer,227.0,1.0,2.0,0.0,0
+11.460000000000008,Credit,San Francisco,Online,Engineer,128.0,1.0,0.0,0.0,5
+61.370000000000005,Debit,Columbus,Branch,Retired,164.0,1.0,2.0,0.0,0
+103.07999999999998,Credit,Milwaukee,Branch,Engineer,150.0,1.0,0.0,2.0,1
+1.210000000000008,Debit,Atlanta,Branch,Retired,196.0,1.0,2.0,0.0,0
+425.18,Credit,Colorado Springs,Online,Engineer,172.0,1.0,1.0,2.0,5
+60.96000000000001,Debit,Colorado Springs,ATM,Retired,238.0,1.0,2.0,0.0,0
+64.20999999999998,Debit,Omaha,ATM,Doctor,37.000000000000014,1.0,2.0,2.0,6
+523.02,Debit,Jacksonville,Online,Retired,83.0,1.0,2.0,0.0,0
+50.25999999999999,Debit,Las Vegas,Branch,Retired,164.0,1.0,2.0,1.0,0
+110.07999999999998,Debit,Detroit,Branch,Student,95.0,1.0,1.0,1.0,3
+54.47,Credit,Philadelphia,Branch,Student,34.0,1.0,1.0,1.0,5
+79.75999999999999,Debit,Kansas City,Online,Doctor,115.0,1.0,2.0,2.0,6
+16.789999999999992,Credit,Detroit,Online,Doctor,146.0,1.0,1.0,1.0,5
+68.62,Debit,Omaha,Branch,Doctor,157.0,1.0,1.0,2.0,1
+643.38,Credit,Detroit,Online,Student,105.0,1.0,1.0,1.0,5
+328.34,Credit,San Diego,Online,Engineer,31.0,1.0,0.0,0.0,5
+72.68,Debit,Seattle,Online,Retired,44.0,1.0,2.0,0.0,0
+354.76,Debit,Detroit,Branch,Doctor,279.0,1.0,2.0,2.0,6
+793.88,Credit,Los Angeles,ATM,Student,252.0,1.0,1.0,1.0,5
+29.22,Debit,Detroit,ATM,Engineer,69.0,1.0,1.0,0.0,4
+653.97,Debit,Miami,nan,Engineer,100.0,1.0,0.0,0.0,4
+366.43,Credit,Portland,Online,Student,92.0,1.0,1.0,1.0,5
+120.86000000000001,Debit,Colorado Springs,Online,Doctor,162.0,4.0,0.0,2.0,2
+233.74,Debit,Boston,Online,Retired,142.0,1.0,2.0,0.0,0
+471.84,Debit,Raleigh,ATM,Student,138.0,1.0,1.0,1.0,3
+213.4,Credit,Fort Worth,Branch,Retired,100.0,1.0,2.0,0.0,5
+254.21,Debit,Phoenix,ATM,Engineer,46.0,1.0,0.0,0.0,4
+577.73,Debit,San Jose,ATM,Doctor,63.0,1.0,0.0,2.0,1
+170.26,Debit,Chicago,ATM,Student,265.0,1.0,1.0,1.0,3
+337.73,Debit,San Antonio,Online,Retired,107.0,4.0,2.0,0.0,2
+330.61,Credit,Nashville,Branch,Retired,113.0,1.0,2.0,0.0,5
+132.33,Credit,Phoenix,ATM,Engineer,47.0,1.0,0.0,0.0,4
+74.04000000000002,Debit,Memphis,Online,Student,66.0,1.0,1.0,1.0,3
+197.18,Debit,Tucson,Online,Engineer,135.0,1.0,1.0,0.0,4
+21.150000000000034,Debit,Columbus,Branch,Retired,180.0,1.0,2.0,0.0,0
+590.01,Debit,San Jose,Online,Doctor,140.0,3.0,1.0,2.0,2
+697.82,Debit,New York,Online,Engineer,153.0,1.0,0.0,0.0,4
+302.76,Debit,Sacramento,ATM,Engineer,88.0,3.0,0.0,2.0,2
+148.0,Debit,Tucson,Branch,Student,35.0,1.0,1.0,1.0,3
+22.25999999999999,Debit,San Antonio,Branch,Student,56.0,1.0,1.0,0.0,3
+0.8600000000000136,Debit,Colorado Springs,ATM,Student,139.0,1.0,1.0,1.0,3
+757.1000000000001,Debit,Atlanta,Branch,Doctor,203.0,1.0,2.0,2.0,6
+38.81,Credit,Virginia Beach,Online,Student,145.0,1.0,1.0,1.0,5
+76.50999999999999,Credit,Mesa,Online,Engineer,120.0,4.0,0.0,2.0,2
+32.460000000000036,Debit,Charlotte,Online,Doctor,10.0,1.0,0.0,2.0,1
+20.639999999999986,Debit,Charlotte,Branch,Student,59.0,1.0,1.0,1.0,3
+662.11,Debit,Atlanta,Branch,Student,219.0,1.0,1.0,1.0,3
+288.77,Debit,Los Angeles,nan,Engineer,110.0,1.0,2.0,2.0,6
+35.05000000000004,Debit,Boston,Branch,Doctor,105.0,1.0,1.0,2.0,6
+214.73,Credit,Los Angeles,ATM,Doctor,26.0,1.0,0.0,0.0,4
+25.379999999999995,Debit,Louisville,Branch,Engineer,66.0,1.0,2.0,2.0,6
+617.66,Debit,Memphis,ATM,Engineer,40.0,1.0,0.0,0.0,4
+446.39,Debit,Houston,ATM,Retired,77.0,1.0,2.0,0.0,0
+377.92,Debit,Raleigh,Branch,Engineer,204.0,1.0,0.0,0.0,4
+11.04000000000002,Debit,Phoenix,Online,Engineer,43.0,1.0,1.0,0.0,4
+275.46,Debit,Fort Worth,ATM,Doctor,67.0,1.0,0.0,2.0,1
+179.76,Debit,Philadelphia,Online,Retired,81.0,1.0,2.0,0.0,0
+32.34,Debit,Kansas City,Branch,Doctor,45.0,1.0,0.0,0.0,4
+273.92,Debit,Portland,Branch,Retired,109.0,1.0,2.0,0.0,0
+375.45,Debit,Fort Worth,Branch,Student,32.0,1.0,1.0,1.0,3
+388.98,Debit,Fresno,ATM,Student,155.0,1.0,1.0,1.0,3
+492.84,Debit,Indianapolis,ATM,Student,38.0,1.0,1.0,1.0,3
+148.85,Debit,Mesa,ATM,Doctor,25.0,1.0,2.0,0.0,0
+391.66,Debit,nan,Branch,Engineer,103.0,1.0,0.0,0.0,4
+185.99,Credit,Fresno,Branch,Engineer,53.0,1.0,0.0,1.0,5
+322.48,Debit,Jacksonville,ATM,Student,57.0,1.0,1.0,1.0,3
+20.27000000000001,Debit,Miami,Branch,Student,22.0,1.0,1.0,1.0,3
+280.61,Debit,Mesa,ATM,Engineer,129.0,3.0,0.0,0.0,2
+199.02,Debit,Houston,ATM,Retired,269.0,1.0,2.0,0.0,0
+104.23000000000002,Credit,Louisville,Online,Retired,108.0,1.0,2.0,0.0,5
+353.59,Credit,New York,Branch,Retired,109.0,5.0,2.0,1.0,2
+55.860000000000014,Debit,Seattle,Online,Engineer,68.0,1.0,0.0,0.0,4
+10.77000000000001,nan,Indianapolis,ATM,Doctor,178.0,1.0,0.0,2.0,1
+95.55000000000001,Debit,Louisville,Branch,Engineer,51.0,1.0,0.0,0.0,4
+477.07,Debit,Columbus,Online,Engineer,278.0,1.0,1.0,0.0,0
+9.099999999999994,Credit,nan,Online,Retired,63.0,1.0,2.0,0.0,5
+21.409999999999997,Debit,Louisville,Online,Doctor,99.0,1.0,2.0,1.0,6
+278.28,Debit,Jacksonville,Branch,Student,26.0,1.0,1.0,1.0,3
+388.1,Credit,Los Angeles,Online,Retired,40.0,1.0,2.0,0.0,5
+215.39,Debit,Detroit,ATM,Student,216.0,1.0,1.0,1.0,3
+194.37,Debit,Milwaukee,ATM,Doctor,161.0,1.0,2.0,2.0,6
+37.69999999999999,Debit,Miami,ATM,Student,109.0,1.0,1.0,1.0,3
+19.590000000000032,Debit,Charlotte,Branch,Retired,122.0,1.0,2.0,1.0,0
+81.35,Debit,Houston,Online,Engineer,103.0,1.0,0.0,0.0,4
+314.54,Credit,Virginia Beach,Branch,Engineer,228.0,1.0,2.0,2.0,6
+466.64,Debit,Las Vegas,ATM,Doctor,11.0,1.0,2.0,2.0,6
+397.01,Debit,Los Angeles,ATM,Student,100.0,1.0,1.0,1.0,3
+472.48,Debit,New York,Branch,Engineer,87.0,1.0,2.0,0.0,0
+67.15,Debit,Indianapolis,Online,Doctor,14.0,1.0,2.0,2.0,6
+102.67000000000002,Debit,Albuquerque,Branch,Retired,119.0,1.0,2.0,0.0,0
+460.09,Credit,Fresno,Online,Doctor,146.0,3.0,0.0,0.0,2
+453.49,Debit,Seattle,Branch,Doctor,147.0,1.0,2.0,0.0,0
+267.17,Debit,Seattle,ATM,Student,170.0,1.0,1.0,1.0,3
+111.25999999999999,Debit,Boston,ATM,Doctor,43.0,1.0,2.0,2.0,6
+121.17000000000002,Debit,Phoenix,ATM,Doctor,158.0,1.0,2.0,2.0,6
+213.28,Debit,Mesa,Branch,Retired,94.0,1.0,2.0,0.0,0
+187.88,Debit,Nashville,ATM,Engineer,180.0,1.0,2.0,0.0,0
+471.88,Credit,San Jose,Online,Doctor,141.0,1.0,0.0,2.0,1
+83.79000000000002,Debit,Nashville,ATM,Engineer,47.0,1.0,2.0,0.0,0
+212.14,Debit,Austin,Branch,Retired,105.0,1.0,2.0,0.0,0
+99.16,Debit,San Francisco,Online,Retired,202.0,1.0,2.0,0.0,0
+839.33,Credit,Louisville,Branch,Doctor,86.0,1.0,2.0,2.0,6
+29.909999999999997,Credit,Philadelphia,Online,Retired,43.0,3.0,2.0,0.0,2
+4.240000000000009,Debit,San Diego,Online,Engineer,38.0,1.0,0.0,0.0,4
+50.28999999999999,Credit,Raleigh,Online,Doctor,64.0,1.0,2.0,0.0,5
+135.85000000000002,Debit,Fresno,Online,Retired,269.0,1.0,2.0,1.0,0
+368.53,Debit,Raleigh,Branch,Doctor,34.0,1.0,2.0,2.0,6
+17.94999999999996,Credit,Sacramento,Branch,Doctor,135.0,1.0,2.0,2.0,6
+127.8,Credit,Virginia Beach,Branch,Engineer,47.0,1.0,0.0,2.0,1
+16.730000000000018,Debit,Houston,Online,Engineer,48.000000000000014,1.0,0.0,0.0,4
+317.12,Debit,Fort Worth,Branch,Doctor,80.0,1.0,0.0,2.0,1
+476.63,Debit,Charlotte,ATM,Retired,115.0,1.0,2.0,0.0,0
+156.58,Debit,Portland,Branch,Student,160.0,1.0,1.0,2.0,3
+55.120000000000005,Credit,Houston,Online,Engineer,261.0,1.0,0.0,0.0,5
+15.740000000000038,Debit,Denver,Branch,Student,38.0,1.0,1.0,1.0,3
+353.68,Debit,Las Vegas,nan,Retired,145.0,1.0,2.0,0.0,0
+297.15,Debit,Phoenix,Online,Retired,178.0,1.0,2.0,0.0,0
+647.85,Debit,Omaha,Branch,Doctor,121.0,1.0,0.0,2.0,1
+75.04000000000002,Debit,El Paso,ATM,Engineer,178.0,1.0,0.0,2.0,1
+273.92,Debit,Virginia Beach,Online,Student,35.0,1.0,1.0,1.0,3
+215.8,Credit,Jacksonville,Branch,Retired,66.0,1.0,2.0,0.0,5
+420.6,Debit,Louisville,Branch,Student,55.0,1.0,1.0,1.0,3
+688.36,Credit,Memphis,Branch,Student,22.0,1.0,1.0,0.0,5
+285.18,Credit,Sacramento,Branch,Doctor,150.0,1.0,2.0,2.0,6
+213.55,Debit,Boston,ATM,Doctor,15.0,1.0,2.0,0.0,0
+463.11,Credit,Las Vegas,Branch,Doctor,159.0,1.0,2.0,2.0,6
+150.03,Debit,Columbus,ATM,Student,176.0,1.0,2.0,0.0,3
+309.56,Debit,Charlotte,Online,Doctor,147.0,1.0,2.0,1.0,6
+377.08,Credit,Mesa,Branch,Student,71.0,1.0,1.0,0.0,5
+77.25,Debit,Virginia Beach,Branch,Doctor,157.0,1.0,2.0,2.0,6
+146.92,Debit,Portland,ATM,Retired,272.0,1.0,2.0,0.0,0
+126.6,Debit,San Antonio,Branch,Student,146.0,1.0,1.0,1.0,3
+101.34,Debit,Boston,ATM,Student,46.0,1.0,1.0,1.0,3
+184.97,Debit,Denver,Branch,Doctor,268.0,1.0,2.0,1.0,6
+451.15,Debit,Colorado Springs,ATM,Engineer,175.0,1.0,0.0,1.0,4
+516.47,Credit,Charlotte,ATM,Student,94.0,1.0,1.0,1.0,5
+880.04,Debit,Sacramento,ATM,Student,28.999999999999986,1.0,1.0,1.0,3
+66.69,Credit,San Antonio,Branch,Student,140.0,1.0,1.0,1.0,5
+95.75,Debit,Los Angeles,Branch,Engineer,169.0,1.0,0.0,1.0,4
+98.03,Debit,El Paso,Branch,Engineer,165.0,1.0,2.0,0.0,0
+617.66,Debit,Boston,ATM,Engineer,128.0,1.0,0.0,0.0,4
+888.57,Debit,San Antonio,Online,Retired,102.0,1.0,2.0,0.0,0
+107.48000000000002,Debit,Omaha,Branch,Student,129.0,1.0,1.0,1.0,3
+36.56999999999999,Debit,Omaha,ATM,Retired,69.0,1.0,2.0,0.0,0
+575.62,Debit,Oklahoma City,Online,Doctor,129.0,1.0,0.0,1.0,1
+84.88999999999999,Debit,San Jose,ATM,Engineer,70.0,1.0,0.0,0.0,4
+180.65,Debit,Charlotte,Branch,Student,38.0,5.0,1.0,1.0,2
+7.759999999999991,Credit,Las Vegas,Online,Retired,84.0,1.0,2.0,0.0,5
+109.30000000000001,Debit,Fort Worth,Branch,Doctor,27.0,1.0,2.0,2.0,6
+230.08,Debit,Austin,Online,Retired,124.0,1.0,2.0,0.0,0
+361.92,Debit,Detroit,ATM,Retired,111.0,1.0,2.0,0.0,0
+71.29000000000002,Debit,Chicago,ATM,Retired,55.0,2.0,2.0,0.0,0
+122.44999999999999,Debit,New York,Branch,Doctor,98.0,1.0,0.0,0.0,4
+642.53,Debit,Mesa,ATM,Doctor,128.0,1.0,2.0,2.0,6
+62.860000000000014,Debit,Houston,Branch,Student,31.0,1.0,1.0,1.0,3
+175.21,Credit,Mesa,ATM,Doctor,69.0,1.0,2.0,0.0,5
+168.0,Credit,Tucson,Branch,Engineer,11.0,1.0,0.0,0.0,5
+11.460000000000008,Debit,Chicago,Online,Retired,73.0,1.0,2.0,0.0,0
+382.07,Credit,Omaha,Branch,Doctor,147.0,1.0,2.0,2.0,6
+13.47999999999999,Debit,Las Vegas,Online,Student,20.0,3.0,1.0,1.0,2
+65.32,Debit,Mesa,ATM,Student,54.0,1.0,1.0,2.0,3
+83.07,Debit,Miami,Branch,Engineer,291.0,4.0,1.0,0.0,2
+730.1,Credit,Chicago,Branch,Retired,93.0,1.0,2.0,0.0,5
+85.31,Debit,Kansas City,ATM,Retired,27.0,1.0,2.0,0.0,0
+726.61,Debit,Phoenix,ATM,Student,277.0,1.0,1.0,1.0,3
+130.4,Debit,Raleigh,Branch,Engineer,63.0,1.0,0.0,0.0,4
+68.1,Debit,Milwaukee,ATM,Student,47.0,1.0,1.0,1.0,3
+65.25999999999999,Debit,Sacramento,Branch,Student,72.0,1.0,1.0,0.0,3
+191.62,Debit,Jacksonville,Branch,Doctor,51.0,1.0,2.0,1.0,6
+212.88,Debit,Fresno,Online,Doctor,122.0,1.0,0.0,0.0,4
+88.38,Debit,Virginia Beach,ATM,Engineer,138.0,1.0,1.0,0.0,4
+48.77000000000001,nan,Austin,Online,Engineer,51.0,1.0,0.0,0.0,4
+390.09,Debit,El Paso,Online,Engineer,49.0,1.0,1.0,0.0,4
+48.28999999999999,Debit,San Diego,Online,Engineer,242.0,1.0,0.0,2.0,1
+333.83,Debit,Fresno,ATM,Retired,135.0,1.0,2.0,1.0,0
+100.26999999999998,Debit,Miami,Online,Retired,51.0,1.0,2.0,0.0,0
+44.53999999999999,Debit,San Antonio,ATM,Engineer,164.0,1.0,0.0,1.0,4
+82.17000000000002,Debit,Fort Worth,Branch,Student,21.0,1.0,1.0,1.0,3
+447.42,Debit,Charlotte,Online,Engineer,65.0,1.0,0.0,0.0,4
+590.26,Credit,Austin,Branch,Student,48.000000000000014,1.0,1.0,1.0,5
+192.73,Debit,Milwaukee,Branch,Retired,157.0,1.0,2.0,0.0,0
+146.01,Debit,San Francisco,Online,Student,269.0,1.0,1.0,1.0,3
+136.05,Debit,Atlanta,Online,Student,63.0,3.0,1.0,1.0,2
+11.570000000000022,Credit,New York,Branch,Retired,64.0,1.0,2.0,0.0,5
+7.819999999999993,Debit,Boston,ATM,Engineer,273.0,1.0,0.0,0.0,4
+79.43,Debit,Dallas,ATM,Retired,72.0,1.0,2.0,0.0,0
+386.97,Debit,Raleigh,Branch,Retired,137.0,1.0,2.0,1.0,0
+51.22,Debit,Fresno,Branch,Student,82.0,1.0,1.0,1.0,3
+256.05,Debit,Nashville,ATM,Retired,35.0,1.0,2.0,0.0,0
+7.789999999999992,Debit,Los Angeles,Branch,Doctor,298.0,1.0,0.0,1.0,1
+233.71,Debit,Louisville,Branch,Doctor,11.0,1.0,2.0,0.0,0
+176.37,Debit,Boston,Branch,Retired,126.0,1.0,2.0,0.0,0
+122.63,Debit,Milwaukee,Branch,Student,153.0,1.0,1.0,1.0,3
+86.41,Debit,Fresno,ATM,Retired,125.0,1.0,2.0,0.0,0
+21.569999999999965,Debit,San Francisco,ATM,Retired,71.0,1.0,2.0,0.0,0
+82.67000000000002,Debit,Milwaukee,Branch,Student,46.0,1.0,1.0,1.0,3
+299.42,Credit,San Jose,Branch,Retired,53.0,1.0,2.0,0.0,5
+543.47,Debit,Los Angeles,ATM,Student,122.0,1.0,1.0,0.0,3
+346.76,Credit,San Jose,Branch,Student,116.0,1.0,1.0,1.0,5
+47.47999999999999,Debit,El Paso,Branch,Student,66.0,1.0,1.0,1.0,3
+64.92000000000002,Debit,Atlanta,Branch,Engineer,236.0,1.0,2.0,0.0,0
+350.72,Credit,Fresno,ATM,Student,48.000000000000014,1.0,1.0,1.0,5
+3.8000000000000114,Debit,Charlotte,Online,Doctor,174.0,1.0,2.0,0.0,0
+22.539999999999992,Debit,El Paso,Online,Engineer,42.0,1.0,1.0,0.0,4
+767.14,Credit,Mesa,Branch,Retired,38.0,1.0,2.0,0.0,5
+167.47,Debit,Sacramento,ATM,Engineer,103.0,1.0,0.0,0.0,4
+43.650000000000006,Credit,Charlotte,Branch,Engineer,212.0,1.0,1.0,0.0,5
+391.08,Debit,Fresno,Online,Student,105.0,1.0,2.0,0.0,3
+390.77,Debit,Portland,Online,Doctor,34.0,1.0,0.0,0.0,4
+508.16,Debit,Mesa,ATM,Engineer,131.0,1.0,0.0,0.0,4
+36.75999999999996,nan,Philadelphia,Online,Retired,108.0,1.0,2.0,1.0,0
+332.33,Debit,Kansas City,ATM,Student,101.0,1.0,1.0,1.0,3
+362.09,Debit,New York,Branch,Engineer,31.0,1.0,0.0,0.0,4
+42.579999999999984,Debit,San Jose,Online,Doctor,80.0,1.0,1.0,2.0,1
+122.35,nan,Atlanta,Branch,Retired,188.0,1.0,2.0,0.0,0
+248.66,Debit,Chicago,Online,Engineer,113.0,1.0,1.0,0.0,4
+461.25,Credit,Sacramento,Online,Doctor,171.0,1.0,2.0,1.0,5
+61.77000000000001,Debit,Charlotte,Branch,Doctor,49.0,1.0,2.0,2.0,6
+268.92,Debit,Chicago,Branch,Engineer,148.0,1.0,1.0,2.0,6
+303.97,Debit,Fort Worth,Online,Student,77.0,5.0,1.0,1.0,2
+219.02,Credit,San Diego,Online,Engineer,68.0,1.0,2.0,0.0,5
+125.13999999999999,Debit,Baltimore,Branch,Student,31.0,1.0,1.0,1.0,3
+47.599999999999994,Debit,Austin,Online,Engineer,115.0,1.0,2.0,1.0,0
+592.82,Debit,Memphis,Online,Retired,248.0,1.0,2.0,0.0,0
+372.5,Debit,Nashville,ATM,Student,211.0,1.0,1.0,0.0,3
+4.719999999999999,Debit,Fort Worth,Branch,Engineer,20.0,1.0,0.0,0.0,4
+144.93,Debit,Fresno,Branch,Engineer,74.0,1.0,0.0,0.0,4
+316.56,Debit,Denver,Online,Engineer,261.0,1.0,1.0,2.0,1
+9.180000000000007,Debit,San Francisco,Online,Student,140.0,1.0,1.0,1.0,3
+421.25,Debit,Fort Worth,Online,Student,66.0,1.0,1.0,0.0,3
+185.71,Debit,Virginia Beach,Branch,Engineer,194.0,1.0,0.0,0.0,4
+26.269999999999982,Credit,Portland,Online,Engineer,177.0,1.0,0.0,2.0,1
+297.03,Debit,Austin,Online,Retired,151.0,1.0,2.0,1.0,0
+341.67,Debit,Omaha,Branch,Retired,96.0,5.0,2.0,1.0,2
+99.51999999999998,Debit,San Diego,ATM,Engineer,127.0,1.0,2.0,0.0,0
+881.1,Debit,Phoenix,Branch,Student,16.0,1.0,1.0,2.0,3
+139.69,Debit,Indianapolis,Online,Engineer,180.0,1.0,2.0,2.0,6
+112.72,Debit,Washington,Branch,Doctor,17.0,1.0,0.0,2.0,1
+568.88,Debit,Nashville,Branch,Student,105.0,1.0,1.0,1.0,3
+189.03,Debit,Oklahoma City,ATM,Student,50.0,1.0,1.0,1.0,3
+189.08,Debit,Miami,Branch,Doctor,238.0,1.0,2.0,2.0,6
+409.59,nan,Albuquerque,Online,Doctor,50.0,1.0,0.0,2.0,1
+283.15,Debit,Baltimore,Online,Student,180.0,1.0,1.0,1.0,3
+151.82,Debit,Chicago,ATM,Retired,105.0,1.0,2.0,0.0,0
+438.59,Debit,San Jose,Online,Engineer,103.0,1.0,0.0,2.0,1
+590.57,Debit,Milwaukee,ATM,Student,93.0,1.0,2.0,0.0,3
+63.74000000000001,Debit,Chicago,Online,Retired,31.0,1.0,2.0,0.0,0
+77.01999999999998,Credit,Miami,Online,Student,132.0,1.0,2.0,1.0,5
+501.15,Debit,Phoenix,Branch,Engineer,208.0,1.0,0.0,2.0,1
+8.94999999999996,Debit,Oklahoma City,Online,Retired,102.0,1.0,2.0,0.0,0
+173.6,Debit,Austin,Online,Student,160.0,1.0,1.0,1.0,3
+149.4,Debit,Chicago,ATM,Retired,123.0,1.0,2.0,1.0,0
+388.21,Credit,Columbus,Branch,Doctor,237.0,1.0,2.0,2.0,6
+484.30000000000007,Credit,Boston,Online,Retired,230.0,3.0,2.0,0.0,2
+126.04000000000002,Credit,Charlotte,Branch,Retired,167.0,1.0,2.0,0.0,5
+52.03999999999999,Credit,Colorado Springs,Branch,Doctor,31.0,1.0,0.0,2.0,1
+389.7,Credit,Austin,Branch,Doctor,216.0,1.0,2.0,0.0,5
+309.77,Credit,San Antonio,Online,Retired,137.0,1.0,2.0,0.0,5
+202.55,Debit,Dallas,ATM,Student,34.0,2.0,1.0,1.0,3
+724.18,Debit,Fort Worth,Branch,Doctor,134.0,1.0,0.0,2.0,1
+124.98000000000002,Debit,Washington,ATM,Student,78.0,1.0,1.0,1.0,3
+487.32000000000005,Debit,Kansas City,Branch,Doctor,164.0,1.0,2.0,0.0,0
+635.91,Credit,Jacksonville,Branch,Doctor,78.0,1.0,0.0,2.0,1
+205.65,Debit,Houston,Branch,Retired,144.0,1.0,2.0,0.0,0
+39.41,Debit,Louisville,Branch,Student,132.0,1.0,1.0,1.0,3
+254.0,Debit,Nashville,Branch,Doctor,63.0,1.0,0.0,0.0,4
+436.8,Debit,Houston,Branch,Engineer,213.0,1.0,0.0,0.0,4
+224.73,Debit,Miami,Branch,Retired,63.0,1.0,2.0,0.0,0
+752.69,Credit,Dallas,ATM,Doctor,115.0,1.0,2.0,2.0,6
+78.5,Credit,San Jose,Branch,Doctor,41.0,1.0,0.0,2.0,1
+50.0,Credit,Jacksonville,ATM,Doctor,87.0,1.0,2.0,1.0,6
+132.42,Debit,Denver,ATM,Student,164.0,1.0,1.0,1.0,3
+83.16,Debit,Los Angeles,ATM,Retired,177.0,1.0,2.0,0.0,0
+149.02,Credit,Fort Worth,Branch,Engineer,176.0,1.0,0.0,2.0,1
+74.26999999999998,Credit,Memphis,Online,Doctor,148.0,1.0,2.0,2.0,6
+876.57,Credit,Portland,ATM,Retired,118.0,1.0,2.0,0.0,5
+615.58,Debit,Jacksonville,ATM,Doctor,133.0,1.0,0.0,2.0,1
+643.03,Credit,Jacksonville,Online,Engineer,52.0,1.0,0.0,0.0,5
+7.950000000000017,Debit,Phoenix,ATM,Retired,65.0,1.0,2.0,0.0,0
+270.92,Credit,Louisville,Branch,Retired,143.0,1.0,2.0,0.0,5
+499.48,Debit,Charlotte,ATM,Student,133.0,1.0,1.0,1.0,3
+841.5,Credit,Atlanta,Branch,Student,287.0,1.0,1.0,1.0,5
+138.82,Debit,Fort Worth,Online,Retired,53.0,1.0,2.0,0.0,0
+231.46,Credit,Miami,Branch,Engineer,83.0,1.0,2.0,0.0,5
+292.08,Debit,Columbus,ATM,Retired,32.0,1.0,2.0,0.0,0
+63.97999999999999,Debit,Baltimore,Online,Doctor,258.0,1.0,2.0,0.0,0
+235.21,Debit,Boston,Branch,Doctor,74.0,1.0,2.0,0.0,0
+201.73,Debit,Baltimore,Online,Engineer,78.0,1.0,2.0,0.0,0
+161.31,Debit,Nashville,ATM,Student,13.0,1.0,1.0,1.0,3
+18.409999999999997,Debit,Atlanta,Branch,Doctor,168.0,1.0,2.0,2.0,6
+471.75,Credit,San Jose,Branch,Doctor,41.0,1.0,0.0,2.0,1
+290.02,Debit,Milwaukee,Branch,Engineer,246.0,1.0,2.0,0.0,0
+48.05000000000001,Debit,New York,Branch,Engineer,38.0,1.0,1.0,0.0,4
+359.42,Debit,Baltimore,Branch,Doctor,30.0,1.0,2.0,1.0,6
+32.90999999999997,Debit,Fort Worth,Online,Student,255.0,1.0,1.0,1.0,3
+3.8000000000000114,nan,Denver,Branch,Retired,140.0,1.0,2.0,0.0,0
+31.810000000000002,Debit,Fort Worth,Online,Retired,149.0,1.0,2.0,1.0,0
+220.2,Debit,Boston,Online,Student,102.0,1.0,1.0,1.0,3
+476.03,Credit,Houston,Branch,Retired,99.0,1.0,2.0,0.0,5
+141.91000000000003,Debit,Miami,Branch,Student,49.0,1.0,1.0,1.0,3
+95.82999999999998,Debit,Washington,Online,Student,91.0,1.0,1.0,1.0,3
+51.150000000000006,Credit,Los Angeles,Branch,Engineer,199.0,1.0,0.0,2.0,1
+50.75,Debit,Boston,ATM,Doctor,185.0,1.0,2.0,2.0,6
+185.07,Debit,Colorado Springs,Branch,Student,159.0,1.0,1.0,1.0,3
+293.54,Debit,Sacramento,Online,Engineer,45.0,1.0,0.0,0.0,4
+285.26,Debit,Atlanta,ATM,Student,93.0,1.0,1.0,1.0,3
+129.47999999999996,Debit,Seattle,ATM,Engineer,179.0,1.0,0.0,0.0,4
+743.03,Debit,New York,ATM,Engineer,174.0,1.0,0.0,0.0,4
+297.86,Credit,Milwaukee,ATM,Student,96.0,1.0,1.0,1.0,5
+231.92,Debit,Indianapolis,ATM,Doctor,12.0,1.0,2.0,0.0,0
+295.82,Credit,Chicago,Branch,Engineer,46.0,1.0,0.0,0.0,5
+302.86,nan,Los Angeles,Online,Doctor,275.0,1.0,2.0,0.0,0
+81.07999999999998,Debit,Omaha,ATM,Engineer,56.0,1.0,2.0,0.0,0
+775.6,Credit,Mesa,Branch,Retired,158.0,1.0,2.0,0.0,5
+211.91,Debit,Indianapolis,Online,Student,181.0,1.0,1.0,1.0,3
+17.20999999999998,Debit,Omaha,Online,Student,219.0,1.0,1.0,1.0,3
+124.22,Debit,Charlotte,ATM,Student,172.0,1.0,1.0,2.0,3
+38.37000000000003,Debit,San Antonio,ATM,Doctor,135.0,1.0,2.0,2.0,6
+269.79,Debit,San Jose,ATM,Engineer,17.0,1.0,2.0,1.0,0
+605.42,Debit,Mesa,ATM,Student,33.0,1.0,1.0,1.0,3
+29.189999999999998,Credit,Nashville,Branch,Doctor,41.0,1.0,2.0,2.0,6
+701.7,Credit,Seattle,Online,Retired,64.0,1.0,2.0,0.0,5
+862.34,Debit,Kansas City,Branch,Doctor,72.0,1.0,2.0,2.0,6
+410.97,Debit,Los Angeles,nan,Student,45.0,1.0,1.0,1.0,3
+36.97,Debit,Virginia Beach,Branch,Engineer,79.0,1.0,0.0,0.0,4
+137.59,Debit,Nashville,ATM,Doctor,95.0,1.0,1.0,2.0,6
+168.11,Credit,New York,Online,Doctor,12.0,1.0,2.0,2.0,6
+430.98,Debit,Baltimore,Branch,Student,93.0,1.0,1.0,1.0,3
+13.869999999999976,Debit,Phoenix,Branch,Student,20.0,1.0,1.0,1.0,3
+175.07,Debit,Las Vegas,Online,Engineer,169.0,2.0,1.0,2.0,1
+302.82,Debit,Jacksonville,ATM,Engineer,175.0,1.0,0.0,2.0,1
+406.81,Debit,New York,Online,Retired,84.0,1.0,2.0,1.0,0
+256.3,Debit,New York,Online,Retired,172.0,1.0,2.0,0.0,0
+80.95999999999998,Credit,Jacksonville,Online,Student,97.0,1.0,1.0,1.0,5
+95.78,Debit,Atlanta,Online,Student,27.0,1.0,1.0,1.0,3
+379.54,Credit,Indianapolis,Branch,Doctor,118.0,1.0,0.0,2.0,1
+903.19,Debit,El Paso,Online,Student,65.0,1.0,1.0,2.0,3
+142.19,Debit,Houston,Branch,Student,27.0,4.0,1.0,1.0,2
+847.45,Debit,Jacksonville,Branch,Student,175.0,1.0,1.0,1.0,3
+295.18,Credit,Dallas,Branch,Doctor,31.0,1.0,2.0,2.0,6
+18.460000000000008,Debit,Charlotte,Branch,Retired,213.0,1.0,2.0,0.0,0
+603.23,Debit,Detroit,Branch,Student,48.000000000000014,1.0,1.0,1.0,3
+54.5,Credit,Philadelphia,Branch,Retired,147.0,1.0,2.0,1.0,5
+414.77,Debit,San Francisco,Online,Doctor,274.0,1.0,1.0,0.0,4
+886.19,Debit,Colorado Springs,Branch,Retired,69.0,1.0,2.0,0.0,0
+440.03,Debit,San Jose,Online,Engineer,88.0,1.0,0.0,1.0,4
+76.38999999999999,Debit,Denver,Branch,Student,219.0,1.0,1.0,0.0,3
+595.91,Credit,San Antonio,ATM,Student,162.0,1.0,1.0,1.0,5
+6.030000000000001,Debit,Chicago,Branch,Retired,70.0,1.0,2.0,0.0,0
+249.34,Debit,Charlotte,ATM,Engineer,197.0,1.0,1.0,0.0,0
+421.52,Debit,San Jose,Branch,Student,67.0,1.0,1.0,1.0,3
+189.77,Debit,Raleigh,Branch,Engineer,24.0,1.0,2.0,0.0,0
+73.19,Debit,Atlanta,Branch,Retired,213.0,1.0,2.0,0.0,0
+188.13,Credit,Jacksonville,Online,Retired,198.0,1.0,2.0,0.0,5
+30.52000000000001,Debit,Jacksonville,Branch,Doctor,122.0,1.0,2.0,2.0,6
+170.24,Debit,San Francisco,Branch,Retired,133.0,1.0,2.0,0.0,0
+56.620000000000005,Debit,Austin,Branch,Doctor,121.0,1.0,2.0,2.0,6
+53.139999999999986,Debit,Las Vegas,ATM,Doctor,70.0,1.0,0.0,0.0,4
+587.23,Debit,Omaha,Online,Student,144.0,1.0,1.0,1.0,3
+21.27000000000001,Credit,Indianapolis,Online,Retired,114.0,1.0,2.0,0.0,5
+76.01999999999998,Credit,Albuquerque,Online,Doctor,189.0,1.0,0.0,2.0,1
+155.51,Debit,Raleigh,ATM,Doctor,15.0,1.0,2.0,0.0,0
+135.15,Debit,Colorado Springs,Online,Retired,50.0,1.0,2.0,0.0,0
+39.47999999999999,Debit,Omaha,ATM,Retired,38.0,1.0,2.0,0.0,0
+451.68,Debit,Houston,Online,Engineer,15.0,1.0,0.0,0.0,4
+355.0,Credit,Fort Worth,Online,Student,33.0,1.0,1.0,1.0,5
+427.69,Debit,Raleigh,ATM,Engineer,236.0,1.0,0.0,0.0,4
+254.86,Debit,Boston,Branch,Student,102.0,1.0,1.0,1.0,3
+19.47999999999996,Debit,Dallas,ATM,Engineer,114.0,1.0,1.0,0.0,4
+190.17,Debit,Baltimore,ATM,Doctor,265.0,1.0,0.0,2.0,1
+206.63,Credit,Oklahoma City,Online,Retired,128.0,1.0,2.0,0.0,5
+93.22,Debit,Charlotte,Online,Retired,52.0,1.0,2.0,1.0,0
+547.98,Debit,Oklahoma City,ATM,Student,171.0,1.0,1.0,1.0,3
+641.06,Debit,Colorado Springs,ATM,Student,25.0,1.0,1.0,1.0,3
+314.55,Credit,Dallas,Branch,Student,19.0,2.0,1.0,1.0,5
+836.45,Debit,Virginia Beach,Online,Retired,63.0,1.0,2.0,1.0,0
+189.45,Credit,Boston,Branch,Doctor,62.0,1.0,2.0,2.0,6
+91.84,Credit,Mesa,Branch,Retired,80.0,1.0,2.0,1.0,5
+609.52,Debit,Washington,ATM,Retired,169.0,1.0,2.0,0.0,0
+859.3,Credit,Colorado Springs,Branch,Retired,68.0,1.0,2.0,1.0,5
+100.00999999999999,Debit,Philadelphia,ATM,Doctor,63.0,1.0,0.0,0.0,4
+28.779999999999973,Credit,Tucson,Online,Doctor,51.0,1.0,0.0,1.0,1
+111.07999999999998,Debit,Chicago,Online,Doctor,83.0,1.0,2.0,0.0,0
+470.96,Credit,Indianapolis,Online,Doctor,124.0,2.0,2.0,2.0,6
+52.22999999999999,Credit,San Francisco,Branch,Student,96.0,1.0,1.0,1.0,5
+78.62,Debit,Oklahoma City,Branch,Doctor,52.0,1.0,0.0,1.0,4
+47.78999999999999,Debit,Denver,Branch,Student,37.000000000000014,1.0,1.0,1.0,3
+333.97,Debit,Fresno,Branch,Doctor,45.0,1.0,2.0,0.0,0
+30.869999999999976,Debit,Fresno,ATM,Doctor,295.0,1.0,0.0,2.0,1
+710.43,Debit,San Diego,Online,Retired,115.0,1.0,2.0,0.0,0
+220.23,Debit,Milwaukee,ATM,Engineer,48.000000000000014,1.0,0.0,0.0,4
+27.28000000000003,Debit,Atlanta,ATM,Doctor,96.0,1.0,1.0,2.0,6
+101.51999999999998,Debit,Tucson,ATM,Engineer,98.0,1.0,0.0,0.0,4
+162.65,Debit,New York,ATM,Engineer,147.0,1.0,2.0,2.0,6
+10.52000000000001,Debit,Kansas City,ATM,Retired,30.0,1.0,2.0,0.0,0
+270.72,Debit,Los Angeles,Branch,Doctor,37.000000000000014,1.0,0.0,0.0,4
+247.58,Debit,San Antonio,ATM,Engineer,152.0,1.0,0.0,1.0,4
+359.65,Credit,Jacksonville,Online,Student,289.0,1.0,1.0,1.0,5
+109.91,Debit,Seattle,Branch,Doctor,90.0,1.0,0.0,2.0,1
+215.72,Credit,Columbus,Branch,Engineer,137.0,1.0,1.0,2.0,6
+490.76,Debit,Columbus,Online,Retired,156.0,1.0,2.0,0.0,0
+224.28,Debit,Chicago,Online,Retired,68.0,1.0,2.0,0.0,0
+608.79,Debit,Fort Worth,Online,Engineer,157.0,1.0,2.0,0.0,0
+840.16,Credit,Colorado Springs,Branch,Student,68.0,1.0,1.0,1.0,5
+203.34,Debit,Phoenix,ATM,Doctor,66.0,1.0,2.0,2.0,6
+90.88,Debit,Colorado Springs,ATM,Engineer,284.0,1.0,1.0,0.0,0
+60.110000000000014,Credit,Albuquerque,Branch,Retired,122.0,1.0,2.0,0.0,5
+393.92,Debit,Memphis,Branch,Retired,47.0,1.0,2.0,0.0,0
+19.389999999999986,Debit,Colorado Springs,ATM,Doctor,45.0,1.0,0.0,2.0,1
+557.41,Credit,Washington,Online,Retired,49.0,1.0,2.0,0.0,5
+57.06999999999999,Credit,Boston,Online,Doctor,99.0,1.0,0.0,2.0,1
+395.27,Credit,Miami,Online,Student,167.0,1.0,1.0,1.0,5
+289.05,Debit,New York,ATM,Retired,116.0,1.0,2.0,0.0,0
+46.110000000000014,Debit,San Francisco,Online,Doctor,233.0,1.0,0.0,0.0,4
+335.5,Debit,Sacramento,ATM,Retired,47.0,1.0,2.0,0.0,0
+388.07,Debit,Seattle,Online,Student,68.0,1.0,1.0,1.0,3
+520.86,Credit,Sacramento,Online,Engineer,66.0,1.0,2.0,2.0,6
+787.41,Debit,Memphis,Online,Student,39.0,1.0,1.0,1.0,3
+31.69999999999999,Credit,Raleigh,ATM,Doctor,121.0,1.0,0.0,1.0,1
+22.30000000000001,Debit,Philadelphia,ATM,Student,90.0,1.0,1.0,1.0,3
+203.12,Debit,San Jose,ATM,Retired,181.0,1.0,2.0,1.0,0
+315.94,Credit,Raleigh,Branch,Doctor,172.0,1.0,0.0,0.0,4
+192.23,Debit,Albuquerque,Online,Engineer,39.0,3.0,2.0,0.0,2
+0.2599999999999909,Debit,Oklahoma City,Online,Student,173.0,1.0,1.0,1.0,3
+210.77,Debit,Mesa,ATM,Retired,161.0,1.0,2.0,0.0,0
+406.65,Debit,Mesa,ATM,Doctor,107.0,1.0,2.0,2.0,6
+422.9,Debit,Tucson,ATM,Engineer,111.0,1.0,0.0,0.0,4
+20.620000000000033,Credit,Philadelphia,ATM,Doctor,225.0,1.0,0.0,2.0,1
+174.39,Debit,San Francisco,ATM,Student,36.0,1.0,1.0,1.0,3
+7.860000000000014,Credit,Sacramento,Branch,Retired,91.0,1.0,2.0,0.0,5
+54.849999999999994,Credit,San Francisco,Branch,Retired,40.0,1.0,2.0,0.0,5
+204.7,Debit,Oklahoma City,Branch,Doctor,95.0,5.0,0.0,0.0,2
+16.55000000000004,Debit,Tucson,Branch,Engineer,159.0,1.0,1.0,0.0,4
+91.32,Debit,Milwaukee,Branch,Engineer,77.0,1.0,2.0,0.0,0
+49.620000000000005,Debit,Portland,ATM,Engineer,111.0,1.0,2.0,0.0,0
+487.15999999999997,Credit,Los Angeles,Branch,Student,84.0,1.0,1.0,1.0,5
+405.6,Debit,Tucson,Online,Engineer,44.0,1.0,0.0,2.0,1
+512.95,Debit,Columbus,Branch,Engineer,143.0,1.0,2.0,2.0,6
+345.94,Debit,Portland,ATM,Doctor,163.0,1.0,0.0,0.0,4
+356.56,Debit,New York,Online,Engineer,52.0,1.0,0.0,0.0,4
+10.31000000000003,Debit,Louisville,Online,Engineer,280.0,1.0,0.0,0.0,4
+211.69,Debit,Atlanta,Branch,Doctor,111.0,1.0,1.0,0.0,4
+221.49,Credit,Oklahoma City,Branch,Student,196.0,1.0,1.0,1.0,5
+278.23,Debit,Fresno,Online,Engineer,83.0,1.0,0.0,2.0,1
+116.88,Debit,Memphis,ATM,Doctor,263.0,1.0,0.0,0.0,4
+328.77,Credit,San Diego,Online,Doctor,247.0,1.0,0.0,0.0,5
+77.53,Debit,Louisville,Branch,Retired,55.0,1.0,2.0,0.0,0
+421.74,Debit,San Jose,Online,Doctor,103.0,1.0,2.0,2.0,6
+313.69,Debit,Oklahoma City,Branch,Retired,152.0,1.0,2.0,0.0,0
+411.72,Debit,Washington,Branch,Doctor,153.0,1.0,1.0,2.0,1
+508.73,Debit,Chicago,Branch,Retired,89.0,1.0,2.0,0.0,0
+153.08,Debit,Omaha,ATM,Student,201.0,1.0,1.0,1.0,3
+23.00999999999999,Debit,Las Vegas,Branch,Retired,166.0,1.0,2.0,0.0,0
+69.28,Debit,Los Angeles,Online,Student,129.0,1.0,1.0,1.0,3
+51.25,Credit,Austin,Branch,Student,66.0,1.0,1.0,1.0,5
+407.65,Debit,Denver,ATM,Student,263.0,1.0,1.0,1.0,3
+459.25,Debit,Tucson,Branch,Student,59.0,1.0,1.0,1.0,3
+301.56,Debit,Seattle,Branch,Doctor,118.0,1.0,0.0,2.0,1
+17.670000000000016,Debit,San Diego,Online,Doctor,91.0,1.0,2.0,1.0,6
+5.289999999999992,Credit,San Francisco,Online,Doctor,132.0,1.0,0.0,2.0,1
+401.37,Debit,Los Angeles,Branch,Engineer,251.0,1.0,0.0,2.0,1
+145.40000000000003,Debit,Tucson,Online,Engineer,24.0,1.0,0.0,0.0,4
+556.34,Debit,Seattle,Online,Doctor,46.0,1.0,0.0,2.0,1
+34.31,Debit,Philadelphia,ATM,Student,251.0,1.0,1.0,1.0,3
+780.59,Credit,Tucson,Online,Student,145.0,1.0,1.0,0.0,5
+282.65,Debit,Fort Worth,ATM,Doctor,161.0,1.0,0.0,2.0,1
+305.27,Debit,Las Vegas,Online,Doctor,147.0,1.0,2.0,2.0,6
+185.81,Debit,Austin,Online,Doctor,116.0,1.0,0.0,2.0,1
+66.00999999999999,Debit,Milwaukee,Online,Student,179.0,1.0,0.0,0.0,3
+447.95,Debit,Tucson,Branch,Engineer,75.0,1.0,1.0,0.0,4
+279.3,Debit,Oklahoma City,ATM,Student,48.000000000000014,1.0,1.0,1.0,3
+611.15,Debit,Detroit,ATM,Student,121.0,1.0,1.0,1.0,3
+275.2,Debit,New York,Online,Engineer,81.0,1.0,2.0,1.0,6
+427.79,Debit,San Jose,Branch,Student,189.0,1.0,1.0,1.0,3
+469.13,Credit,San Antonio,ATM,Doctor,139.0,1.0,2.0,1.0,6
+102.81,Debit,Seattle,Branch,Retired,47.0,1.0,2.0,0.0,0
+22.610000000000014,Debit,Seattle,Online,Student,145.0,1.0,1.0,1.0,3
+68.28,Debit,Boston,Online,Engineer,293.0,1.0,2.0,0.0,0
+33.650000000000006,Credit,New York,Online,Doctor,146.0,1.0,2.0,2.0,6
+362.68,Credit,Miami,ATM,Retired,137.0,1.0,2.0,0.0,5
+73.23000000000002,Debit,San Francisco,Branch,Student,172.0,1.0,1.0,1.0,3
+654.49,Credit,Austin,Online,Student,104.0,1.0,1.0,1.0,5
+18.56000000000003,Credit,Memphis,Branch,Engineer,161.0,1.0,0.0,0.0,5
+389.05,Debit,Dallas,ATM,Student,41.0,1.0,1.0,1.0,3
+66.91,Debit,Seattle,ATM,Doctor,85.0,1.0,0.0,1.0,4
+335.48,Debit,Oklahoma City,Branch,Engineer,155.0,1.0,0.0,0.0,4
+38.139999999999986,Debit,Albuquerque,Online,Student,174.0,1.0,1.0,1.0,3
+360.02,Debit,Dallas,Online,Retired,68.0,1.0,2.0,0.0,0
+567.71,Debit,Memphis,Online,Doctor,80.0,1.0,2.0,2.0,6
+218.19,Debit,Austin,ATM,Student,185.0,1.0,1.0,1.0,3
+209.99,Debit,Denver,ATM,Student,40.0,1.0,1.0,1.0,3
+11.02000000000001,Debit,Tucson,Branch,Student,280.0,1.0,1.0,1.0,3
+83.43,Debit,New York,Online,Retired,109.0,1.0,2.0,1.0,0
+344.97,Debit,Austin,Online,Doctor,106.0,1.0,0.0,0.0,4
+172.29,Debit,El Paso,ATM,Engineer,283.0,1.0,0.0,2.0,1
+195.54,Debit,Omaha,Online,Retired,255.0,1.0,2.0,0.0,0
+101.23000000000002,Debit,Colorado Springs,Online,Engineer,87.0,1.0,0.0,0.0,4
+180.46,Debit,Fresno,ATM,Student,34.0,1.0,1.0,1.0,3
+692.55,Debit,Charlotte,Branch,Retired,109.0,1.0,2.0,0.0,0
+147.31,Credit,Mesa,Online,Doctor,92.0,1.0,0.0,2.0,1
+107.48000000000002,Debit,Los Angeles,Branch,Student,103.0,1.0,1.0,1.0,3
+81.50999999999999,Debit,Washington,Branch,Student,97.0,1.0,1.0,1.0,3
+365.48,Credit,Seattle,Online,Retired,216.0,1.0,2.0,0.0,5
+491.1,Credit,Houston,Online,Engineer,125.0,1.0,0.0,0.0,5
+452.8,Debit,Los Angeles,Branch,Retired,151.0,1.0,2.0,0.0,0
+645.04,Debit,Memphis,Branch,Retired,78.0,1.0,2.0,0.0,0
+169.28,Debit,Philadelphia,Branch,Doctor,114.0,1.0,0.0,0.0,4
+88.42000000000002,Debit,El Paso,ATM,Doctor,91.0,1.0,2.0,2.0,6
+155.53,Debit,Baltimore,ATM,Engineer,66.0,1.0,1.0,0.0,4
+39.24000000000001,Debit,Dallas,ATM,Retired,106.0,1.0,2.0,0.0,0
+152.01,Debit,Fort Worth,ATM,Engineer,111.0,3.0,0.0,0.0,2
+78.76999999999998,Credit,Las Vegas,ATM,Engineer,50.0,1.0,0.0,0.0,4
+26.50000000000003,Debit,Indianapolis,Online,Engineer,179.0,1.0,0.0,0.0,4
+83.62,Debit,Raleigh,ATM,Doctor,146.0,1.0,0.0,2.0,1
+142.77999999999997,Debit,San Diego,Branch,Doctor,150.0,1.0,2.0,2.0,6
+55.99000000000001,Debit,El Paso,ATM,Doctor,95.0,1.0,0.0,1.0,4
+774.48,Debit,Louisville,Branch,Doctor,31.0,1.0,2.0,2.0,6
+105.37,Debit,Sacramento,ATM,Student,160.0,1.0,1.0,1.0,3
+118.82999999999998,Debit,Virginia Beach,Online,Student,295.0,1.0,1.0,1.0,3
+46.22,Debit,San Jose,Branch,Student,217.0,1.0,1.0,1.0,3
+659.71,Credit,San Jose,Branch,Student,148.0,1.0,1.0,1.0,5
+377.97,Debit,Miami,Online,Retired,160.0,1.0,2.0,0.0,0
+114.1,Debit,Boston,Branch,Retired,148.0,1.0,2.0,0.0,0
+11.299999999999983,Credit,Louisville,Online,Retired,41.0,1.0,2.0,1.0,5
+95.5,Debit,Omaha,Online,Retired,17.0,1.0,2.0,0.0,0
+130.93,Credit,Houston,Branch,Engineer,149.0,1.0,1.0,1.0,5
+272.97,Debit,Boston,Online,Retired,174.0,1.0,2.0,0.0,0
+73.35,Debit,San Francisco,Branch,Student,47.0,1.0,1.0,1.0,3
+29.939999999999998,Debit,San Francisco,ATM,Doctor,243.0,1.0,2.0,2.0,6
+307.24,Debit,San Jose,ATM,Student,136.0,2.0,1.0,1.0,3
+50.52000000000001,Debit,Boston,Online,Student,140.0,1.0,1.0,1.0,3
+820.46,Credit,Fort Worth,Online,Engineer,243.0,1.0,2.0,0.0,5
+153.07,Debit,Detroit,ATM,Engineer,116.0,1.0,2.0,2.0,6
+52.94,Debit,Tucson,Branch,Doctor,146.0,1.0,0.0,0.0,4
+384.41,Debit,Jacksonville,ATM,Engineer,65.0,1.0,2.0,0.0,0
+235.42,Debit,Phoenix,Branch,Retired,175.0,1.0,2.0,0.0,0
+114.23000000000002,Debit,Dallas,ATM,Doctor,64.0,1.0,2.0,2.0,6
+12.620000000000033,Debit,El Paso,Branch,Doctor,60.99999999999999,1.0,0.0,0.0,4
+373.52,Debit,Colorado Springs,ATM,Engineer,235.0,1.0,0.0,0.0,4
+336.05,Debit,San Antonio,Branch,Student,164.0,1.0,1.0,1.0,3
+366.93,Debit,Houston,Online,Retired,33.0,1.0,2.0,0.0,0
+112.26999999999998,Debit,Seattle,Branch,Doctor,102.0,1.0,2.0,0.0,0
+494.9599999999999,Debit,Sacramento,ATM,Engineer,132.0,1.0,0.0,0.0,4
+561.58,Debit,Sacramento,Online,Doctor,23.0,1.0,2.0,2.0,6
+440.94,Debit,San Antonio,Online,Doctor,148.0,1.0,0.0,0.0,4
+71.9,Debit,Los Angeles,Branch,Doctor,51.0,1.0,1.0,2.0,6
+256.66,Credit,Raleigh,Online,Retired,137.0,1.0,2.0,1.0,5
+166.55,Credit,Houston,Branch,Doctor,99.0,1.0,2.0,2.0,6
+276.26,Debit,Louisville,Branch,Doctor,143.0,1.0,2.0,1.0,6
+35.46000000000001,Debit,Indianapolis,ATM,Doctor,164.0,1.0,2.0,0.0,0
+38.139999999999986,Debit,Portland,Branch,Engineer,165.0,1.0,0.0,2.0,1
+506.26,Credit,Baltimore,ATM,Retired,86.0,1.0,2.0,0.0,5
+736.32,Debit,Indianapolis,Online,Doctor,28.0,1.0,0.0,2.0,1
+389.43,Credit,Austin,ATM,Engineer,151.0,1.0,2.0,0.0,5
+25.579999999999984,Debit,Omaha,ATM,Engineer,166.0,1.0,2.0,0.0,0
+446.1,Debit,Seattle,ATM,Student,243.0,1.0,1.0,1.0,3
+147.74,Debit,Raleigh,Branch,Student,15.0,1.0,1.0,1.0,3
+46.22999999999999,Debit,Fresno,Online,Retired,282.0,1.0,2.0,0.0,0
+265.37,Debit,Washington,Branch,Engineer,77.0,1.0,0.0,0.0,4
+342.57,Debit,Boston,Online,Student,91.0,1.0,1.0,1.0,3
+417.26,Credit,New York,Online,Doctor,45.0,1.0,0.0,2.0,1
+33.629999999999995,Debit,Columbus,Online,Retired,76.0,1.0,2.0,0.0,0
+64.57999999999998,Debit,El Paso,Branch,Retired,173.0,1.0,2.0,0.0,0
+23.22999999999999,Credit,Miami,Branch,Student,122.0,1.0,1.0,1.0,5
+278.88,Debit,Kansas City,Branch,Doctor,179.0,2.0,2.0,1.0,6
+285.49,Credit,Charlotte,Branch,Doctor,109.0,1.0,2.0,0.0,5
+71.87,Debit,Nashville,ATM,Student,258.0,1.0,1.0,1.0,3
+308.8,Debit,Baltimore,ATM,Retired,41.0,1.0,2.0,0.0,0
+288.43,Debit,Phoenix,Branch,Retired,72.0,1.0,2.0,0.0,0
+147.45999999999998,Credit,Albuquerque,Online,Doctor,205.0,1.0,2.0,0.0,5
+214.15,Debit,nan,Branch,Engineer,217.0,1.0,0.0,0.0,4
+71.34,Debit,Miami,Online,Engineer,144.0,3.0,0.0,0.0,2
+170.36,Debit,Indianapolis,ATM,Doctor,118.0,1.0,1.0,0.0,4
+736.53,Debit,Philadelphia,ATM,Engineer,120.0,1.0,2.0,2.0,6
+213.42,Debit,Columbus,ATM,Engineer,17.0,1.0,0.0,0.0,4
+94.09,Debit,Miami,Branch,Student,203.0,1.0,1.0,1.0,3
+91.23000000000002,nan,Boston,ATM,Retired,86.0,1.0,2.0,0.0,0
+263.92,Credit,San Diego,Branch,Retired,233.0,1.0,2.0,0.0,5
+77.5,Credit,Fort Worth,Online,Doctor,201.0,1.0,2.0,2.0,6
+3.650000000000034,Debit,Miami,Online,Doctor,146.0,1.0,2.0,2.0,6
+43.879999999999995,Credit,Seattle,Online,Student,251.0,1.0,1.0,1.0,5
+224.79,Debit,Boston,Online,Student,129.0,1.0,1.0,1.0,3
+64.30000000000001,Debit,Louisville,ATM,Retired,67.0,1.0,2.0,0.0,0
+111.79000000000002,Debit,Jacksonville,Online,Doctor,49.0,1.0,2.0,2.0,6
+613.7,Credit,Fort Worth,Branch,Retired,37.000000000000014,1.0,2.0,0.0,5
+26.069999999999993,Debit,Baltimore,Branch,Student,19.0,3.0,1.0,1.0,2
+170.45,Debit,San Francisco,Branch,Engineer,199.0,1.0,2.0,0.0,0
+344.27,Debit,San Antonio,Branch,Student,123.0,1.0,1.0,1.0,3
+872.72,Debit,Washington,Online,Student,288.0,1.0,1.0,1.0,3
+292.95,Debit,Memphis,Branch,Engineer,56.0,1.0,0.0,1.0,4
+28.439999999999998,Debit,Fresno,ATM,Student,243.0,1.0,1.0,1.0,3
+209.02,Debit,El Paso,ATM,Student,74.0,1.0,1.0,1.0,3
+20.05000000000001,Debit,Chicago,ATM,Retired,171.0,1.0,2.0,0.0,0
+175.02,Debit,Phoenix,Online,Student,71.0,1.0,1.0,1.0,3
+89.5,Credit,Louisville,Branch,Engineer,134.0,1.0,0.0,2.0,1
+69.95999999999998,Debit,Baltimore,Branch,Student,31.0,1.0,1.0,1.0,3
+376.78,Credit,Nashville,Online,Student,88.0,1.0,1.0,1.0,5
+148.54,Credit,Columbus,Branch,Retired,107.0,1.0,2.0,0.0,5
+388.77,Credit,Jacksonville,Online,Student,30.0,1.0,1.0,1.0,5
+100.38,Debit,Seattle,Branch,Doctor,49.0,1.0,2.0,2.0,6
+137.23000000000002,Debit,Fresno,Branch,Doctor,63.0,1.0,2.0,2.0,6
+870.3,Debit,San Jose,ATM,Retired,229.0,1.0,2.0,0.0,0
+458.94,Debit,Detroit,Branch,Engineer,180.0,1.0,2.0,0.0,0
+327.35,Credit,Memphis,Branch,Student,175.0,1.0,1.0,1.0,5
+757.1499999999999,Debit,Raleigh,Online,Engineer,38.0,1.0,2.0,0.0,0
+47.22999999999999,Credit,Memphis,Online,Retired,160.0,1.0,2.0,0.0,5
+239.41,Credit,nan,Online,Doctor,248.0,1.0,0.0,0.0,5
+170.97,Debit,Nashville,Branch,Student,292.0,1.0,1.0,1.0,3
+262.43,Credit,San Diego,Online,Doctor,274.0,5.0,0.0,2.0,2
+659.15,Debit,Boston,ATM,Student,204.0,1.0,1.0,1.0,3
+31.53,Debit,Kansas City,Online,Student,283.0,1.0,1.0,1.0,3
+111.66,Credit,nan,Online,Engineer,140.0,1.0,0.0,0.0,5
+250.01,Debit,Kansas City,ATM,Retired,88.0,1.0,2.0,1.0,0
+554.15,Debit,Raleigh,ATM,Doctor,108.0,1.0,0.0,2.0,1
+598.66,nan,Charlotte,Branch,Engineer,222.0,1.0,0.0,0.0,4
+28.379999999999995,Debit,Sacramento,Branch,Doctor,98.0,1.0,2.0,1.0,6
+16.80000000000004,Debit,San Diego,ATM,Doctor,94.0,1.0,0.0,2.0,1
+896.79,Debit,Dallas,Online,Doctor,168.0,1.0,0.0,2.0,1
+159.0,Debit,Las Vegas,ATM,Engineer,38.0,1.0,0.0,1.0,4
+56.31,Credit,Houston,Online,Retired,195.0,1.0,2.0,0.0,5
+203.99,Debit,Philadelphia,Online,Retired,215.0,1.0,2.0,0.0,0
+50.99000000000001,Debit,Detroit,Branch,Doctor,76.0,1.0,1.0,1.0,6
+101.28,Credit,Chicago,Online,Engineer,75.0,1.0,0.0,0.0,5
+299.92,Debit,Denver,ATM,Student,122.0,1.0,1.0,1.0,3
+77.54000000000002,Debit,Phoenix,Online,Retired,73.0,1.0,2.0,0.0,0
+18.349999999999994,Debit,Nashville,Branch,Student,78.0,1.0,1.0,1.0,3
+732.53,Credit,San Jose,ATM,Student,116.0,1.0,1.0,1.0,5
+65.11000000000001,Debit,Nashville,ATM,Engineer,150.0,1.0,0.0,2.0,1
+67.07,Credit,Los Angeles,ATM,Student,56.0,1.0,1.0,1.0,5
+137.47999999999996,Debit,Seattle,Branch,Doctor,47.0,1.0,2.0,2.0,6
+398.36,Debit,Columbus,ATM,Student,56.0,1.0,1.0,1.0,3
+469.46,Debit,New York,ATM,Student,149.0,1.0,1.0,2.0,3
+37.579999999999984,Debit,Indianapolis,ATM,Doctor,182.0,1.0,2.0,1.0,6
+160.24,Debit,Washington,ATM,Engineer,15.0,1.0,0.0,0.0,4
+315.39,Credit,New York,Branch,Student,93.0,1.0,1.0,1.0,5
+434.17,Debit,Atlanta,ATM,Student,148.0,5.0,1.0,0.0,2
+165.91,Debit,Jacksonville,ATM,Student,84.0,1.0,1.0,1.0,3
+211.36,Debit,San Francisco,Branch,Engineer,194.0,1.0,0.0,0.0,4
+241.45,Debit,Portland,Online,Student,158.0,1.0,1.0,1.0,3
+23.24000000000001,Debit,Indianapolis,Branch,Doctor,129.0,1.0,2.0,2.0,6
+70.88,Credit,Omaha,Branch,Retired,176.0,1.0,2.0,1.0,5
+314.52,Debit,Memphis,ATM,Retired,229.0,1.0,2.0,0.0,0
+181.81,Credit,Austin,Online,Retired,122.0,1.0,2.0,0.0,5
+854.64,Debit,Fort Worth,Branch,Retired,118.0,1.0,2.0,0.0,0
+261.19,Debit,Oklahoma City,ATM,Retired,52.0,1.0,2.0,0.0,0
+220.68,Credit,Raleigh,Online,Retired,217.0,1.0,2.0,0.0,5
+11.859999999999985,Debit,Sacramento,Branch,Engineer,129.0,1.0,0.0,0.0,4
+122.65,Debit,Columbus,Online,Student,41.0,1.0,1.0,1.0,3
+395.16,Debit,Milwaukee,Online,Retired,17.0,1.0,2.0,0.0,0
+704.69,Debit,Las Vegas,Online,Retired,150.0,1.0,2.0,0.0,0
+369.89,Debit,San Antonio,ATM,Retired,69.0,1.0,2.0,0.0,0
+10.919999999999987,Debit,Jacksonville,ATM,Retired,268.0,1.0,2.0,0.0,0
+199.14,Debit,Seattle,Branch,Engineer,36.0,1.0,0.0,0.0,4
+109.43,Debit,Denver,nan,Retired,140.0,1.0,2.0,1.0,0
+304.15,Debit,Atlanta,Branch,Student,40.0,1.0,1.0,1.0,3
+620.54,Credit,Omaha,Branch,Student,98.0,1.0,1.0,1.0,5
+757.79,Debit,Charlotte,Online,Student,117.0,1.0,1.0,1.0,3
+122.81,Debit,San Jose,Branch,Doctor,12.0,1.0,2.0,2.0,6
+96.25,Debit,Houston,Online,Retired,171.0,1.0,2.0,0.0,0
+142.55,Debit,Kansas City,Online,Doctor,97.0,1.0,2.0,1.0,6
+35.94,Credit,Fresno,Branch,Student,141.0,1.0,1.0,1.0,5
+24.860000000000014,Debit,Jacksonville,Branch,Engineer,292.0,1.0,2.0,0.0,0
+103.07999999999998,Debit,San Francisco,Online,Doctor,109.0,1.0,2.0,2.0,6
+116.26999999999998,Debit,Portland,Online,Engineer,94.0,1.0,2.0,2.0,6
+363.84,Debit,Columbus,Online,Retired,118.0,3.0,2.0,0.0,2
+108.75,Debit,Houston,ATM,Doctor,23.0,4.0,0.0,2.0,2
+50.900000000000006,Credit,Jacksonville,Online,Student,150.0,1.0,1.0,1.0,5
+206.84,Debit,Philadelphia,Branch,Student,154.0,1.0,1.0,1.0,3
+37.400000000000006,Debit,Raleigh,ATM,Student,84.0,1.0,1.0,1.0,3
+154.21,Debit,Miami,Online,Engineer,75.0,1.0,0.0,2.0,1
+199.37,Debit,Chicago,Online,Student,79.0,1.0,1.0,1.0,3
+18.230000000000018,Debit,Nashville,ATM,Engineer,28.0,1.0,2.0,2.0,6
+398.7,Debit,Albuquerque,ATM,Doctor,276.0,1.0,0.0,0.0,4
+378.2,Debit,Mesa,Branch,Engineer,167.0,1.0,0.0,0.0,4
+124.74000000000001,Debit,Los Angeles,ATM,Engineer,33.0,1.0,0.0,0.0,4
+17.099999999999994,Debit,Albuquerque,ATM,Retired,101.0,1.0,2.0,1.0,0
+287.05,Debit,Milwaukee,ATM,Student,212.0,1.0,1.0,1.0,3
+874.72,Debit,San Francisco,Online,Engineer,173.0,1.0,1.0,0.0,4
+40.120000000000005,Credit,Dallas,ATM,Doctor,269.0,1.0,0.0,2.0,1
+125.0,Credit,Indianapolis,Online,Engineer,177.0,1.0,0.0,0.0,5
+348.44,Debit,Baltimore,Online,Student,147.0,1.0,1.0,1.0,3
+128.39999999999998,Debit,Tucson,ATM,Retired,31.0,1.0,2.0,0.0,0
+320.93,Debit,Atlanta,Online,Engineer,178.0,1.0,2.0,2.0,6
+1.4099999999999966,Debit,Sacramento,ATM,Retired,278.0,1.0,2.0,1.0,0
+50.52000000000001,Debit,Los Angeles,Branch,Doctor,293.0,1.0,2.0,2.0,6
+383.95,Credit,San Diego,Online,Engineer,143.0,1.0,0.0,2.0,1
+12.939999999999998,Debit,Fresno,Branch,Student,158.0,1.0,1.0,1.0,3
+329.75,Debit,Sacramento,Online,Retired,211.0,1.0,2.0,0.0,0
+40.78999999999999,Debit,Milwaukee,ATM,Student,80.0,1.0,1.0,1.0,3
+99.25,Credit,Phoenix,Online,Retired,93.0,1.0,2.0,0.0,5
+150.6,Debit,Miami,ATM,Retired,59.0,1.0,2.0,0.0,0
+29.5,Debit,San Antonio,Online,Retired,129.0,1.0,2.0,1.0,0
+54.34,Debit,Albuquerque,ATM,Doctor,46.0,1.0,2.0,2.0,6
+18.24999999999997,Debit,Kansas City,ATM,Doctor,18.000000000000014,1.0,2.0,2.0,6
+633.87,Debit,Kansas City,Online,Student,175.0,1.0,1.0,1.0,3
+81.15,Debit,Miami,ATM,Student,114.0,1.0,1.0,1.0,3
+83.94999999999999,Debit,New York,Online,Retired,170.0,1.0,2.0,0.0,0
+410.4,Credit,Virginia Beach,ATM,Retired,78.0,1.0,2.0,0.0,5
+172.68,Debit,Baltimore,ATM,Doctor,17.0,1.0,0.0,2.0,1
+139.88,Debit,Colorado Springs,ATM,Engineer,162.0,1.0,0.0,0.0,4
+165.55,Debit,Dallas,Branch,Student,115.0,1.0,1.0,1.0,3
+53.78999999999999,Credit,Philadelphia,ATM,Engineer,137.0,3.0,2.0,0.0,2
+285.69,Debit,Miami,ATM,Retired,35.0,1.0,2.0,0.0,0
+532.4,Debit,Jacksonville,ATM,Student,149.0,1.0,1.0,1.0,3
+293.85,Debit,Charlotte,Online,Student,144.0,1.0,1.0,1.0,3
+27.939999999999998,Debit,Atlanta,Branch,Retired,120.0,1.0,2.0,1.0,0
+270.36,Debit,Oklahoma City,ATM,Student,37.000000000000014,1.0,1.0,1.0,3
+112.66,Debit,Philadelphia,Online,Engineer,176.0,3.0,1.0,1.0,2
+506.03,Debit,Detroit,Branch,Student,21.0,1.0,1.0,1.0,3
+206.95,Debit,Seattle,Branch,Student,31.0,1.0,1.0,1.0,3
+350.96,Debit,Tucson,ATM,Retired,167.0,1.0,2.0,0.0,0
+261.63,Debit,Chicago,Branch,Student,150.0,1.0,1.0,1.0,3
+46.120000000000005,Debit,Fresno,Branch,Doctor,30.0,1.0,2.0,2.0,6
+27.24999999999997,Credit,Kansas City,Branch,Retired,92.0,1.0,2.0,0.0,5
+331.66,Debit,Las Vegas,ATM,Retired,145.0,1.0,2.0,0.0,0
+667.95,Credit,Oklahoma City,ATM,Doctor,253.0,1.0,2.0,2.0,6
+49.84,Debit,Chicago,ATM,Doctor,146.0,1.0,0.0,0.0,4
+556.04,Debit,Denver,ATM,Retired,27.0,1.0,2.0,0.0,0
+88.06,Credit,Raleigh,Online,Student,288.0,1.0,1.0,1.0,5
+745.95,Debit,Memphis,ATM,Doctor,127.0,1.0,2.0,2.0,6
+67.25,Debit,Miami,Online,Student,157.0,1.0,1.0,1.0,3
+93.63,Debit,New York,ATM,Engineer,141.0,1.0,1.0,2.0,6
+74.11000000000001,Debit,San Jose,Branch,Student,49.0,1.0,1.0,1.0,3
+41.129999999999995,Credit,Philadelphia,Branch,Retired,58.0,1.0,2.0,0.0,5
+192.02,Credit,Indianapolis,Online,Retired,154.0,1.0,2.0,0.0,5
+291.27,Debit,Detroit,Branch,Retired,121.0,1.0,2.0,0.0,0
+296.46,nan,Dallas,Branch,Student,136.0,1.0,1.0,1.0,3
+341.84,Credit,El Paso,Branch,Student,89.0,1.0,1.0,1.0,5
+98.41,Debit,Sacramento,Online,Student,48.000000000000014,1.0,1.0,1.0,3
+109.28,Debit,San Diego,Online,Engineer,112.0,4.0,0.0,0.0,2
+27.51000000000002,Credit,Columbus,Online,Doctor,103.0,1.0,0.0,2.0,1
+207.71,Credit,Kansas City,Online,Student,63.0,1.0,1.0,1.0,5
+25.77000000000004,Credit,San Diego,Online,Doctor,277.0,1.0,0.0,2.0,1
+127.57,Debit,Nashville,ATM,Retired,75.0,1.0,2.0,0.0,0
+392.05,Debit,Denver,ATM,Engineer,172.0,1.0,2.0,0.0,0
+521.01,Credit,Seattle,Branch,Engineer,73.0,1.0,0.0,0.0,5
+849.76,Debit,Seattle,ATM,Student,269.0,1.0,1.0,1.0,3
+172.5,Debit,Columbus,Online,Doctor,31.0,1.0,2.0,0.0,0
+152.34,Debit,Omaha,Branch,Doctor,115.0,1.0,2.0,0.0,0
+21.129999999999995,Debit,Dallas,Branch,Student,153.0,1.0,1.0,1.0,3
+111.55000000000001,Debit,Denver,ATM,Doctor,101.0,1.0,0.0,2.0,1
+321.82,Credit,Raleigh,Branch,Engineer,43.0,1.0,0.0,0.0,5
+148.77,Debit,San Jose,Branch,Retired,175.0,1.0,2.0,0.0,0
+14.080000000000013,Debit,nan,Branch,Retired,154.0,1.0,2.0,0.0,0
+566.33,Credit,Charlotte,ATM,Student,66.0,1.0,1.0,1.0,5
+206.51,nan,Indianapolis,ATM,Retired,275.0,1.0,2.0,0.0,0
+180.94,Debit,Raleigh,Branch,Retired,57.0,1.0,2.0,0.0,0
+77.9,Debit,Washington,Branch,Student,128.0,1.0,1.0,1.0,3
+318.92,Credit,Washington,Branch,Student,60.0,1.0,1.0,1.0,5
+583.3,Credit,Nashville,Online,Engineer,142.0,1.0,2.0,0.0,5
+100.68,Debit,Memphis,Online,Retired,139.0,1.0,2.0,1.0,0
+589.64,Debit,Charlotte,Online,Retired,210.0,1.0,2.0,0.0,0
+225.93,Credit,Omaha,Branch,Student,199.0,1.0,1.0,1.0,5
+651.55,Debit,Phoenix,Online,Retired,82.0,1.0,2.0,0.0,0
+80.97,Debit,Seattle,Online,Doctor,157.0,1.0,0.0,0.0,4
+191.89,Debit,San Antonio,Branch,Student,14.0,1.0,1.0,1.0,3
+304.75,Credit,Austin,Branch,Retired,125.0,1.0,2.0,1.0,5
+201.53,Debit,Tucson,Online,Retired,287.0,1.0,2.0,0.0,0
+8.450000000000017,Debit,Philadelphia,ATM,Student,141.0,1.0,1.0,1.0,3
+435.98,Debit,Mesa,Branch,Engineer,105.0,1.0,1.0,0.0,4
+743.24,Credit,Indianapolis,Online,Student,109.0,1.0,1.0,1.0,5
+16.27000000000004,Debit,Atlanta,ATM,Doctor,44.0,1.0,2.0,2.0,6
+290.86,Debit,Louisville,Online,Doctor,36.0,1.0,0.0,2.0,1
+85.73000000000002,Debit,Virginia Beach,ATM,Doctor,266.0,1.0,0.0,2.0,1
+555.71,Credit,Boston,Branch,Student,73.0,1.0,1.0,1.0,5
+40.03,Debit,Omaha,Branch,Student,200.0,1.0,1.0,0.0,3
+73.00999999999999,Credit,Milwaukee,Online,Student,62.0,1.0,1.0,1.0,5
+346.12,Debit,San Francisco,Branch,Doctor,12.0,1.0,0.0,2.0,1
+1.9300000000000068,Debit,Chicago,Branch,Doctor,175.0,5.0,0.0,0.0,2
+252.93,Debit,Portland,ATM,Retired,222.0,1.0,2.0,0.0,0
+238.54,Debit,Indianapolis,ATM,Student,12.0,4.0,1.0,1.0,2
+58.69999999999999,Debit,New York,nan,Doctor,141.0,1.0,2.0,2.0,6
+7.560000000000002,Debit,Milwaukee,ATM,Doctor,145.0,1.0,0.0,2.0,1
+540.4,Debit,Houston,Branch,Doctor,272.0,1.0,0.0,1.0,1
+264.14,Debit,Baltimore,ATM,Doctor,125.0,1.0,2.0,2.0,6
+248.15,Debit,Milwaukee,ATM,Retired,202.0,1.0,2.0,0.0,0
+24.340000000000003,Debit,Raleigh,Branch,Engineer,110.0,1.0,2.0,0.0,0
+428.61,Debit,Fort Worth,ATM,Doctor,62.0,1.0,2.0,2.0,6
+117.66,Credit,Memphis,Branch,Doctor,126.0,1.0,0.0,0.0,4
+165.8,Debit,Nashville,Online,Engineer,287.0,1.0,2.0,0.0,0
+289.18,Debit,Baltimore,ATM,Retired,64.0,1.0,2.0,0.0,0
+125.38999999999999,Debit,Los Angeles,ATM,Student,140.0,1.0,1.0,1.0,3
+305.18,Debit,Chicago,Online,Retired,216.0,1.0,2.0,0.0,0
+506.9,Credit,Houston,Branch,Doctor,56.0,1.0,2.0,2.0,6
+504.12,Credit,Baltimore,Branch,Student,101.0,1.0,1.0,1.0,5
+42.09,Debit,Denver,Branch,Engineer,118.0,1.0,1.0,0.0,4
+607.28,Debit,Baltimore,ATM,Doctor,84.0,1.0,0.0,2.0,1
+91.9,Debit,Chicago,Online,Retired,125.0,1.0,2.0,1.0,0
+303.43,Debit,Virginia Beach,Branch,Student,30.0,1.0,1.0,1.0,3
+668.78,Debit,Mesa,ATM,Student,141.0,1.0,1.0,1.0,3
+270.54,Credit,Sacramento,ATM,Student,139.0,1.0,1.0,1.0,5
+247.93,Debit,Indianapolis,Branch,Engineer,79.0,1.0,0.0,2.0,1
+34.670000000000016,Debit,Chicago,Online,Student,71.0,1.0,1.0,1.0,3
+326.03,Credit,New York,Online,Student,137.0,1.0,1.0,1.0,5
+148.26,Debit,Omaha,ATM,Student,57.0,1.0,1.0,1.0,3
+373.99,Debit,Sacramento,ATM,Doctor,140.0,1.0,2.0,2.0,6
+819.48,Debit,Virginia Beach,ATM,Student,26.0,1.0,1.0,1.0,3
+14.0,Debit,San Antonio,ATM,Engineer,173.0,1.0,0.0,0.0,4
+57.16,Debit,Columbus,ATM,Engineer,74.0,1.0,0.0,1.0,4
+282.26,Debit,Memphis,Online,Engineer,278.0,1.0,0.0,0.0,4
+473.2,Debit,Houston,Online,Doctor,173.0,1.0,0.0,1.0,1
+192.97,Debit,Sacramento,ATM,Retired,140.0,1.0,2.0,0.0,0
+168.99,Debit,Baltimore,ATM,Student,203.0,1.0,1.0,1.0,3
+1.8199999999999932,Debit,San Francisco,Online,Retired,60.0,1.0,2.0,0.0,0
+40.900000000000006,Debit,Charlotte,ATM,Doctor,37.000000000000014,1.0,2.0,1.0,6
+78.91,Debit,Sacramento,Online,Doctor,157.0,1.0,2.0,1.0,6
+169.97,Credit,San Diego,ATM,Student,12.0,1.0,1.0,0.0,5
+17.789999999999992,Debit,Jacksonville,Branch,Retired,162.0,5.0,2.0,0.0,2
+486.61,Credit,Sacramento,ATM,Engineer,130.0,1.0,0.0,0.0,5
+148.13,Debit,Phoenix,Branch,Retired,56.0,1.0,2.0,0.0,0
+164.52,Debit,Dallas,ATM,Doctor,162.0,1.0,2.0,2.0,6
+720.89,Debit,Indianapolis,ATM,Student,120.0,1.0,1.0,1.0,3
+268.7,Debit,Milwaukee,ATM,Retired,63.0,1.0,2.0,0.0,0
+637.34,Debit,Indianapolis,ATM,Retired,278.0,1.0,2.0,0.0,0
+216.76,Credit,Omaha,Online,Engineer,138.0,1.0,0.0,1.0,5
+418.02,Debit,Los Angeles,ATM,Doctor,110.0,1.0,0.0,2.0,1
+292.03,Credit,Memphis,ATM,Engineer,154.0,1.0,0.0,1.0,5
+251.4,Debit,Tucson,ATM,Retired,178.0,1.0,2.0,0.0,0
+184.56,Debit,Virginia Beach,Online,Student,93.0,1.0,1.0,1.0,3
+33.75999999999999,Debit,Seattle,Online,Engineer,227.0,1.0,1.0,0.0,4
+138.68,Credit,Colorado Springs,Branch,Student,44.0,1.0,1.0,1.0,5
+42.56,Debit,Fresno,Online,Student,146.0,1.0,1.0,0.0,3
+680.76,Debit,nan,Branch,Student,165.0,1.0,1.0,1.0,3
+53.829999999999984,Debit,Baltimore,Branch,Retired,131.0,1.0,2.0,0.0,0
+11.090000000000032,Debit,Charlotte,Branch,Engineer,95.0,1.0,2.0,0.0,0
+37.809999999999974,Debit,nan,Branch,Retired,195.0,1.0,2.0,0.0,0
+449.18,Debit,Denver,Online,Retired,50.0,1.0,2.0,1.0,0
+297.6,Debit,Milwaukee,Online,Doctor,162.0,1.0,0.0,1.0,1
+683.75,Debit,Las Vegas,Branch,Doctor,106.0,1.0,0.0,0.0,4
+21.400000000000034,Credit,nan,Online,Engineer,129.0,1.0,0.0,2.0,1
+315.94,Debit,Omaha,ATM,Retired,93.0,1.0,2.0,0.0,0
+331.32,Debit,Sacramento,Branch,Doctor,137.0,5.0,2.0,2.0,2
+223.76,Credit,Boston,Branch,Retired,110.0,1.0,2.0,0.0,5
+216.03,Debit,Boston,ATM,Doctor,300.0,1.0,0.0,2.0,1
+17.420000000000016,Debit,Dallas,ATM,Retired,150.0,1.0,2.0,0.0,0
+491.91,Debit,Milwaukee,Online,Retired,155.0,1.0,2.0,0.0,0
+350.11,Credit,Raleigh,Online,Retired,178.0,1.0,2.0,0.0,5
+218.07,Debit,Austin,Branch,Student,243.0,1.0,1.0,1.0,3
+422.14,Credit,Albuquerque,Branch,Student,109.0,1.0,1.0,1.0,5
+613.21,Debit,Tucson,ATM,Retired,157.0,1.0,2.0,0.0,0
+73.82999999999998,Debit,Las Vegas,Online,Doctor,69.0,1.0,2.0,0.0,0
+67.32999999999998,Debit,Detroit,Online,Engineer,36.0,1.0,2.0,0.0,0
+26.920000000000016,Debit,Indianapolis,ATM,Retired,43.0,1.0,2.0,1.0,0
+18.299999999999983,Debit,Mesa,Online,Engineer,155.0,1.0,0.0,0.0,4
+317.94,Debit,Los Angeles,ATM,Engineer,124.0,1.0,2.0,0.0,0
+179.38,Debit,Mesa,Online,Doctor,173.0,1.0,0.0,2.0,1
+13.919999999999987,Debit,Los Angeles,ATM,Engineer,209.0,1.0,0.0,0.0,4
+365.43,Debit,Portland,ATM,Student,176.0,1.0,1.0,1.0,3
+263.59,Debit,Dallas,Branch,Retired,16.0,1.0,2.0,0.0,0
+54.80000000000001,Debit,Albuquerque,Branch,Engineer,140.0,1.0,0.0,0.0,4
+141.49,nan,Baltimore,Online,Student,75.0,1.0,1.0,1.0,3
+31.390000000000015,Debit,Tucson,ATM,Student,15.0,1.0,1.0,1.0,3
+93.82,Debit,nan,Online,Engineer,176.0,1.0,0.0,2.0,1
+5.710000000000036,Debit,Tucson,Branch,Student,106.0,1.0,1.0,1.0,3
+178.39,Debit,Tucson,Online,Engineer,98.0,1.0,0.0,2.0,1
+126.91,Debit,nan,ATM,Student,42.0,1.0,1.0,1.0,3
+36.09,Debit,Columbus,Branch,Doctor,167.0,1.0,2.0,2.0,6
+91.76999999999998,Debit,Omaha,Branch,Doctor,174.0,1.0,2.0,2.0,6
+198.92,Debit,nan,Online,Engineer,100.0,1.0,0.0,0.0,4
+137.81,Debit,Detroit,Branch,Engineer,44.0,1.0,2.0,0.0,0
+136.88,Credit,Memphis,Branch,Student,71.0,1.0,1.0,0.0,5
+133.07,Debit,Sacramento,Branch,Student,155.0,1.0,1.0,1.0,3
+1.1399999999999864,Debit,Indianapolis,Branch,Doctor,137.0,1.0,0.0,2.0,1
+256.34,Debit,Kansas City,Branch,Retired,99.0,1.0,2.0,0.0,0
+56.110000000000014,Debit,Boston,Branch,Doctor,109.0,1.0,0.0,2.0,1
+118.1,Debit,Fort Worth,ATM,Engineer,50.0,1.0,0.0,0.0,4
+137.86,Credit,Sacramento,Online,Doctor,120.0,1.0,2.0,2.0,6
+813.78,Credit,Atlanta,ATM,Doctor,55.0,1.0,2.0,2.0,6
+237.97,Debit,Columbus,ATM,Doctor,69.0,1.0,2.0,2.0,6
+684.96,Debit,Mesa,ATM,Student,31.0,1.0,1.0,1.0,3
+878.63,Debit,Columbus,ATM,Engineer,139.0,1.0,2.0,0.0,0
+276.56,Debit,Austin,Branch,Doctor,15.0,1.0,2.0,2.0,6
+8.750000000000028,Debit,Louisville,ATM,Retired,199.0,1.0,2.0,0.0,0
+637.48,Debit,Colorado Springs,Online,Retired,207.0,1.0,2.0,0.0,0
+103.15,Debit,San Diego,Branch,Doctor,179.0,1.0,2.0,2.0,6
+505.6,Debit,Denver,Branch,Retired,183.0,1.0,2.0,0.0,0
+371.86,Debit,Miami,ATM,Doctor,91.0,1.0,0.0,1.0,4
+14.259999999999991,Debit,Virginia Beach,Branch,Engineer,37.000000000000014,1.0,0.0,0.0,4
+13.159999999999997,Debit,Mesa,Branch,Engineer,98.0,1.0,0.0,1.0,4
+167.92,Debit,Memphis,ATM,Doctor,136.0,2.0,0.0,2.0,1
+73.00999999999999,Debit,Houston,ATM,Retired,101.0,1.0,2.0,0.0,0
+201.5,Credit,Dallas,Online,Doctor,196.0,1.0,2.0,2.0,6
+150.3,Debit,Las Vegas,Online,Doctor,204.0,1.0,0.0,2.0,1
+23.69999999999999,Debit,San Francisco,ATM,Doctor,32.0,1.0,0.0,0.0,4
+49.59,Debit,Boston,Branch,Engineer,147.0,1.0,0.0,0.0,4
+720.1299999999999,Credit,Omaha,ATM,Student,96.0,1.0,1.0,1.0,5
+134.92000000000002,Debit,Los Angeles,Online,Student,101.0,1.0,1.0,1.0,3
+116.97,Debit,Oklahoma City,ATM,Student,299.0,1.0,1.0,1.0,3
+11.059999999999974,Debit,Colorado Springs,ATM,Engineer,13.0,3.0,0.0,0.0,2
+88.29000000000002,Credit,Houston,Online,Engineer,287.0,1.0,0.0,0.0,5
+5.810000000000002,Debit,Houston,ATM,Student,222.0,1.0,1.0,1.0,3
+103.48000000000002,Debit,Baltimore,ATM,Engineer,33.0,1.0,0.0,0.0,4
+156.74,Debit,Oklahoma City,ATM,Retired,136.0,1.0,2.0,0.0,0
+505.14,Debit,Portland,ATM,Retired,179.0,1.0,2.0,0.0,0
+31.060000000000002,Debit,Kansas City,ATM,Doctor,60.99999999999999,1.0,0.0,2.0,1
+7.610000000000014,Debit,Atlanta,ATM,Doctor,163.0,1.0,0.0,0.0,4
+276.16,Credit,Portland,ATM,Retired,71.0,1.0,2.0,1.0,5
+145.77,Debit,Memphis,ATM,Retired,237.0,1.0,2.0,0.0,0
+369.44,Debit,Detroit,Online,Engineer,19.0,1.0,0.0,0.0,4
+558.86,Debit,Austin,ATM,Doctor,95.0,1.0,2.0,2.0,6
+429.15,Debit,Las Vegas,Branch,Student,218.0,1.0,1.0,1.0,3
+36.74000000000001,Debit,Tucson,Branch,Doctor,133.0,1.0,0.0,0.0,4
+79.13999999999999,Credit,Portland,Online,Retired,22.0,1.0,2.0,0.0,5
+132.48000000000002,Debit,Charlotte,Branch,Engineer,101.0,1.0,0.0,2.0,1
+136.48000000000002,Debit,Charlotte,Online,Engineer,138.0,4.0,2.0,0.0,2
+203.76,Debit,Colorado Springs,Branch,Retired,37.000000000000014,1.0,2.0,0.0,0
+750.95,Debit,Chicago,Branch,Retired,27.0,1.0,2.0,0.0,0
+0.8400000000000034,Debit,Austin,ATM,Engineer,31.0,1.0,2.0,0.0,0
+257.18,Debit,Los Angeles,Online,Doctor,28.0,1.0,2.0,2.0,6
+767.66,Debit,San Jose,ATM,Doctor,155.0,1.0,2.0,1.0,6
+182.29,Debit,San Diego,Online,Doctor,123.0,1.0,2.0,1.0,6
+184.51,Credit,Portland,Online,Doctor,118.0,1.0,2.0,2.0,6
+451.31,Debit,Fort Worth,ATM,Retired,166.0,5.0,2.0,0.0,2
+144.1,Debit,Chicago,Branch,Doctor,30.0,1.0,2.0,2.0,6
+72.5,Debit,Fort Worth,ATM,Doctor,30.0,1.0,0.0,2.0,1
+74.11000000000001,Credit,Virginia Beach,Online,Retired,71.0,4.0,2.0,0.0,2
+22.150000000000034,Debit,Denver,Branch,Doctor,73.0,1.0,0.0,0.0,4
+777.92,Debit,Austin,Branch,Doctor,97.0,1.0,2.0,0.0,0
+790.07,Debit,Miami,Online,Student,197.0,1.0,1.0,1.0,3
+406.33,Credit,Miami,Branch,Engineer,103.0,1.0,2.0,0.0,5
+767.4099999999999,Debit,Fort Worth,ATM,Doctor,27.0,1.0,2.0,2.0,6
+4.5800000000000125,Credit,Atlanta,Online,Student,135.0,1.0,1.0,1.0,5
+49.670000000000016,Debit,Atlanta,Online,Student,146.0,1.0,1.0,1.0,3
+77.82999999999998,Credit,Kansas City,Branch,Engineer,146.0,1.0,0.0,0.0,5
+702.87,Debit,Washington,ATM,Student,184.0,1.0,1.0,1.0,3
+133.56,Debit,nan,Online,Student,177.0,1.0,1.0,1.0,3
+868.05,Credit,San Diego,Online,Engineer,119.0,1.0,0.0,0.0,5
+52.870000000000005,Debit,Indianapolis,Branch,Student,70.0,1.0,1.0,1.0,3
+179.0,Debit,Houston,ATM,Retired,121.0,1.0,2.0,0.0,0
+384.11,Debit,Fort Worth,ATM,Retired,12.0,1.0,2.0,0.0,0
+227.61,Debit,Houston,Online,Retired,60.99999999999999,1.0,2.0,0.0,0
+40.829999999999984,Debit,Indianapolis,ATM,Engineer,24.0,1.0,0.0,0.0,4
+19.759999999999962,Debit,Nashville,ATM,Student,240.0,1.0,1.0,1.0,3
+484.24,Debit,Raleigh,Branch,Doctor,77.0,1.0,2.0,2.0,6
+301.47,Debit,Colorado Springs,Branch,Student,291.0,1.0,1.0,1.0,3
+199.09,Debit,Detroit,Online,Doctor,89.0,1.0,2.0,1.0,6
+38.94999999999999,Debit,Los Angeles,Online,Engineer,50.0,1.0,1.0,1.0,4
+515.94,Debit,San Francisco,ATM,Engineer,37.000000000000014,1.0,1.0,1.0,4
+41.93000000000001,Debit,Fresno,ATM,Engineer,136.0,1.0,0.0,0.0,4
+95.35,Debit,Chicago,Online,Student,131.0,1.0,1.0,1.0,3
+93.13999999999999,Debit,Memphis,Online,Retired,151.0,1.0,2.0,0.0,0
+79.32999999999998,Credit,Las Vegas,Online,Doctor,109.0,1.0,2.0,2.0,6
+233.71,Debit,Jacksonville,Online,Student,297.0,1.0,1.0,1.0,3
+14.920000000000016,Debit,Las Vegas,Branch,Engineer,120.0,1.0,1.0,0.0,4
+242.17,Debit,Jacksonville,ATM,Doctor,147.0,1.0,2.0,1.0,6
+122.98000000000002,Debit,Jacksonville,Online,Retired,228.0,1.0,2.0,0.0,0
+129.35,Debit,Las Vegas,ATM,Engineer,130.0,1.0,2.0,0.0,0
+138.32999999999998,Debit,Dallas,Online,Student,69.0,1.0,1.0,1.0,3
+39.31,Debit,Portland,Online,Student,178.0,1.0,1.0,1.0,3
+91.85,Debit,Seattle,Online,Student,148.0,1.0,1.0,1.0,3
+277.7,Debit,Nashville,Branch,Engineer,107.0,1.0,2.0,1.0,0
+114.03,Debit,Portland,ATM,Doctor,172.0,1.0,2.0,2.0,6
+302.63,Credit,San Jose,Branch,Engineer,10.0,1.0,1.0,0.0,5
+31.189999999999998,Debit,Charlotte,ATM,Engineer,74.0,1.0,2.0,0.0,0
+112.91,Credit,Tucson,Online,Engineer,135.0,1.0,1.0,0.0,5
+742.26,Debit,San Diego,Online,Engineer,36.0,1.0,1.0,0.0,4
+256.8,Debit,Charlotte,ATM,Student,80.0,1.0,1.0,1.0,3
+378.68,Debit,Fort Worth,ATM,Doctor,239.0,1.0,2.0,0.0,0
+571.93,Debit,Washington,Online,Retired,119.0,1.0,2.0,0.0,0
+26.310000000000002,Credit,Austin,Online,Retired,163.0,1.0,2.0,0.0,5
+533.61,Debit,Mesa,Online,Engineer,115.0,1.0,0.0,0.0,4
+428.62,Debit,Raleigh,Branch,Retired,72.0,1.0,2.0,0.0,0
+361.22,Debit,Raleigh,ATM,Retired,167.0,1.0,2.0,0.0,0
+837.29,Debit,Phoenix,Branch,Student,216.0,1.0,1.0,0.0,3
+117.25,Credit,Atlanta,Online,Doctor,73.0,1.0,0.0,2.0,1
+135.27000000000004,Debit,Atlanta,ATM,Doctor,131.0,1.0,0.0,2.0,1
+185.1,Debit,Albuquerque,Branch,Retired,23.0,1.0,2.0,0.0,0
+113.54000000000002,Debit,Columbus,Online,Engineer,273.0,1.0,0.0,0.0,4
+354.96,Debit,Fort Worth,Online,Doctor,96.0,1.0,2.0,0.0,0
+224.22,Debit,Fresno,Branch,Doctor,37.000000000000014,1.0,2.0,2.0,6
+737.1000000000001,Debit,Washington,ATM,Retired,92.0,1.0,2.0,0.0,0
+223.22,Debit,Fort Worth,ATM,Student,96.0,1.0,1.0,1.0,3
+557.26,Debit,San Jose,ATM,Doctor,53.0,1.0,2.0,0.0,0
+27.439999999999998,Debit,Boston,ATM,Retired,164.0,1.0,2.0,0.0,0
+310.09,Debit,Detroit,Branch,Doctor,166.0,1.0,0.0,2.0,1
+80.38,Debit,Kansas City,Online,Doctor,116.0,1.0,2.0,2.0,6
+26.099999999999994,Credit,Detroit,Branch,Doctor,115.0,1.0,2.0,0.0,5
+845.14,Credit,Oklahoma City,Branch,Retired,183.0,1.0,2.0,1.0,5
+59.72999999999999,Debit,Fresno,ATM,Student,56.0,1.0,1.0,1.0,3
+758.77,Debit,San Antonio,ATM,Engineer,114.0,1.0,2.0,0.0,0
+301.51,Debit,Charlotte,ATM,Student,284.0,1.0,1.0,1.0,3
+418.03,Debit,Austin,nan,Doctor,161.0,1.0,2.0,2.0,6
+118.06,Credit,Las Vegas,Branch,Doctor,31.0,1.0,0.0,2.0,1
+483.92,Debit,New York,ATM,Retired,115.0,1.0,2.0,0.0,0
+78.93,Debit,Mesa,ATM,Doctor,145.0,1.0,0.0,2.0,1
+36.629999999999995,Debit,Miami,ATM,Retired,261.0,1.0,2.0,0.0,0
+87.85,Debit,Colorado Springs,Branch,Engineer,63.0,1.0,0.0,0.0,4
+705.34,Debit,Washington,Online,Doctor,124.0,1.0,2.0,0.0,0
+146.55,Debit,Virginia Beach,Online,Retired,124.0,5.0,2.0,0.0,2
+116.88999999999999,Debit,Columbus,Online,Retired,226.0,1.0,2.0,0.0,0
+106.41,Debit,Los Angeles,Branch,Retired,87.0,1.0,2.0,1.0,0
+584.41,Debit,Las Vegas,ATM,Student,41.0,1.0,1.0,0.0,3
+584.98,Credit,Chicago,Branch,Retired,121.0,1.0,2.0,0.0,5
+79.20999999999998,Debit,Colorado Springs,Branch,Retired,140.0,1.0,2.0,1.0,0
+173.13,Credit,Atlanta,Online,Student,288.0,1.0,1.0,1.0,5
+335.7,Debit,El Paso,ATM,Student,57.0,1.0,2.0,0.0,3
+422.81,Debit,Los Angeles,Branch,Student,193.0,1.0,1.0,1.0,3
+135.43,Debit,San Jose,ATM,Retired,92.0,1.0,2.0,0.0,0
+584.88,Debit,Philadelphia,ATM,Student,121.0,1.0,1.0,1.0,3
+308.94,Debit,Los Angeles,Online,Student,167.0,1.0,1.0,1.0,3
+295.93,Debit,Boston,Branch,Doctor,117.0,1.0,0.0,1.0,4
+77.44,Debit,Washington,Branch,Retired,268.0,1.0,2.0,1.0,0
+92.5,Credit,Seattle,Online,Engineer,70.0,1.0,0.0,0.0,5
+97.74000000000001,Credit,Los Angeles,Online,Engineer,137.0,1.0,0.0,0.0,5
+291.68,Debit,Columbus,ATM,Student,90.0,1.0,1.0,1.0,3
+56.96000000000001,Debit,Albuquerque,ATM,Student,135.0,1.0,1.0,1.0,3
+436.8,Debit,Seattle,Online,Student,92.0,1.0,1.0,1.0,3
+259.49,Debit,Austin,Online,Retired,292.0,1.0,2.0,0.0,0
+726.26,Debit,Omaha,Online,Retired,147.0,1.0,2.0,0.0,0
+568.68,Debit,Houston,ATM,Retired,101.0,1.0,2.0,0.0,0
+77.57,Debit,Atlanta,Online,Student,225.0,1.0,0.0,2.0,3
+14.160000000000025,Credit,Oklahoma City,Branch,Retired,290.0,1.0,2.0,0.0,5
+61.329999999999984,Debit,Raleigh,ATM,Engineer,129.0,1.0,1.0,0.0,4
+27.639999999999986,Debit,New York,Online,Engineer,23.0,1.0,2.0,0.0,0
+3.8500000000000227,Debit,San Jose,ATM,Doctor,32.0,1.0,1.0,2.0,6
+431.22,Credit,Austin,Branch,Retired,129.0,1.0,2.0,0.0,5
+178.55,Debit,Houston,Branch,Engineer,67.0,1.0,2.0,0.0,0
+248.76,Debit,Denver,ATM,Student,56.0,1.0,1.0,1.0,3
+76.16,Debit,San Francisco,ATM,Student,99.0,1.0,1.0,1.0,3
+347.25,Debit,Indianapolis,ATM,Doctor,250.0,1.0,2.0,0.0,0
+325.98,Debit,Washington,ATM,Student,277.0,1.0,1.0,1.0,3
+249.56,Debit,New York,Branch,Retired,246.0,1.0,2.0,0.0,0
+17.430000000000007,Debit,Albuquerque,ATM,Doctor,33.0,1.0,2.0,2.0,6
+198.01,Credit,Austin,Branch,Student,40.0,1.0,1.0,1.0,5
+585.58,Debit,Raleigh,Branch,Student,55.0,1.0,1.0,1.0,3
+434.67,Credit,Virginia Beach,Online,Student,124.0,1.0,1.0,1.0,5
+510.69999999999993,Credit,Nashville,Online,Student,294.0,1.0,1.0,0.0,5
+331.98,Debit,Denver,ATM,Retired,12.0,1.0,2.0,0.0,0
+199.54,Debit,Portland,Online,Engineer,268.0,1.0,2.0,2.0,6
+212.97,Debit,Atlanta,Online,Engineer,178.0,1.0,2.0,0.0,0
+270.56,Debit,Philadelphia,Online,Student,139.0,1.0,1.0,1.0,3
+306.37,Debit,Colorado Springs,ATM,Engineer,120.0,1.0,1.0,2.0,6
+643.02,Credit,Detroit,ATM,Doctor,85.0,1.0,0.0,2.0,1
+98.48000000000002,Debit,Miami,Branch,Engineer,12.0,1.0,0.0,2.0,1
+889.01,Debit,Virginia Beach,Online,Engineer,169.0,1.0,0.0,0.0,4
+537.86,Debit,Kansas City,Online,Student,134.0,1.0,1.0,1.0,3
+241.18,Debit,Mesa,ATM,Student,162.0,1.0,1.0,1.0,3
+130.53999999999996,Debit,Atlanta,ATM,Doctor,94.0,1.0,2.0,2.0,6
+800.29,Credit,San Diego,Branch,Student,84.0,1.0,1.0,1.0,5
+8.810000000000002,Debit,Dallas,Online,Doctor,165.0,1.0,2.0,2.0,6
+28.52000000000001,Debit,Detroit,ATM,Student,163.0,1.0,1.0,1.0,3
+431.31,Credit,Atlanta,Online,Student,99.0,1.0,1.0,1.0,5
+885.33,Credit,Raleigh,ATM,Engineer,59.0,1.0,0.0,0.0,5
+199.23,Debit,Tucson,ATM,Engineer,54.0,1.0,1.0,2.0,6
+42.25999999999999,Debit,Raleigh,ATM,Doctor,171.0,1.0,0.0,1.0,4
+166.06,Debit,Indianapolis,ATM,Engineer,172.0,1.0,1.0,0.0,4
+357.72,Debit,Miami,ATM,Retired,25.0,1.0,2.0,0.0,0
+588.37,Debit,Dallas,Online,Student,284.0,1.0,1.0,1.0,3
+72.82,Debit,Houston,Online,Doctor,127.0,1.0,2.0,0.0,0
+162.36,Debit,Tucson,Online,Engineer,147.0,1.0,0.0,0.0,4
+584.82,Credit,Nashville,Online,Doctor,109.0,1.0,0.0,2.0,1
+38.150000000000034,Credit,Oklahoma City,Online,Retired,129.0,1.0,2.0,1.0,5
+477.54,Credit,San Francisco,ATM,Student,52.0,1.0,1.0,1.0,5
+639.57,Debit,Philadelphia,Branch,Doctor,43.0,1.0,2.0,2.0,6
+58.22999999999999,Debit,Phoenix,Online,Student,34.0,1.0,1.0,2.0,3
+776.21,Credit,Raleigh,Online,Retired,99.0,1.0,2.0,0.0,5
+188.61,Debit,Boston,Online,Retired,26.0,1.0,2.0,0.0,0
+675.37,Credit,Jacksonville,Online,Retired,31.0,1.0,2.0,0.0,5
+94.82,Credit,Columbus,Branch,Retired,56.0,1.0,2.0,1.0,5
+425.18,Credit,Fresno,Online,Engineer,135.0,1.0,2.0,0.0,5
+50.28,Debit,Oklahoma City,Branch,Engineer,65.0,1.0,2.0,0.0,0
+70.68,Debit,El Paso,Online,Student,105.0,1.0,1.0,1.0,3
+261.77,Debit,Chicago,Online,Student,46.0,1.0,1.0,1.0,3
+183.22,Debit,Milwaukee,ATM,Student,63.0,1.0,1.0,1.0,3
+58.31999999999999,Credit,Louisville,Branch,Engineer,275.0,4.0,1.0,0.0,2
+156.86,Debit,Charlotte,ATM,Doctor,102.0,1.0,2.0,2.0,6
+120.67000000000002,Debit,Colorado Springs,ATM,Doctor,233.0,1.0,0.0,0.0,4
+308.62,Credit,Sacramento,Branch,Engineer,101.0,1.0,2.0,2.0,6
+506.81,Debit,Milwaukee,ATM,Engineer,41.0,1.0,2.0,0.0,0
+328.39,Debit,New York,ATM,Engineer,108.0,1.0,0.0,0.0,4
+796.3,Debit,Austin,Branch,Retired,64.0,1.0,2.0,1.0,0
+72.47,Debit,Boston,Online,Doctor,72.0,1.0,1.0,1.0,6
+279.6,Debit,Fort Worth,ATM,Student,131.0,1.0,1.0,1.0,3
+304.2,Debit,Indianapolis,Online,Student,102.0,1.0,1.0,1.0,3
+351.38,Debit,New York,Branch,Retired,21.0,1.0,2.0,0.0,0
+86.07,Debit,Dallas,Branch,Doctor,23.0,1.0,0.0,1.0,4
+604.5,Debit,Portland,ATM,Student,80.0,1.0,1.0,1.0,3
+258.7,Debit,Charlotte,ATM,Student,123.0,1.0,1.0,1.0,3
+11.460000000000008,Credit,Austin,Branch,Retired,64.0,1.0,2.0,0.0,5
+63.75999999999999,Debit,San Antonio,ATM,Retired,100.0,1.0,2.0,0.0,0
+446.83,Credit,Miami,Branch,Retired,143.0,1.0,2.0,1.0,5
+63.53999999999999,Debit,Dallas,ATM,Engineer,136.0,1.0,1.0,0.0,4
+81.11000000000001,Debit,Charlotte,Online,Engineer,110.0,1.0,0.0,0.0,4
+441.26,Credit,Tucson,Branch,Doctor,87.0,5.0,2.0,2.0,2
+170.96,Debit,Washington,Branch,Doctor,69.0,1.0,2.0,2.0,6
+48.50999999999999,Debit,Austin,Branch,Student,69.0,1.0,1.0,0.0,3
+325.03,Debit,Jacksonville,Branch,Doctor,106.0,1.0,2.0,2.0,6
+125.82999999999998,Debit,Los Angeles,nan,Retired,138.0,1.0,2.0,0.0,0
+506.8299999999999,Debit,Indianapolis,nan,Engineer,45.0,1.0,0.0,2.0,1
+738.94,Debit,Philadelphia,Branch,Doctor,173.0,1.0,0.0,2.0,1
+180.36,Credit,Oklahoma City,Online,Engineer,55.0,1.0,0.0,2.0,1
+225.1,Debit,Boston,ATM,Student,35.0,1.0,1.0,1.0,3
+359.51,Debit,Charlotte,nan,Retired,157.0,1.0,2.0,0.0,0
+720.46,Debit,Tucson,Branch,Retired,44.0,1.0,2.0,0.0,0
+291.46,Debit,Miami,ATM,Retired,135.0,1.0,2.0,0.0,0
+98.24000000000001,Debit,Mesa,Online,Student,148.0,1.0,1.0,1.0,3
+100.48000000000002,Credit,Milwaukee,Branch,Student,104.0,1.0,1.0,0.0,5
+45.900000000000006,Debit,Columbus,Branch,Engineer,264.0,1.0,2.0,0.0,0
+258.21,Debit,San Antonio,Online,Doctor,225.0,1.0,0.0,2.0,1
+287.51,Debit,El Paso,Online,Student,255.0,1.0,1.0,1.0,3
+501.30000000000007,Credit,San Antonio,Online,Engineer,146.0,1.0,1.0,2.0,5
+26.099999999999994,Debit,Mesa,ATM,Student,32.0,1.0,1.0,1.0,3
+436.77,Debit,Jacksonville,ATM,Student,176.0,1.0,1.0,1.0,3
+292.38,nan,Baltimore,ATM,Doctor,224.0,1.0,2.0,0.0,0
+25.289999999999992,Debit,Miami,Online,Student,125.0,1.0,0.0,0.0,3
+123.35,Credit,Baltimore,Online,Doctor,10.0,1.0,0.0,0.0,5
+139.52,Debit,Portland,Branch,Student,31.0,1.0,1.0,1.0,3
+51.19999999999999,Debit,Tucson,Online,Student,83.0,1.0,1.0,1.0,3
+122.85,Credit,Seattle,Online,Doctor,127.0,3.0,0.0,2.0,2
+161.38,Credit,Colorado Springs,Online,Student,101.0,1.0,1.0,0.0,5
+2.5099999999999625,Debit,Baltimore,Online,Retired,32.0,1.0,2.0,0.0,0
+22.619999999999976,Debit,Virginia Beach,ATM,Doctor,102.0,1.0,2.0,0.0,0
+126.82999999999998,Debit,Austin,Branch,Retired,39.0,1.0,2.0,0.0,0
+46.599999999999994,Debit,Detroit,Online,Doctor,68.0,1.0,2.0,1.0,6
+243.8,Debit,San Francisco,Branch,Doctor,48.000000000000014,1.0,2.0,2.0,6
+231.51,Credit,Oklahoma City,Branch,Retired,96.0,1.0,2.0,0.0,5
+175.05,Debit,nan,Online,Engineer,34.0,1.0,0.0,1.0,4
+762.74,Debit,Los Angeles,ATM,Doctor,244.0,1.0,2.0,1.0,6
+34.03,Debit,Los Angeles,Branch,Engineer,38.0,1.0,2.0,0.0,0
+15.950000000000017,Debit,Raleigh,Branch,Student,52.0,1.0,1.0,1.0,3
+101.50999999999999,Credit,Tucson,Online,Engineer,199.0,1.0,0.0,0.0,5
+309.42,Debit,Fresno,Branch,Engineer,42.0,1.0,1.0,2.0,6
+257.6,Credit,Fort Worth,Online,Retired,293.0,1.0,2.0,0.0,5
+746.78,Credit,nan,Branch,Student,64.0,1.0,1.0,1.0,5
+82.00999999999999,Credit,Sacramento,Branch,Student,156.0,1.0,1.0,1.0,5
+476.99,Debit,San Diego,Online,Student,187.0,1.0,1.0,1.0,3
+320.11,Debit,El Paso,Branch,Student,130.0,1.0,1.0,0.0,3
+333.39,Debit,Philadelphia,ATM,Doctor,35.0,1.0,2.0,2.0,6
+10.299999999999983,Debit,Fresno,ATM,Engineer,197.0,1.0,0.0,0.0,4
+737.46,Credit,Albuquerque,Branch,Doctor,75.0,4.0,2.0,1.0,2
+416.55,Debit,Oklahoma City,Online,Engineer,73.0,1.0,0.0,1.0,4
+98.94999999999999,Debit,Mesa,Branch,Retired,73.0,1.0,2.0,0.0,0
+18.139999999999986,Credit,Milwaukee,ATM,Retired,48.000000000000014,1.0,2.0,0.0,5
+215.13,Debit,Charlotte,Online,Engineer,114.0,1.0,0.0,0.0,4
+218.57,Credit,Memphis,Branch,Doctor,102.0,1.0,2.0,2.0,6
+341.88,Debit,Austin,ATM,Engineer,89.0,1.0,0.0,0.0,4
+691.9199999999998,Debit,Boston,Online,Student,60.99999999999999,1.0,1.0,1.0,3
+50.43000000000001,Debit,San Jose,Branch,Doctor,51.0,1.0,0.0,2.0,1
+440.43,Debit,Colorado Springs,Branch,Retired,23.0,1.0,2.0,0.0,0
+299.03,Debit,Columbus,Branch,Engineer,52.0,1.0,0.0,1.0,4
+1.9799999999999613,Debit,Seattle,ATM,Doctor,170.0,1.0,2.0,2.0,6
+173.45,Debit,Philadelphia,ATM,Engineer,161.0,1.0,0.0,2.0,1
+438.76,Debit,San Antonio,Branch,Student,73.0,1.0,1.0,1.0,3
+519.62,Credit,Washington,Online,Retired,40.0,1.0,2.0,0.0,5
+738.68,Debit,Chicago,Online,Doctor,124.0,1.0,0.0,2.0,1
+151.14,Debit,Memphis,Online,Retired,38.0,1.0,2.0,0.0,0
+75.76999999999998,Debit,Charlotte,Branch,Engineer,148.0,1.0,2.0,2.0,6
+444.52,Debit,Louisville,Online,Engineer,17.0,1.0,1.0,0.0,4
+5.289999999999992,Debit,Indianapolis,Online,Doctor,276.0,1.0,2.0,2.0,6
+97.63,Credit,Milwaukee,Online,Doctor,127.0,1.0,0.0,2.0,1
+256.95,Debit,San Diego,Branch,Engineer,71.0,1.0,1.0,0.0,4
+734.8599999999999,Credit,Boston,Branch,Engineer,290.0,1.0,0.0,0.0,5
+84.28,Debit,Memphis,Branch,Doctor,142.0,1.0,0.0,2.0,1
+202.49,Credit,Virginia Beach,ATM,Engineer,69.0,1.0,0.0,0.0,4
+154.99,Debit,Mesa,Branch,Student,53.0,1.0,1.0,1.0,3
+481.53,Debit,Atlanta,Branch,Retired,277.0,1.0,2.0,0.0,0
+172.92,Debit,Miami,Online,Student,212.0,1.0,1.0,1.0,3
+275.59,Credit,Philadelphia,Branch,Retired,238.0,1.0,2.0,0.0,5
+207.2,Debit,Columbus,Online,Engineer,133.0,1.0,2.0,2.0,6
+136.82,Debit,Chicago,Branch,Engineer,14.0,1.0,0.0,0.0,4
+624.0,Debit,Houston,Branch,Engineer,132.0,5.0,1.0,0.0,2
+10.150000000000006,Debit,Austin,ATM,Doctor,58.0,5.0,2.0,0.0,2
+26.30000000000004,Debit,Virginia Beach,ATM,Doctor,33.0,1.0,0.0,0.0,4
+319.5,Credit,Virginia Beach,Branch,Engineer,69.0,1.0,1.0,0.0,5
+182.42,Debit,Kansas City,Branch,Retired,137.0,1.0,2.0,0.0,0
+716.62,Debit,Atlanta,ATM,Doctor,241.0,1.0,0.0,0.0,4
+222.96,Credit,Fresno,ATM,Doctor,150.0,1.0,2.0,0.0,5
+79.76999999999998,Debit,San Francisco,ATM,Retired,167.0,1.0,2.0,0.0,0
+592.24,Debit,Tucson,ATM,Doctor,140.0,1.0,2.0,2.0,6
+200.19,Credit,San Antonio,Branch,Retired,108.0,1.0,2.0,0.0,5
+297.5,Credit,Kansas City,Branch,Retired,80.0,1.0,2.0,0.0,5
+345.86,nan,Omaha,ATM,Retired,145.0,1.0,2.0,1.0,0
+343.88,Debit,Nashville,Online,Retired,97.0,1.0,2.0,0.0,0
+16.52000000000004,Credit,Boston,Online,Student,135.0,1.0,1.0,1.0,5
+162.1,Debit,Milwaukee,Branch,Engineer,151.0,1.0,0.0,2.0,1
+36.120000000000005,Debit,Houston,Online,Student,234.0,1.0,1.0,1.0,3
+354.91,Debit,Boston,ATM,Retired,191.0,1.0,2.0,0.0,0
+38.41,Debit,Denver,ATM,Doctor,117.0,1.0,0.0,2.0,1
+53.52000000000001,Debit,San Diego,Branch,Engineer,55.0,1.0,0.0,0.0,4
+13.300000000000011,Debit,San Antonio,ATM,Student,63.0,1.0,1.0,1.0,3
+189.65,Debit,Charlotte,ATM,Student,60.0,1.0,1.0,2.0,3
+255.32,Debit,Baltimore,ATM,Retired,27.0,1.0,2.0,0.0,0
+230.51,Credit,Memphis,Branch,Engineer,56.0,1.0,2.0,2.0,6
+237.74,Debit,Tucson,ATM,Doctor,152.0,1.0,2.0,2.0,6
+512.76,Debit,Fresno,ATM,Doctor,26.0,1.0,2.0,0.0,0
+151.37,Debit,Baltimore,ATM,Engineer,53.0,1.0,2.0,2.0,6
+85.00999999999999,Credit,Portland,ATM,Student,157.0,1.0,1.0,1.0,5
+444.47,Debit,San Jose,Online,Retired,60.99999999999999,1.0,2.0,0.0,0
+55.97999999999999,Credit,Kansas City,Branch,Student,87.0,1.0,1.0,0.0,5
+54.91,Credit,Columbus,ATM,Engineer,275.0,1.0,0.0,0.0,5
+393.74,Debit,Charlotte,Online,Student,90.0,1.0,1.0,1.0,3
+58.94,Debit,Miami,Online,Engineer,26.0,1.0,1.0,0.0,4
+515.57,Debit,Columbus,ATM,Engineer,56.0,1.0,1.0,2.0,6
+332.15,Debit,Dallas,ATM,Doctor,105.0,1.0,2.0,2.0,6
+177.94,Debit,Milwaukee,Online,Student,173.0,1.0,1.0,1.0,3
+68.68,Debit,Sacramento,nan,Engineer,141.0,1.0,0.0,0.0,4
+240.03,Debit,Atlanta,Online,Engineer,31.0,1.0,0.0,0.0,4
+168.34,Debit,Phoenix,ATM,Retired,240.0,1.0,2.0,0.0,0
+474.77,Debit,Boston,Online,Engineer,284.0,1.0,0.0,2.0,1
+451.7,Debit,Chicago,Online,Engineer,103.0,1.0,1.0,2.0,6
+243.85,Debit,Omaha,Branch,Engineer,43.0,1.0,0.0,0.0,4
+5.759999999999991,Debit,Houston,Branch,Student,164.0,1.0,0.0,0.0,3
+435.08,Debit,San Francisco,Online,Engineer,78.0,1.0,2.0,0.0,0
+127.78,Debit,Miami,ATM,Student,170.0,1.0,1.0,1.0,3
+23.140000000000015,Credit,Mesa,Online,Doctor,93.0,1.0,0.0,2.0,1
+545.87,Debit,Miami,Branch,Engineer,41.0,1.0,1.0,0.0,4
+21.210000000000008,Debit,Nashville,Online,Engineer,37.000000000000014,1.0,2.0,2.0,6
+423.53,Credit,Kansas City,Branch,Doctor,81.0,1.0,0.0,0.0,4
+142.1,Credit,San Francisco,Online,Student,109.0,1.0,1.0,1.0,5
+114.15,Debit,Atlanta,ATM,Student,52.0,1.0,1.0,1.0,3
+275.98,Credit,Washington,Online,Retired,67.0,1.0,2.0,0.0,5
+590.68,Debit,Washington,Branch,Student,23.0,1.0,1.0,1.0,3
+152.42,Debit,San Jose,ATM,Doctor,176.0,1.0,0.0,2.0,1
+395.77,Credit,El Paso,Branch,Doctor,118.0,1.0,0.0,0.0,4
+615.16,Debit,Boston,Online,Student,140.0,1.0,1.0,1.0,3
+207.82,Credit,Las Vegas,Online,Student,30.0,1.0,1.0,1.0,5
+220.52,Debit,Seattle,ATM,Retired,152.0,1.0,2.0,1.0,0
+281.47,Debit,Philadelphia,ATM,Engineer,142.0,1.0,0.0,0.0,4
+57.91,Credit,Sacramento,Branch,Engineer,97.0,1.0,2.0,0.0,5
+30.47999999999999,Credit,Seattle,Branch,Doctor,78.0,1.0,0.0,2.0,1
+424.47,Debit,Oklahoma City,Online,Student,116.0,1.0,1.0,0.0,3
+228.4,Debit,Omaha,ATM,Doctor,116.0,1.0,2.0,2.0,6
+67.17000000000002,Debit,Seattle,Online,Doctor,48.000000000000014,1.0,2.0,2.0,6
+284.89,Debit,Atlanta,Online,Doctor,115.0,1.0,2.0,2.0,6
+118.69,Debit,Omaha,Online,Doctor,296.0,1.0,0.0,1.0,1
+221.33,Debit,Louisville,ATM,Student,276.0,1.0,1.0,1.0,3
+252.31,Credit,Seattle,ATM,Student,172.0,1.0,1.0,1.0,5
+58.849999999999994,Credit,Milwaukee,Online,Retired,115.0,1.0,2.0,1.0,5
+194.68,Debit,Memphis,Online,Doctor,165.0,1.0,0.0,2.0,1
+433.53,Debit,Philadelphia,Branch,Doctor,231.0,1.0,0.0,0.0,4
+178.26,Debit,Oklahoma City,ATM,Retired,59.0,1.0,2.0,1.0,0
+237.0,Debit,Tucson,Online,Doctor,115.0,1.0,0.0,2.0,1
+347.63,Credit,Chicago,Online,Student,272.0,1.0,1.0,1.0,5
+517.68,Debit,Omaha,ATM,Doctor,24.0,1.0,0.0,2.0,1
+36.24999999999997,Debit,Tucson,Branch,Doctor,76.0,1.0,2.0,1.0,6
+46.53,Debit,San Francisco,ATM,Engineer,34.0,1.0,0.0,0.0,4
+207.47,Debit,Miami,ATM,Doctor,12.0,1.0,2.0,1.0,6
+199.7,Debit,Indianapolis,ATM,Engineer,285.0,1.0,0.0,0.0,4
+307.89,Credit,Nashville,Online,Retired,90.0,1.0,2.0,0.0,5
+403.63,Debit,Las Vegas,Branch,Engineer,167.0,3.0,0.0,0.0,2
+20.059999999999974,Debit,Memphis,ATM,Student,144.0,1.0,1.0,1.0,3
+236.57,Debit,Sacramento,ATM,Retired,112.0,1.0,2.0,0.0,0
+0.3199999999999932,Debit,Boston,ATM,Engineer,136.0,1.0,0.0,0.0,4
+14.280000000000001,Debit,Phoenix,ATM,Student,81.0,1.0,1.0,1.0,3
+232.35,Credit,Atlanta,Branch,Engineer,153.0,1.0,0.0,0.0,5
+317.53,Debit,Miami,Online,Engineer,104.0,1.0,0.0,0.0,4
+74.67000000000002,Debit,Indianapolis,ATM,Engineer,283.0,1.0,0.0,0.0,4
+65.00999999999999,Credit,Austin,Online,Doctor,67.0,1.0,1.0,2.0,6
+0.4499999999999602,Debit,Kansas City,Branch,Engineer,172.0,1.0,0.0,2.0,1
+364.13,Debit,Fort Worth,ATM,Doctor,60.99999999999999,1.0,2.0,2.0,6
+340.13,Debit,Mesa,Branch,Student,32.0,3.0,1.0,1.0,2
+15.810000000000002,Debit,Oklahoma City,Branch,Doctor,11.0,4.0,2.0,2.0,2
+222.66,Debit,Detroit,Online,Doctor,88.0,1.0,0.0,2.0,1
+638.24,Debit,Phoenix,Branch,Engineer,64.0,1.0,0.0,0.0,4
+241.21,Debit,Omaha,ATM,Engineer,108.0,1.0,0.0,1.0,4
+171.16,Debit,New York,Online,Retired,42.0,1.0,2.0,0.0,0
+37.650000000000006,Credit,San Jose,Online,Student,109.0,1.0,1.0,1.0,5
+25.77000000000004,Debit,Memphis,Online,Retired,18.000000000000014,1.0,2.0,0.0,0
+789.8,Debit,Jacksonville,ATM,Doctor,94.0,1.0,0.0,2.0,1
+308.85,Credit,Los Angeles,nan,Student,33.0,2.0,1.0,1.0,5
+806.97,Debit,Seattle,Online,Student,11.0,1.0,1.0,1.0,3
+364.81,Debit,Charlotte,Online,Student,53.0,1.0,1.0,1.0,3
+490.82,Debit,Kansas City,ATM,Engineer,114.0,1.0,1.0,2.0,6
+311.28,Debit,Atlanta,Branch,Doctor,198.0,1.0,0.0,1.0,1
+85.03,Debit,San Diego,ATM,Retired,48.000000000000014,1.0,2.0,0.0,0
+307.75,Debit,Detroit,Branch,Doctor,63.0,1.0,2.0,1.0,6
+333.67,Debit,Fort Worth,Online,Engineer,68.0,1.0,0.0,2.0,1
+589.89,Debit,Jacksonville,Branch,Engineer,213.0,3.0,2.0,2.0,2
+372.08,Debit,Houston,Branch,Doctor,63.0,1.0,2.0,2.0,6
+502.9,Credit,Fresno,Online,Student,141.0,1.0,1.0,1.0,5
+103.81,Debit,Oklahoma City,ATM,Doctor,34.0,1.0,0.0,0.0,4
+69.43,Debit,Las Vegas,ATM,Engineer,162.0,1.0,1.0,2.0,6
+110.4,Credit,San Diego,ATM,Doctor,62.0,1.0,2.0,2.0,6
+275.65,Credit,Atlanta,Branch,Engineer,14.0,1.0,1.0,0.0,5
+251.8,Debit,Mesa,ATM,Doctor,102.0,1.0,2.0,2.0,6
+334.07,Debit,New York,Branch,Engineer,200.0,1.0,2.0,0.0,0
+52.44,Debit,Raleigh,Online,Student,87.0,1.0,1.0,0.0,3
+141.37,Debit,Denver,Online,Engineer,77.0,1.0,0.0,1.0,4
+211.7,Credit,Chicago,Online,Doctor,205.0,1.0,0.0,2.0,1
+61.400000000000006,Debit,San Jose,Branch,Engineer,20.0,2.0,0.0,0.0,4
+308.23,Debit,Las Vegas,ATM,Retired,23.0,1.0,2.0,0.0,0
+111.41,Debit,Chicago,Branch,Student,181.0,1.0,1.0,1.0,3
+675.49,Debit,Charlotte,ATM,Retired,159.0,1.0,2.0,1.0,0
+29.72,Debit,San Antonio,ATM,Student,38.0,1.0,1.0,1.0,3
+301.73,Debit,Tucson,Online,Doctor,163.0,1.0,2.0,1.0,6
+294.61,Debit,Omaha,Branch,Retired,74.0,1.0,2.0,0.0,0
+106.43,Credit,Phoenix,ATM,Engineer,164.0,1.0,2.0,2.0,6
+381.52,Debit,Seattle,Online,Doctor,79.0,1.0,0.0,0.0,4
+5.660000000000025,Debit,Fresno,Branch,Engineer,33.0,1.0,0.0,0.0,4
+209.09,Debit,Virginia Beach,ATM,Doctor,203.0,1.0,0.0,2.0,1
+521.81,Debit,Virginia Beach,ATM,Engineer,34.0,1.0,0.0,0.0,4
+588.36,Debit,Charlotte,Online,Engineer,134.0,1.0,0.0,2.0,1
+146.67,Debit,Albuquerque,Online,Student,273.0,1.0,1.0,1.0,3
+176.52,Credit,San Diego,Online,Retired,94.0,5.0,2.0,0.0,2
+57.34,Debit,Atlanta,Online,Student,81.0,1.0,1.0,1.0,3
+294.77,Debit,Philadelphia,Online,Retired,101.0,1.0,2.0,0.0,0
+881.32,nan,El Paso,Online,Engineer,59.0,1.0,0.0,0.0,4
+162.59,Debit,Indianapolis,Branch,Retired,19.0,1.0,2.0,0.0,0
+56.150000000000006,Debit,Nashville,Branch,Doctor,77.0,1.0,0.0,2.0,1
+524.55,Debit,El Paso,ATM,Doctor,175.0,1.0,0.0,2.0,1
+535.4,Debit,San Diego,Branch,Student,110.0,1.0,1.0,1.0,3
+56.84,Debit,Raleigh,ATM,Engineer,185.0,1.0,0.0,0.0,4
+135.94,Debit,Houston,Branch,Retired,258.0,1.0,2.0,0.0,0
+47.099999999999994,Credit,Washington,Branch,Doctor,178.0,1.0,0.0,0.0,4
+124.05000000000001,Credit,Albuquerque,Branch,Doctor,220.0,1.0,2.0,0.0,5
+802.89,Debit,Chicago,ATM,Student,175.0,1.0,1.0,1.0,3
+193.16,Debit,Charlotte,ATM,Retired,109.0,1.0,2.0,0.0,0
+541.52,Credit,Indianapolis,Branch,Engineer,161.0,1.0,0.0,0.0,5
+20.170000000000044,Debit,San Antonio,ATM,Retired,86.0,1.0,2.0,0.0,0
+35.97999999999996,Credit,Nashville,Branch,Doctor,133.0,1.0,0.0,2.0,1
+273.24,Debit,Fresno,Branch,Retired,173.0,1.0,2.0,0.0,0
+663.45,Debit,Albuquerque,ATM,Retired,147.0,1.0,2.0,0.0,0
+343.86,Debit,Charlotte,Branch,Engineer,70.0,1.0,2.0,0.0,0
+69.38,Debit,Detroit,Branch,Doctor,280.0,2.0,2.0,2.0,6
+75.43,Debit,Fresno,ATM,Retired,266.0,1.0,2.0,1.0,0
+414.64,nan,Mesa,Branch,Doctor,74.0,1.0,0.0,0.0,4
+86.79000000000002,Debit,Fort Worth,Branch,Doctor,166.0,1.0,0.0,2.0,1
+14.099999999999966,Debit,Louisville,Branch,Engineer,73.0,1.0,0.0,0.0,4
+63.329999999999984,Credit,Louisville,Branch,Student,124.0,1.0,1.0,1.0,5
+606.27,Debit,Louisville,Branch,Doctor,42.0,1.0,1.0,2.0,6
+4.469999999999999,Debit,Baltimore,Branch,Student,132.0,1.0,1.0,1.0,3
+289.01,Debit,Miami,Online,Retired,96.0,1.0,2.0,0.0,0
+338.69,Debit,Virginia Beach,Branch,Student,169.0,1.0,1.0,1.0,3
+97.73000000000002,Debit,Sacramento,Branch,Doctor,156.0,1.0,2.0,0.0,0
+27.610000000000042,Credit,Fort Worth,ATM,Retired,26.0,1.0,2.0,0.0,5
+284.17,Debit,Memphis,ATM,Retired,189.0,1.0,2.0,0.0,0
+76.20999999999998,Debit,Los Angeles,Branch,Student,69.0,1.0,1.0,1.0,3
+584.51,Debit,Denver,ATM,Retired,76.0,1.0,2.0,0.0,0
+432.18,Debit,Las Vegas,Branch,Student,162.0,1.0,1.0,1.0,3
+134.55,Debit,San Jose,Online,Doctor,165.0,1.0,2.0,2.0,6
+61.66,Debit,Sacramento,ATM,Student,86.0,1.0,1.0,0.0,3
+12.350000000000023,Debit,Fresno,Branch,Student,22.0,1.0,1.0,1.0,3
+213.25,Debit,San Francisco,Branch,Student,63.0,1.0,1.0,1.0,3
+34.93000000000001,Debit,Columbus,Branch,Engineer,72.0,1.0,0.0,0.0,4
+335.68,Debit,Tucson,Online,Student,142.0,1.0,1.0,1.0,3
+423.96,Debit,San Diego,ATM,Doctor,75.0,1.0,0.0,2.0,1
+361.38,Credit,Milwaukee,Online,Retired,71.0,3.0,2.0,0.0,2
+220.82,Debit,Louisville,Branch,Engineer,31.0,1.0,0.0,0.0,4
+717.3599999999999,Credit,nan,Online,Student,138.0,1.0,1.0,1.0,5
+406.12,Debit,Houston,ATM,Doctor,106.0,1.0,0.0,2.0,1
+427.83,Debit,Phoenix,ATM,Engineer,28.999999999999986,1.0,0.0,0.0,4
+416.62,Credit,Baltimore,Online,Student,67.0,1.0,1.0,2.0,5
+21.900000000000034,Debit,Phoenix,ATM,Student,30.0,1.0,1.0,1.0,3
+393.68,Debit,San Diego,ATM,Doctor,141.0,1.0,2.0,2.0,6
+281.91,Debit,Denver,Branch,Student,269.0,1.0,1.0,1.0,3
+239.85,Debit,Tucson,ATM,Retired,50.0,1.0,2.0,1.0,0
+237.84,Debit,Nashville,Branch,Student,16.0,1.0,1.0,2.0,3
+459.29,Credit,Kansas City,Online,Retired,109.0,1.0,2.0,1.0,5
+196.49,Debit,Oklahoma City,Branch,Engineer,65.0,1.0,0.0,0.0,4
+21.22999999999999,Debit,Virginia Beach,ATM,Student,103.0,4.0,1.0,1.0,2
+95.23000000000002,Debit,Denver,Online,Student,60.0,3.0,1.0,1.0,2
+344.87,Debit,Houston,Branch,Retired,25.0,1.0,2.0,0.0,0
+129.62,Credit,San Jose,ATM,Student,124.0,1.0,1.0,1.0,5
+16.53,Debit,Houston,ATM,Student,220.0,1.0,1.0,1.0,3
+277.02,Credit,Denver,ATM,Doctor,227.0,1.0,0.0,2.0,1
+13.02000000000001,Debit,Charlotte,Branch,Doctor,42.0,1.0,2.0,0.0,0
+199.02,Debit,Memphis,ATM,Student,185.0,1.0,1.0,1.0,3
+684.5,Debit,Fort Worth,Branch,Doctor,76.0,1.0,1.0,0.0,4
+45.920000000000016,Debit,Nashville,ATM,Student,23.0,1.0,1.0,1.0,3
+761.73,Debit,Columbus,ATM,Student,27.0,1.0,1.0,1.0,3
+331.38,Debit,Miami,ATM,Engineer,122.0,1.0,0.0,1.0,4
+602.8,Debit,Baltimore,Branch,Retired,173.0,1.0,2.0,0.0,0
+64.12,Credit,Indianapolis,Branch,Doctor,222.0,1.0,2.0,1.0,5
+57.379999999999995,Debit,Kansas City,Online,Student,86.0,1.0,1.0,1.0,3
+94.63999999999999,Credit,New York,ATM,Student,144.0,1.0,1.0,1.0,5
+155.56,Credit,Austin,Branch,Student,64.0,1.0,1.0,1.0,5
+301.39,Credit,Denver,Online,Doctor,104.0,1.0,0.0,2.0,1
+136.31,Debit,Nashville,Online,Retired,65.0,1.0,2.0,0.0,0
+4.389999999999986,Debit,Philadelphia,ATM,Student,63.0,1.0,1.0,1.0,3
+429.25,Debit,Seattle,Online,Engineer,107.0,1.0,1.0,0.0,4
+138.54000000000002,Credit,Austin,Branch,Engineer,93.0,1.0,2.0,2.0,6
+33.03,Debit,Washington,Branch,Student,28.0,1.0,1.0,1.0,3
+76.38999999999999,Debit,Sacramento,Online,Doctor,80.0,1.0,1.0,2.0,1
+25.319999999999993,Debit,Oklahoma City,ATM,Student,25.0,1.0,1.0,1.0,3
+330.91,Debit,Kansas City,ATM,Engineer,28.0,1.0,0.0,0.0,4
+153.55,Debit,Denver,Online,Doctor,16.0,1.0,0.0,0.0,4
+217.61,Debit,Omaha,Online,Student,120.0,1.0,1.0,1.0,3
+131.69,Credit,Denver,Branch,Engineer,59.0,1.0,2.0,0.0,5
+68.49000000000001,Debit,Nashville,Online,Retired,49.0,1.0,2.0,0.0,0
+470.62,Debit,Tucson,Branch,Doctor,127.0,1.0,2.0,2.0,6
+385.35,Debit,Miami,Branch,Doctor,269.0,1.0,0.0,0.0,4
+74.72,Debit,Phoenix,Online,Student,132.0,1.0,1.0,1.0,3
+352.03,Credit,Phoenix,Online,Student,219.0,1.0,1.0,0.0,5
+275.87,Debit,Seattle,ATM,Student,112.0,1.0,1.0,1.0,3
+90.94,Credit,Colorado Springs,ATM,Retired,56.0,1.0,2.0,0.0,5
+206.25,Debit,Baltimore,ATM,Retired,56.0,1.0,2.0,0.0,0
+116.75999999999999,Debit,Philadelphia,ATM,Engineer,212.0,1.0,2.0,0.0,0
+91.5,Debit,Omaha,ATM,Doctor,77.0,1.0,0.0,1.0,4
+489.31,Debit,Louisville,Branch,Engineer,36.0,1.0,0.0,0.0,4
+414.49,Credit,Phoenix,Online,Doctor,108.0,1.0,2.0,2.0,6
+315.13,Debit,Omaha,Branch,Engineer,143.0,1.0,1.0,0.0,4
+28.379999999999995,Debit,Tucson,Branch,Doctor,260.0,1.0,0.0,2.0,1
+456.05,Debit,Detroit,Branch,Doctor,20.0,1.0,2.0,2.0,6
+277.22,Debit,Kansas City,Branch,Doctor,41.0,1.0,0.0,2.0,1
+54.84,Debit,Kansas City,Online,Retired,124.0,1.0,2.0,0.0,0
+29.920000000000044,Credit,Denver,Online,Doctor,63.0,1.0,2.0,0.0,5
+133.06,Debit,Las Vegas,Online,Engineer,143.0,1.0,0.0,2.0,1
+14.340000000000003,Credit,Memphis,Online,Retired,24.0,1.0,2.0,0.0,5
+468.32,Debit,Fresno,Online,Retired,152.0,1.0,2.0,0.0,0
+245.62,Debit,San Antonio,Branch,Student,127.0,1.0,1.0,1.0,3
+83.6,Debit,San Jose,ATM,Doctor,192.0,1.0,0.0,2.0,1
+331.22,Credit,Oklahoma City,Branch,Doctor,161.0,1.0,2.0,2.0,6
+57.49000000000001,Credit,Detroit,Online,Student,177.0,1.0,1.0,1.0,5
+157.56,Debit,Indianapolis,Branch,Doctor,159.0,1.0,0.0,0.0,4
+230.3,Debit,Colorado Springs,Online,Engineer,24.0,1.0,0.0,2.0,1
+305.92,Debit,El Paso,ATM,Retired,88.0,1.0,2.0,1.0,0
+116.32999999999998,Debit,Fresno,Branch,Student,144.0,1.0,1.0,1.0,3
+537.71,Credit,Mesa,Online,Student,175.0,1.0,1.0,1.0,5
+538.17,Credit,Washington,Branch,Engineer,252.0,1.0,1.0,0.0,5
+219.44,Debit,Washington,Online,Engineer,23.0,1.0,0.0,0.0,4
+61.620000000000005,Debit,Miami,Online,Doctor,19.0,1.0,2.0,2.0,6
+58.77000000000001,Debit,Memphis,Online,Engineer,191.0,1.0,1.0,0.0,4
+538.13,Debit,nan,ATM,Retired,165.0,1.0,2.0,0.0,0
+177.05,Debit,Philadelphia,Branch,Student,235.0,1.0,1.0,0.0,3
+403.01,Debit,Washington,Online,Doctor,286.0,3.0,2.0,2.0,2
+719.76,Debit,San Francisco,Branch,Student,190.0,1.0,1.0,1.0,3
+163.22,Debit,Miami,Online,Student,217.0,1.0,1.0,1.0,3
+242.85,Debit,nan,Online,Engineer,93.0,1.0,0.0,0.0,4
+291.22,Credit,Baltimore,Online,Engineer,100.0,1.0,0.0,0.0,5
+56.52000000000001,Debit,Omaha,ATM,Engineer,152.0,1.0,0.0,0.0,4
+195.8,Debit,Raleigh,Online,Doctor,186.0,1.0,0.0,2.0,1
+66.75999999999999,Credit,Austin,Branch,Doctor,44.0,1.0,0.0,1.0,1
+190.9,Debit,nan,Online,Student,40.0,1.0,1.0,1.0,3
+106.99000000000001,Debit,Omaha,Branch,Engineer,152.0,1.0,0.0,0.0,4
+655.81,Debit,Omaha,ATM,Retired,164.0,2.0,2.0,0.0,0
+107.1,Credit,Philadelphia,Online,Student,175.0,1.0,1.0,1.0,5
+79.92000000000002,Debit,Miami,ATM,Engineer,274.0,2.0,0.0,2.0,1
+430.83,Debit,Los Angeles,Branch,Student,292.0,1.0,1.0,1.0,3
+235.34,Debit,Washington,Branch,Student,68.0,1.0,1.0,1.0,3
+86.35,Credit,Indianapolis,Branch,Retired,24.0,1.0,2.0,1.0,5
+337.99,Debit,Colorado Springs,ATM,Doctor,115.0,1.0,2.0,2.0,6
+577.13,Credit,San Jose,Branch,Engineer,66.0,1.0,0.0,0.0,5
+213.33,Debit,Omaha,ATM,Retired,161.0,1.0,2.0,0.0,0
+54.52000000000001,Debit,Indianapolis,Branch,Doctor,164.0,1.0,0.0,0.0,4
+883.92,Credit,Tucson,Online,Retired,129.0,1.0,2.0,0.0,5
+69.80000000000001,Credit,New York,Branch,Student,138.0,1.0,1.0,1.0,5
+768.94,Debit,Indianapolis,Branch,Retired,53.0,1.0,2.0,0.0,0
+179.62,Debit,Tucson,Online,Student,119.0,1.0,1.0,1.0,3
+425.91,Debit,Jacksonville,ATM,Student,47.0,1.0,1.0,1.0,3
+263.34,Debit,Denver,ATM,Retired,55.0,1.0,2.0,0.0,0
+113.03,Credit,Tucson,Online,Doctor,12.0,1.0,0.0,0.0,4
+11.02000000000001,Debit,Austin,Online,Doctor,42.0,1.0,0.0,0.0,4
+865.17,Debit,Houston,Branch,Student,161.0,1.0,1.0,2.0,3
+152.0,Debit,Albuquerque,ATM,Engineer,63.0,1.0,2.0,0.0,0
+270.39,Debit,Jacksonville,ATM,Student,104.0,1.0,1.0,1.0,3
+246.41,Debit,Detroit,ATM,Retired,23.0,1.0,2.0,1.0,0
+336.84,Debit,nan,ATM,Student,100.0,1.0,1.0,0.0,3
+261.45,Credit,Oklahoma City,Online,Engineer,96.0,1.0,0.0,0.0,5
+99.98000000000002,Credit,Washington,Online,Retired,152.0,1.0,2.0,0.0,5
+400.69,Debit,Las Vegas,Online,Engineer,26.0,1.0,0.0,2.0,1
+411.47,Debit,Fort Worth,ATM,Student,120.0,1.0,1.0,1.0,3
+204.63,Debit,Las Vegas,Online,Engineer,92.0,1.0,2.0,2.0,6
+421.56,Debit,San Jose,Online,Engineer,144.0,1.0,2.0,2.0,6
+193.38,Debit,Memphis,ATM,Student,285.0,1.0,1.0,1.0,3
+377.04,Debit,Chicago,ATM,Engineer,64.0,1.0,0.0,0.0,4
+54.099999999999994,Credit,Boston,Branch,Engineer,17.0,1.0,1.0,1.0,5
+18.099999999999994,Debit,Louisville,ATM,Retired,66.0,1.0,2.0,0.0,0
+408.62,Credit,Fort Worth,Online,Engineer,159.0,1.0,0.0,0.0,5
+162.1,Debit,Baltimore,Branch,Doctor,221.0,1.0,2.0,2.0,6
+165.31,Debit,Boston,ATM,Doctor,28.0,1.0,0.0,0.0,4
+267.48,Debit,Albuquerque,ATM,Student,159.0,2.0,1.0,1.0,3
+856.9,Debit,New York,Branch,Engineer,150.0,1.0,0.0,2.0,1
+433.9,Debit,nan,Online,Doctor,37.000000000000014,1.0,2.0,2.0,6
+271.22,Credit,Louisville,ATM,Doctor,87.0,1.0,0.0,0.0,4
+307.68,Credit,Detroit,Online,Retired,162.0,1.0,2.0,0.0,5
+348.17,Debit,El Paso,ATM,Student,181.0,1.0,1.0,1.0,3
+557.78,Credit,Phoenix,Branch,Student,102.0,1.0,1.0,1.0,5
+325.6,Debit,Dallas,ATM,Doctor,88.0,1.0,2.0,2.0,6
+235.83,Credit,Memphis,Online,Engineer,169.0,1.0,2.0,0.0,5
+603.54,Debit,Albuquerque,Online,Doctor,26.0,1.0,0.0,2.0,1
+270.25,Debit,Tucson,ATM,Engineer,42.0,1.0,0.0,0.0,4
+123.38,Debit,Sacramento,Online,Doctor,40.0,1.0,2.0,2.0,6
+577.12,Debit,Virginia Beach,ATM,Engineer,69.0,1.0,0.0,0.0,4
+92.24000000000001,Debit,Philadelphia,Branch,Engineer,93.0,1.0,2.0,0.0,0
+856.21,Credit,Colorado Springs,Branch,Doctor,109.0,1.0,0.0,2.0,1
+251.54,Debit,Tucson,Branch,Doctor,177.0,1.0,0.0,1.0,1
+28.629999999999995,Debit,San Diego,Branch,Retired,146.0,1.0,2.0,0.0,0
+185.97,Debit,Denver,Online,Student,19.0,1.0,1.0,1.0,3
+243.08,Credit,Jacksonville,Online,Student,93.0,1.0,1.0,1.0,5
+12.180000000000007,Debit,New York,Branch,Retired,77.0,1.0,2.0,0.0,0
+232.12,Debit,Omaha,ATM,Engineer,51.0,1.0,0.0,0.0,4
